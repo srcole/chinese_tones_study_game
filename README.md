@@ -24,7 +24,7 @@ The CSV is read at startup. Rows missing required fields or with unparseable pin
 
 ## Character review
 
-Choose **Review characters** on the home page, then select a pinyin syllable such as `she`, `bai`, or `ba`. The review lists individual characters by tones 1–4 and neutral tone (5/0), using all priorities independently of the game filter. It also extracts characters from multi-character words by aligning each Han character with its parsed pinyin syllable. Mixed-script or unaligned entries are excluded from this index.
+Choose **Review characters** on the home page, then select a pinyin syllable such as `she`, `bai`, or `ba`. The review lists individual characters by tones 1–4 and neutral tone (5/0), using a maximum priority of **5** by default. Its independent priority selector filters both characters and their source words; increasing it adds more vocabulary. It also extracts characters from multi-character words by aligning each Han character with its parsed pinyin syllable. Mixed-script or unaligned entries are excluded from this index.
 
 Characters are deduplicated within each pronunciation. Context-dependent readings are preserved across tone groups; expand **Source words** to see the supporting Chinese, pinyin, and English. These are readings found in the CSV, not a complete dictionary of all possible pronunciations.
 

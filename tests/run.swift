@@ -23,5 +23,8 @@ let speechResult = context.evaluateScript(try String(contentsOfFile: "tests/spee
 // Compile the browser entry point without requiring a DOM.
 context.setObject(try String(contentsOfFile: "app.js", encoding: .utf8), forKeyedSubscript: "appSource" as NSString)
 context.evaluateScript("new Function(appSource)")
+context.setObject(try String(contentsOfFile: "index.html", encoding: .utf8), forKeyedSubscript: "htmlSource" as NSString)
+let appResult = context.evaluateScript(try String(contentsOfFile: "tests/app.test.js", encoding: .utf8))
 if failed { exit(1) }
 print(speechResult?.toString() ?? "No speech result")
+print(appResult?.toString() ?? "No app result")

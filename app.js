@@ -29,7 +29,10 @@
           const button=document.createElement('button');button.type='button';button.className='review-audio '+cls;button.textContent=text;button.setAttribute('aria-label',label);button.title=label;
           button.disabled=!speech.enabled||!speech.supported;button.addEventListener('click',()=>speech.speakList(texts));return button;
         };
-        const card=document.createElement('article'),character=audioButton(entry.character,`Listen to ${entry.character}`,[entry.character],'review-hanzi');card.className='review-character';character.lang='zh-Hans';card.append(character);
+        const card=document.createElement('article');
+        const character=tone==='5'?document.createElement('p'):audioButton(entry.character,`Listen to ${entry.character}`,[entry.character],'review-hanzi');
+        if(tone==='5'){character.className='review-hanzi';character.textContent=entry.character;}
+        card.className='review-character';character.lang='zh-Hans';card.append(character);
         card.append(audioButton('Listen to all words',`Listen to all source words for ${entry.character}`,entry.sources.map(source=>source.chinese),'text-button'));
         const details=document.createElement('details'),summary=document.createElement('summary');summary.textContent=`Source words (${entry.sources.length})`;details.append(summary);
         const list=document.createElement('ul');
@@ -55,11 +58,22 @@
       }
       section.append(cards);$('review-groups').append(section);
     }
-    $('review-count').textContent=`${unique.size} distinct characters for “${base}”.`;
+    $('review-count').textContent=base?`${unique.size} distinct characters for “${base}”.`:'No characters found at this priority. Try a higher maximum.';
+  }
+  function updateReviewFilter(){
+    const previous=$('review-pinyin').value;
+    reviewIndex=E.buildReviewIndex(words.filter(word=>word.priority<=Number($('review-priority').value)));
+    $('review-pinyin').replaceChildren();
+    for(const base of Array.from(reviewIndex.keys()).sort((a,b)=>a.localeCompare(b))){const option=document.createElement('option');option.value=base;option.textContent=base;$('review-pinyin').append(option);}
+    if(reviewIndex.has(previous))$('review-pinyin').value=previous;
+    else if(reviewIndex.has('ba'))$('review-pinyin').value='ba';
+    $('review-pinyin').disabled=reviewIndex.size===0;
+    renderReview();
   }
   $('open-review').addEventListener('click',()=>{speech.stop();show('review');renderReview();$('review-pinyin').focus();});
   $('review-home').addEventListener('click',()=>{speech.stop();show('setup');$('open-review').focus();});
   $('review-pinyin').addEventListener('change',renderReview);
+  $('review-priority').addEventListener('change',updateReviewFilter);
   function updateCount(){const n=words.filter(w=>w.priority<=Number($('priority').value)).length;$('word-count').textContent=`${n.toLocaleString()} words ready to practice. Shuffled each session.`;$('start').disabled=!n;}
   function nextWord(){
     speech.stop();$('replay').hidden=true;
@@ -120,12 +134,10 @@
   for(const id of ['settings','again'])$(id).addEventListener('click',()=>{speech.stop();show('setup');$('priority').focus();});
   fetch('./chinese_word_database_20260909.csv').then(response=>{if(!response.ok)throw new Error(`HTTP ${response.status}`);return response.text();}).then(text=>{
     const prepared=E.prepare(E.parseCSV(text));words=prepared.words;
-    reviewIndex=E.buildReviewIndex(words);
-    for(const base of Array.from(reviewIndex.keys()).sort((a,b)=>a.localeCompare(b))){const option=document.createElement('option');option.value=base;option.textContent=base;$('review-pinyin').append(option);}
-    if(reviewIndex.has('ba'))$('review-pinyin').value='ba';
-    $('open-review').disabled=reviewIndex.size===0;
-    const priorities=[...new Set([2,...words.map(w=>w.priority)])].sort((a,b)=>a-b);
-    for(const p of priorities){const option=document.createElement('option');option.value=p;option.textContent=p;$('priority').append(option);}
+    const priorities=[...new Set([2,5,...words.map(w=>w.priority)])].sort((a,b)=>a-b);
+    for(const id of ['priority','review-priority'])$(id).replaceChildren();
+    for(const p of priorities)for(const id of ['priority','review-priority']){const option=document.createElement('option');option.value=p;option.textContent=p;$(id).append(option);}
+    $('review-priority').value='5';$('review-priority').disabled=false;updateReviewFilter();$('open-review').disabled=words.length===0;
     $('priority').value='2';$('priority').disabled=false;updateCount();
     if(prepared.skipped)$('data-note').textContent=`${prepared.skipped} entries excluded because their pronunciation or required fields could not be parsed reliably.`;
   }).catch(error=>{$('word-count').textContent='Could not load the word collection. Serve this folder with a local web server, then reload.';$('data-note').textContent=error.message;});

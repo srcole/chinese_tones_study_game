@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#173d35">
   <title>Tone Garden · Chinese practice</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="engine.js" defer></script>
-  <script src="speech.js" defer></script>
-  <script src="app.js" defer></script>
+  <link rel="stylesheet" href="style.css?v=20260909-review-default-5">
+  <script src="engine.js?v=20260909-review-default-5" defer></script>
+  <script src="speech.js?v=20260909-review-default-5" defer></script>
+  <script src="app.js?v=20260909-review-default-5" defer></script>
 </head>
 <body>
   <main>
@@ -31,12 +31,15 @@
     <section id="review" class="card" hidden>
       <div class="toolbar"><span>CHARACTER REVIEW</span><button id="review-home" type="button" class="text-button">Back to home</button></div>
       <h1>One sound, many tones.</h1>
-      <p class="intro">Explore individual characters from the full word collection, including characters found inside longer words.</p>
+      <p class="intro">Explore individual characters, including characters found inside longer words.</p>
+      <label for="review-priority">Maximum word priority</label>
+      <div class="setting"><select id="review-priority" disabled><option value="5" selected>5</option></select><span>Filters characters and their source words.</span></div>
+      <p class="muted">Includes every priority up to this number.</p>
       <label for="review-pinyin">Pinyin syllable (without a tone)</label>
       <select id="review-pinyin" aria-describedby="review-note"></select>
-      <p id="review-note" class="muted">Uses all priorities. Readings follow the source words, so a character may appear under more than one tone. Expand a character’s source words to see its pronunciation in context.</p>
+      <p id="review-note" class="muted">Readings follow the filtered source words, so a character may appear under more than one tone. Expand a character’s source words to see its pronunciation in context.</p>
       <p id="review-count" class="muted" role="status"></p>
-      <p class="muted">Click a character or source word to listen, or choose “Listen to all words.” Enable sound above for playback. A character spoken alone may use a different reading; source words provide context.</p>
+      <p class="muted">Click a character in tones 1–4 or a source word to listen, or choose “Listen to all words.” Neutral-tone characters are heard only in source words. Enable sound above for playback. A character spoken alone may use a different reading; source words provide context.</p>
       <div id="review-groups"></div>
     </section>
     <section id="game" class="card" hidden>
