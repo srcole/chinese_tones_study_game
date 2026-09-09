@@ -1,9 +1,68 @@
 (() => {
   const $=id=>document.getElementById(id),E=ToneEngine;
   let words=[],deck=[],index=0,correct=0,revealed=false;
-  function show(id){for(const section of ['setup','game','complete'])$(section).hidden=section!==id;}
+  let reviewIndex=new Map();
+  const speech=new WordSpeech(message=>{$('speech-status').textContent=message;});
+  try{$('sound').checked=localStorage.getItem('tone-garden-sound')!=='off';}catch{}
+  speech.setEnabled($('sound').checked);$('sound').disabled=!speech.supported;
+  $('sound').addEventListener('change',()=>{
+    speech.setEnabled($('sound').checked);$('replay').disabled=!speech.enabled||!speech.supported;
+    document.querySelectorAll('.review-audio').forEach(button=>{button.disabled=!speech.enabled||!speech.supported;});
+    try{localStorage.setItem('tone-garden-sound',speech.enabled?'on':'off');}catch{}
+  });
+  $('replay').addEventListener('click',()=>{if(revealed && !$('game').hidden)speech.speak(deck[index].chinese);});
+  window.addEventListener('pagehide',()=>speech.stop());
+  function show(id){for(const section of ['setup','game','complete','review'])$(section).hidden=section!==id;}
+  function renderReview(){
+    speech.stop();
+    const base=$('review-pinyin').value,tones=reviewIndex.get(base);
+    $('review-groups').replaceChildren();const unique=new Set();
+    for(const tone of ['1','2','3','4','5']){
+      const section=document.createElement('section');section.className='review-tone';
+      const heading=document.createElement('h2');heading.textContent=tone==='5'?`${base}5 · Neutral tone (0 or 5)`:`${base}${tone} · Tone ${tone}`;section.append(heading);
+      const entries=Array.from(tones?.get(tone)?.values() || []).sort((a,b)=>a.character.localeCompare(b.character,'zh'));
+      if(!entries.length){const empty=document.createElement('p');empty.className='muted';empty.textContent='No characters found in the word collection.';section.append(empty);}
+      const cards=document.createElement('div');cards.className='review-characters';
+      for(const entry of entries){
+        unique.add(entry.character);
+        const audioButton=(text,label,texts,cls='')=>{
+          const button=document.createElement('button');button.type='button';button.className='review-audio '+cls;button.textContent=text;button.setAttribute('aria-label',label);button.title=label;
+          button.disabled=!speech.enabled||!speech.supported;button.addEventListener('click',()=>speech.speakList(texts));return button;
+        };
+        const card=document.createElement('article'),character=audioButton(entry.character,`Listen to ${entry.character}`,[entry.character],'review-hanzi');card.className='review-character';character.lang='zh-Hans';card.append(character);
+        card.append(audioButton('Listen to all words',`Listen to all source words for ${entry.character}`,entry.sources.map(source=>source.chinese),'text-button'));
+        const details=document.createElement('details'),summary=document.createElement('summary');summary.textContent=`Source words (${entry.sources.length})`;details.append(summary);
+        const list=document.createElement('ul');
+        for(const source of entry.sources){
+          const item=document.createElement('li');
+          const wordButton=audioButton('',`Listen to ${source.chinese}`,[source.chinese],'text-button');wordButton.lang='zh-Hans';item.append(wordButton);
+          const pinyin=document.createElement('span');pinyin.lang='zh-Latn';
+          const appendPart=(parent,text,matched)=>{
+            if(!matched){parent.append(document.createTextNode(text));return;}
+            const highlight=document.createElement('u');highlight.className='matching-character';highlight.textContent=text;parent.append(highlight);
+          };
+          Array.from(source.chinese).forEach((character,i)=>{
+            const matched=character===entry.character;
+            appendPart(wordButton,character,matched);
+            if(i)pinyin.append(document.createTextNode(' '));
+            appendPart(pinyin,E.accentedSyllable(source.syllables[i]),matched);
+          });
+          item.append(pinyin);
+          const english=document.createElement('span');english.textContent=source.english;english.lang='en';item.append(english);
+          list.append(item);
+        }
+        details.append(list);card.append(details);cards.append(card);
+      }
+      section.append(cards);$('review-groups').append(section);
+    }
+    $('review-count').textContent=`${unique.size} distinct characters for “${base}”.`;
+  }
+  $('open-review').addEventListener('click',()=>{speech.stop();show('review');renderReview();$('review-pinyin').focus();});
+  $('review-home').addEventListener('click',()=>{speech.stop();show('setup');$('open-review').focus();});
+  $('review-pinyin').addEventListener('change',renderReview);
   function updateCount(){const n=words.filter(w=>w.priority<=Number($('priority').value)).length;$('word-count').textContent=`${n.toLocaleString()} words ready to practice. Shuffled each session.`;$('start').disabled=!n;}
   function nextWord(){
+    speech.stop();$('replay').hidden=true;
     if(index===deck.length){show('complete');$('result').textContent=`You got ${correct} of ${deck.length} words correct (${Math.round(correct/deck.length*100)}%).`;$('again').focus();return;}
     revealed=false;$('word').textContent=deck[index].chinese;$('progress').textContent=`Word ${index+1} of ${deck.length}`;
     $('progress-bar').max=deck.length;$('progress-bar').value=index;
@@ -51,15 +110,20 @@
     addWordDetails(feedback,word);
     $('score').textContent=`${correct} correct · ${index+1} answered`;$('progress-bar').value=index+1;
     $('next').textContent=index+1===deck.length?'See results →':'Next word →';$('next').hidden=false;$('next').focus();
+    $('replay').hidden=false;$('replay').disabled=!speech.enabled||!speech.supported;speech.speak(word.chinese);
   }
   $('priority').addEventListener('change',updateCount);
   $('start-form').addEventListener('submit',event=>{event.preventDefault();deck=E.shuffle(words.filter(w=>w.priority<=Number($('priority').value)));if(!deck.length)return;index=0;correct=0;show('game');nextWord();});
   $('answer-form').addEventListener('submit',event=>{event.preventDefault();if($('answer').value.trim())reveal();});
   $('skip').addEventListener('click',()=>reveal(true));
   $('next').addEventListener('click',()=>{index++;nextWord();});
-  for(const id of ['settings','again'])$(id).addEventListener('click',()=>{show('setup');$('priority').focus();});
+  for(const id of ['settings','again'])$(id).addEventListener('click',()=>{speech.stop();show('setup');$('priority').focus();});
   fetch('./chinese_word_database_20260909.csv').then(response=>{if(!response.ok)throw new Error(`HTTP ${response.status}`);return response.text();}).then(text=>{
     const prepared=E.prepare(E.parseCSV(text));words=prepared.words;
+    reviewIndex=E.buildReviewIndex(words);
+    for(const base of Array.from(reviewIndex.keys()).sort((a,b)=>a.localeCompare(b))){const option=document.createElement('option');option.value=base;option.textContent=base;$('review-pinyin').append(option);}
+    if(reviewIndex.has('ba'))$('review-pinyin').value='ba';
+    $('open-review').disabled=reviewIndex.size===0;
     const priorities=[...new Set([2,...words.map(w=>w.priority)])].sort((a,b)=>a-b);
     for(const p of priorities){const option=document.createElement('option');option.value=p;option.textContent=p;$('priority').append(option);}
     $('priority').value='2';$('priority').disabled=false;updateCount();

@@ -69,5 +69,35 @@ globalThis.ToneEngine = (() => {
     return {words,skipped};
   }
   function shuffle(words){const deck=[...words];for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];}return deck;}
-  return {parseCSV,parsePinyin,prepare,grade,shuffle};
+  function buildReviewIndex(words){
+    const index=new Map();
+    for(const word of words){
+      const characters=Array.from(word.chinese);
+      // Only align words made entirely of Han characters, one per syllable.
+      if(characters.length!==word.syllables.length || !characters.every(c=>/\p{Script=Han}/u.test(c)))continue;
+      characters.forEach((character,i)=>{
+        const {base,tone}=word.syllables[i];
+        if(!index.has(base))index.set(base,new Map());
+        const tones=index.get(base);
+        if(!tones.has(tone))tones.set(tone,new Map());
+        const group=tones.get(tone);
+        if(!group.has(character))group.set(character,{character,sources:[]});
+        const sources=group.get(character).sources;
+        if(!sources.some(s=>s.chinese===word.chinese && s.pinyin===word.pinyin))sources.push({chinese:word.chinese,pinyin:word.pinyin,english:word.english,syllables:word.syllables});
+      });
+    }
+    return index;
+  }
+  function accentedSyllable({base,tone}){
+    if(tone==='5')return base;
+    const marks={'1':'\u0304','2':'\u0301','3':'\u030c','4':'\u0300'};
+    let position=base.indexOf('a');
+    if(position<0)position=base.indexOf('e');
+    if(position<0 && base.includes('ou'))position=base.indexOf('o');
+    if(position<0)for(let i=0;i<base.length;i++)if(/[aeiouü]/.test(base[i]))position=i;
+    if(position<0)position=base.indexOf('m')>=0?base.indexOf('m'):base.indexOf('n');
+    if(position<0)return base;
+    return (base.slice(0,position+1)+marks[tone]+base.slice(position+1)).normalize('NFC');
+  }
+  return {parseCSV,parsePinyin,prepare,grade,shuffle,buildReviewIndex,accentedSyllable};
 })();
