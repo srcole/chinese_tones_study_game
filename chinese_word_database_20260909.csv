@@ -4,7 +4,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3,白,bái,white,1,,-,,,,,,,,墙面刷成白色显得很干净,qiáng miàn shuā chéng bái sè xiǎn de hěn gān jìng,The wall looks clean painted white
 4,百分之,bǎi fēn zhī,percent,1,2,百,one hundred,分,part,之一,one of,,,这件衣服打了百分之五十的折,zhè jiàn yī fú dǎ le bǎi fēn zhī wǔ shí de zhé,this clothing is fifty percent off
 5,白色,bái sè,white,1,,-,,,,,,,,她穿着一条白色的裙子。,tā chuān zhe yī tiáo bái sè de qún zi.,She is wearing a white dress.
-6,包括,bāo ​kuò,to include,1,,-,,,,,,,,这次旅行费用包括机票和酒店,Zhè cì lǚxíng fèiyòng bāokuò jīpiào hé jiǔdiàn,The travel cost this time includes flights and hotels
+6,包括,bāo kuò,to include,1,,-,,,,,,,,这次旅行费用包括机票和酒店,Zhè cì lǚxíng fèiyòng bāokuò jīpiào hé jiǔdiàn,The travel cost this time includes flights and hotels
 7,保险,bǎo xiǎn,insurance,1,1,保护,protect,危险,danger,,,,,没有保险看病很贵,Méiyǒu bǎoxiǎn kànbìng hěn guì,It is expensive to see a doctor without insurance
 8,北京,Běijīng,Beijing,1,1,北,north,京,capital city,,,,,北京有许多历史古迹比如故宫,Běijīng yǒu xǔ duō lì shǐ gǔ jì bǐ rú gù gōng,Beijing has many historic sites such as the Forbidden City
 9,本地,běn dì,local,1,2,本来,original,地,land,,,,,我更喜欢买本地水果,Wǒ gèng xǐhuān mǎi běndì shuǐguǒ,I prefer to buy local fruit
@@ -20,7 +20,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 19,博主,bó zhǔ,blogger;vlogger,1,3,博士,PhD,主,owner,,,,,我关注了一个美食博主,Wǒ guānzhù le yīgè měishí bózhǔ,I follow a food blogger
 20,不小心,bù xiǎo xīn,accidentally,1,2,不,not,小心,careful,,,,,我不小心把水洒在桌子上了,Wǒ bù xiǎoxīn bǎ shuǐ sǎ zài zhuōzi shàng le,I accidentally spilled water on the table
 21,不在乎,bù zài hū,don't care,1,4,不,not,在,at,几乎,almost,,,我不在乎别人怎么说,Wǒ bù zàihu biérén zěnme shuō,I don't care what others say
-22,菜单,cài​ dān,menu,1,3,菜,food,单,list,,,,,请给我一份菜单,qǐng gěi wǒ yī fèn cài dān,please give me a menu
+22,菜单,cài dān,menu,1,3,菜,food,单,list,,,,,请给我一份菜单,qǐng gěi wǒ yī fèn cài dān,please give me a menu
 23,菜花,cài huā,cauliflower,1,2,菜,vegetable,花,flower,,,,,我家院子里有菜花,Wǒ jiā yuànzi lǐ yǒu càihuā,There are cauliflowers in my yard
 24,草莓,cǎo méi,strawberry,1,2,草,grass,莓,berry,,,,,她喜欢草莓味的冰淇淋,tā xǐ huān cǎo méi wèi de bīng qí lín,she likes strawberry flavored ice cream
 25,层,céng,layer;floor,1,,-,,,,,,,,我住在五层,Wǒ zhù zài wǔ céng,I live on the fifth floor
@@ -52,7 +52,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 51,大约,dà yuē,about;approximately,1,,-,,,,,,,,我大约五点到,Wǒ dàyuē wǔ diǎn dào,I will arrive around five
 52,大众点评,dà zhòng diǎn píng,Chinese Yelp,1,4,大众,the masses,点评,point by point commentary,,,,,我们在大众点评上找了一家猫咖,wǒmen zài dàzhòng diǎnpíng shàng zhǎole yìjiā māo kā,We found a cat café on Dianping
 53,袋子,dài zi,bag,1,,-,,,,,,,,请给我一个塑料袋子,qǐng gěi wǒ yī gè sù liào dài zi,Please give me a plastic bag
-54,担心,dān​ xīn,anxious;worried,1,2,负担,burden,心,heart,,,,,我担心明天会下雨,Wǒ dānxīn míngtiān huì xiàyǔ,I am worried that it will rain tomorrow
+54,担心,dān xīn,anxious;worried,1,2,负担,burden,心,heart,,,,,我担心明天会下雨,Wǒ dānxīn míngtiān huì xiàyǔ,I am worried that it will rain tomorrow
 55,登出,dēng chū,log out,1,2,登记,to register,出,to go out,,,,,记得登出账号,Jìdé dēngchū zhànghào,Remember to log out of your account
 56,登录,dēng lù,log in,1,4,登记,to register,记录,to record,,,,,登录账号才能看,Dēnglù zhànghào cái néng kàn,You need to log in to view
 57,弟弟,dì di,younger brother,1,,-,,,,,,,,我弟弟性格很活泼,wǒ dì di xìng gé hěn huó pō,My younger brother is very lively
@@ -67,9 +67,9 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 66,订阅,dìng yuè,to subscribe;subscription,1,2,预订,to book,阅读,to read,,,,,我订阅了这个频道,Wǒ dìngyuè le zhège píndào,I subscribed to this channel
 67,洞,dòng,hole,1,,-,,,,,,,,墙上有一个小洞,qiáng shàng yǒu yī gè xiǎo dòng,there is a small hole in the wall
 68,动词,dòng cí,verb,1,1,动,move,词,word,,,,,跑是一个常见的动词,pǎo shì yī gè cháng jiàn de dòng cí,run is a common verb
-69,动物,dòng ​wù,animal,1,2,运动,to move,物,thing,,,,,动物园里有很多动物,dòng wù yuán lǐ yǒu hěn duō dòng wù,there are many animals in the zoo
+69,动物,dòng wù,animal,1,2,运动,to move,物,thing,,,,,动物园里有很多动物,dòng wù yuán lǐ yǒu hěn duō dòng wù,there are many animals in the zoo
 70,东西,dōng xī,thing;stuff,1,3,东,east,西,west,,,,,我买了一些东西,wǒ mǎi le yī xiē dōng xī,I bought some things
-71,豆腐,dòu​ fu,tofu,1,2,豆,bean,腐烂,rot,,,,,她做了一碗豆腐汤,tā zuò le yī wǎn dòu fǔ tāng,she made a bowl of tofu soup
+71,豆腐,dòu fu,tofu,1,2,豆,bean,腐烂,rot,,,,,她做了一碗豆腐汤,tā zuò le yī wǎn dòu fǔ tāng,she made a bowl of tofu soup
 72,豆浆,dòu jiāng,soy milk,1,3,豆,bean,浆,pulp,,,,,早上我喝一杯豆浆,zǎo shàng wǒ hē yī bēi dòu jiāng,I drink a cup of soy milk in the morning
 73,堵车,dǔ chē,traffic jam,1,2,堵塞,blockage,车,car,,,,,我们在高速公路上堵车了,Wǒmen zài gāosù gōnglù shàng dǔchē le,We got stuck in traffic on the highway
 74,肚子,dù zi,stomach,1,,-,,,,,,,,我肚子疼,可能吃坏了,wǒ dù zi téng
@@ -105,7 +105,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 104,公共汽车,gōng gòng qì chē,bus,1,2,公共,public,汽车,car,,,,,我们坐公共汽车去市中心,wǒ men zuò gōng gòng qì chē qù shì zhōng xīn,we took a bus to the city center
 105,公交车,gōng jiāo chē,bus,1,2,公共,public,交通,transportation,车,vehicle,,,我每天坐公交车上班。,wǒ měi tiān zuò gōng jiāo chē shàng bān.,I take the bus to work every day.
 106,工具,gōng jù,tool,1,4,工作,work,具体,specific,,,,,这些工具要放回工具箱里。,zhè xiē gōng jù yào fàng huí gōng jù xiāng lǐ.,These tools should be put back in the toolbox.
-107,公里,gōng​ lǐ,kilometer,1,3,公,public,哪里,where,,,,,学校离这里五公里,xué xiào lí zhè lǐ wǔ gōng lǐ,the school is five kilometers from here
+107,公里,gōng lǐ,kilometer,1,3,公,public,哪里,where,,,,,学校离这里五公里,xué xiào lí zhè lǐ wǔ gōng lǐ,the school is five kilometers from here
 108,狗,gǒu,dog,1,,-,,,,,,,,我的狗喜欢跑步,wǒ de gǒu xǐ huān pǎo bù,My dog likes running
 109,股票,gǔ piào,stock,1,2,屁股,butt,票,ticket,,,,,他正在研究股票市场,Tā zhèngzài yánjiū gǔpiào shìchǎng,He is studying the stock market
 110,关税,guān shuì,tariff,1,1,关系,relationship,税,tax,,,,,政府提高了进口关税,Zhèngfǔ tígāo le jìnkǒu guānshuì,The government increased import tariffs
@@ -124,7 +124,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 123,烘焙店,hōng bèi diàn,bakery,1,2,烘焙,to bake,店,shop,,,,,这家烘焙店的蛋糕很受欢迎,Zhè jiā hōngbèidiàn de dàngāo hěn shòu huānyíng,The cakes in this bakery are very popular
 124,后悔,hòu huǐ,to regret,1,2,后,after,悔恨,remorse,,,,,我从来没有后悔过这个决定,Wǒ cónglái méiyǒu hòuhuǐ guò zhège juédìng,I have never regretted this decision
 125,猴子,hóu zi,monkey,1,,-,,,,,,,,动物园里有很多猴子。,dòng wù yuán lǐ yǒu hěn duō hóu zi.,there are many monkeys in the zoo.
-126,胡萝卜,hú​ luó ​bo,carrot,1,3,胡子,beard,萝卜,radish,,,,,我不喜欢吃胡萝卜,Wǒ bù xǐhuān chī húluóbo,I don't like carrots
+126,胡萝卜,hú luó bo,carrot,1,3,胡子,beard,萝卜,radish,,,,,我不喜欢吃胡萝卜,Wǒ bù xǐhuān chī húluóbo,I don't like carrots
 127,花生,huā shēng,peanut,1,3,花,flower,生,life,,,,,我对花生过敏,wǒ duì huā shēng guò mǐn,I am allergic to peanuts
 128,话题,huà tí,topic,1,2,说话,say,主题,theme,,,,,他们换了一个新的话题,tā men huàn le yī gè xīn de huà tí,they changed to a new topic
 129,滑雪,huá xuě,ski,1,1,滑,slide,雪,snow,,,,,他第一次学滑雪就摔倒了,Tā dì yī cì xué huáxuě jiù shuāidǎo le,He fell the first time he tried skiing
@@ -167,7 +167,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 166,刻板印象,kè bǎn yìn xiàng,stereotype,1,1,刻板,stiff,印象,impression,,,,,不要用刻板印象去评价别人,bù yào yòng kè bǎn yìn xiàng qù píng jià bié rén,do not judge others with stereotypes
 167,可惜,kě xí,what a pity;unfortunately,1,3,可,can,惜,pity,,,,,可惜他没来参加聚会,kě xī tā méi lái cān jiā jù huì,its a pity he did not come to the party
 168,可爱,kě'ài,cute,1,2,可以,can,爱,love,,,,,这只小猫很可爱,zhè zhī xiǎo māo hěn kě ài,this kitten is very cute
-169,空调,kòng tiáo,air conditioning,1,1,空气,air,调,adjust,,,,,夏天开空调很舒服,xià tiān kāi kōng tiáo hěn shū fú,turning on the air conditioner in summer is very comfortable
+169,空调,kōng tiáo,air conditioning,1,1,空气,air,调,adjust,,,,,夏天开空调很舒服,xià tiān kāi kōng tiáo hěn shū fú,turning on the air conditioner in summer is very comfortable
 170,孔子,kǒng zǐ,Confucius,1,,-,,,,,,,,我们在课上学孔子,Wǒmen zài kè shàng xué Kǒngzǐ,We study Confucius in class
 171,口音,kǒu yīn,accent,1,1,口,mouth,音调,pitch;tone,,,,,他的四川口音特别明显。,tā de sìchuān kǒuyīn tèbié míngxiǎn.,His Sichuan accent is very noticeable.
 172,口罩,kǒu zhào,mask,1,2,口,mouth,胸罩,bra,,,,,出门记得戴口罩,Chūmén jìdé dài kǒuzhào,Remember to wear a mask when going out
@@ -216,13 +216,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 215,女儿,nǚ ér,daughter,1,3,女,woman,儿童,child,,,,,他女儿特别懂事。,tā nǚ'ér tèbié dǒngshì.,His daughter is very well-behaved.
 216,女朋友,nǚ péng you,girlfriend,1,4,女,woman,朋友,friend,,,,,他准备向女朋友求婚。,tā zhǔnbèi xiàng nǚ péngyou qiúhūn,He is preparing to propose to his girlfriend.
 217,偶尔,ǒu 'ěr,occasionally,1,,-,,,,,,,,我偶尔会熬夜看电影,Wǒ ǒu'ěr huì áoyè kàn diànyǐng,I occasionally stay up late to watch movies
-218,排队,pái​ duì,to line up;wait in line;queue,1,2,排,row,队,team,,,,,大家在商店门口排队,dà jiā zài shāng diàn mén kǒu pái duì,everyone is lining up at the store entrance
+218,排队,pái duì,to line up;wait in line;queue,1,2,排,row,队,team,,,,,大家在商店门口排队,dà jiā zài shāng diàn mén kǒu pái duì,everyone is lining up at the store entrance
 219,排序,pái xù,sort,1,2,安排,to arrange,顺序,sequence,,,,,请帮我排序这些文件,Qǐng bāng wǒ páixù zhèxiē wénjiàn,Please help me sort these files
 220,泡菜,pào cài,pickled vegetable,1,1,泡,bubble;soak,菜,vegetable,,,,,我喜欢吃辣泡菜,Wǒ xǐhuān chī là pàocài,I like spicy pickled vegetables
 221,啤酒,pí jiǔ,beer,1,,-,,,,,,,,他喝了两瓶啤酒,tā hē le liǎng píng pí jiǔ,he drank two bottles of beer
 222,骗子,piàn zǐ,scammer,1,,-,,,,,,,,他是个骗子,tā shì gè piàn zi,he is a liar
 223,频道,pín dào,channel,1,2,视频,video,道,road,,,,,我最喜欢这个频道,Wǒ zuì xǐhuān zhège píndào,I like this channel the most
-224,平常,píng​ cháng,usually,1,4,平,flat,正常,regular,,,,,我平常七点起床,Wǒ píngcháng qī diǎn qǐchuáng,I usually get up at seven
+224,平常,píng cháng,usually,1,4,平,flat,正常,regular,,,,,我平常七点起床,Wǒ píngcháng qī diǎn qǐchuáng,I usually get up at seven
 225,苹果,píng guǒ,apple,1,,-,,,,,,,,我最喜欢吃红苹果。,wǒ zuì xǐ huan chī hóng píng guǒ.,I like eating red apples the most.
 226,评论,píng lùn,comment,1,3,评价,to evaluate,讨论,to discuss,,,,,我写了一个评论,Wǒ xiě le yīgè pínglùn,I wrote a comment
 227,平时,píng shí,usually,1,2,平,flat,时,time,,,,,我平时很少看电视,Wǒ píngshí hěn shǎo kàn diànshì,I rarely watch TV
@@ -274,14 +274,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 273,输入,shū rù,to input,1,3,运输,to transport,入,enter,,,,,请在这里输入密码,Qǐng zài zhèlǐ shūrù mìmǎ,Please enter the password here
 274,叔叔,shū shu,uncle;father’s younger brother,1,,-,,,,,,,,我叔叔在外地工作,wǒ shū shu zài wài dì gōng zuò,My uncle works in another city
 275,薯条,shǔ tiáo,fries,1,2,薯,yam,条,strip,,,,,孩子们都喜欢薯条,hái zi men dōu xǐ huān shǔ tiáo,children all like french fries
-276,树荫,shù ​yīn,shade,1,2,树,tree,阴,cloudy,,,,,孩子们在树荫下玩耍,Háizimen zài shùyīn xià wánshuǎ,The children are playing in the shade
+276,树荫,shù yīn,shade,1,2,树,tree,阴,cloudy,,,,,孩子们在树荫下玩耍,Háizimen zài shùyīn xià wánshuǎ,The children are playing in the shade
 277,刷新,shuā xīn,to refresh,1,2,刷,to brush,新,new,,,,,我想刷新页面,Wǒ xiǎng shuāxīn yèmiàn,I want to refresh the page
 278,帅哥,shuài gē,handsome guy,1,4,帅,handsome,哥,elder brother,,,,,那个帅哥是我同学,nà gè shuài gē shì wǒ tóng xué,that handsome guy is my classmate
 279,水,shuǐ,water,1,,-,,,,,,,,请给我一杯水,qǐng gěi wǒ yì bēi shuǐ,Please give me a glass of water
 280,水平,shuǐ píng,level;standard,1,2,水,water,平,flat,,,,,他的中文水平很高,tā de zhōng wén shuǐ píng hěn gāo,his Chinese proficiency is very high
 281,睡着了,shuì zhao le,fall asleep,1,4,睡觉,to sleep,着,particle action in progress,了,particle change of state,,,我上课时变睡着了,Wǒ shàngkè shí biàn shuìzháo le,I fell asleep in class
 282,说谎,shuō huǎng,to lie,1,,-,,,,,,,,他说谎的时候会不敢看别人,Tā shuōhuǎng de shíhòu huì bù gǎn kàn biérén,When he lies he doesn’t dare look at others
-283,司机,sī ​jī,driver;chauffeur,1,3,公司,company,机,machine,,,,,司机开车很小心,sī jī kāi chē hěn xiǎo xīn,the driver drives carefully
+283,司机,sī jī,driver;chauffeur,1,3,公司,company,机,machine,,,,,司机开车很小心,sī jī kāi chē hěn xiǎo xīn,the driver drives carefully
 284,搜索,sōu suǒ,search,1,,-,,,,,,,,你可以在网上搜索答案,Nǐ kěyǐ zài wǎngshàng sōusuǒ dá'àn,You can search for the answer online
 285,塑料袋,sù liào dài,plastic bag,1,4,塑料,plastic,袋子,bag,,,,,别忘了带塑料袋,bié wàng le dài sù liào dài,do not forget to bring a plastic bag
 286,算法,suàn fǎ,algorithm,1,2,算,count,方法,method,,,,,这个应用用了一种新的算法,Zhège yìngyòng yòng le yī zhǒng xīn de suànfǎ,This app uses a new algorithm
@@ -292,7 +292,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 291,糖,táng,sugar,1,,-,,,,,,,,别吃太多糖对牙不好,bié chī tài duō táng duì yá bù hǎo,Don’t eat too much sugar it’s bad for your teeth
 292,趟,tàng,trip;each vehicle arrival,1,,-,,,,,,,,我去了一趟超市,Wǒ qù le yī tàng chāoshì,I made a trip to the supermarket
 293,淘宝,táo bǎo,Chinese Amazon (wider variety),1,4,淘气,naughty,宝宝,baby,,,,,她在淘宝上买了一只猫咪玩偶,tā zài tǎobaó shàng mǎile yì zhī māomī wánǒu,She bought a cat plush on Taobao
-294,套餐,tào​ cān,set;set meal,1,3,套,cover,餐,meal,,,,,这个餐厅有优惠套餐,zhè gè cān tīng yǒu yōu huì tào cān,this restaurant has special set meals
+294,套餐,tào cān,set;set meal,1,3,套,cover,餐,meal,,,,,这个餐厅有优惠套餐,zhè gè cān tīng yǒu yōu huì tào cān,this restaurant has special set meals
 295,讨厌,tǎo yàn,dislike;hate,1,,-,,,,,,,,我很讨厌天气太热的时候,Wǒ hěn tǎoyàn tiānqì tài rè de shíhòu,I really hate it when the weather is too hot
 296,特色,tè sè,characteristic;unique feature,1,3,特,special,色,color,,,,,这个小镇很有特色,Zhège xiǎo zhèn hěn yǒu tèsè,This town has unique features
 297,提高,tí gāo,to improve;raise;increase,1,2,提,to lift,高,high,,,,,我们需要提高效率,Wǒmen xūyào tígāo xiàolǜ,We need to improve efficiency
@@ -302,13 +302,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 301,体育场,tǐ yù chǎng,stadium,1,2,体育,physical education,场,open space,,,,,体育场很大,Tǐyùchǎng hěn dà,The stadium is big
 302,天气预报,tiān qì yù bào,weather forecast,1,3,天气,weather,预期,to expect,报,report,,,我看了今天的天气预报,Wǒ kàn le jīntiān de tiānqì yùbào,I checked today's weather forecast
 303,听懂,tīng dǒng,to understand by hearing,1,4,听,listen,懂,understand,,,,,我听懂了老师的话,wǒ tīng dǒng le lǎo shī de huà,I understood what the teacher said
-304,通常,tōng​ cháng,generally;usually,1,,-,,,,,,,,我通常早起,Wǒ tōngcháng zǎoqǐ,I usually wake up early
+304,通常,tōng cháng,generally;usually,1,,-,,,,,,,,我通常早起,Wǒ tōngcháng zǎoqǐ,I usually wake up early
 305,通过,tōng guò,to pass,1,,-,,,,,,,,他通过了所有的考试,Tā tōngguò le suǒyǒu de kǎoshì,He passed all of his exams
 306,通货膨胀,tōng huò péng zhàng,inflation,1,2,普通,ordinary,货币,currency,膨胀,to expand,,,物价因为通货膨胀上涨了,Wùjià yīnwèi tōnghuò péngzhàng shàngzhǎng le,Prices went up due to inflation
 307,通知,tōng zhī,notification;notify,1,2,通过,to get through,知识,knowledge,,,,,我收到了一个通知,Wǒ shōu dào le yī gè tōngzhī,I received a notice
 308,头,tóu,head,1,,-,,,,,,,,他的头发很乱,tā de tóu fà hěn luàn,His hair is messy
 309,投资,tóu zī,to invest,1,2,投票,to vote,资源,resource,,,,,他投资了一家公司,Tā tóuzī le yī jiā gōngsī,He invested in a company
-310,图表,tú​ biǎo,chart;graph,1,2,图,picture,表格,sheet;table,,,,,这份图表很直观,Zhè fèn túbiǎo hěn zhíguān,This chart is very clear
+310,图表,tú biǎo,chart;graph,1,2,图,picture,表格,sheet;table,,,,,这份图表很直观,Zhè fèn túbiǎo hěn zhíguān,This chart is very clear
 311,吐槽,tǔ cáo,to vent;make complaints,1,2,吐,to vomit,水槽,sink,,,,,大家喜欢在网上吐槽电影,Dàjiā xǐhuān zài wǎngshàng tǔcáo diànyǐng,People like to complain about movies online
 312,土豆,tǔ dòu,potato,1,1,土,earth,豆,bean,,,,,她买了一袋土豆,tā mǎi le yī dài tǔ dòu,she bought a bag of potatoes
 313,团队,tuán duì,team,1,,-,,,,,,,,我们是一个团队,Wǒmen shì yī gè tuánduì,We are a team
@@ -322,7 +322,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 321,卫生间,wèi shēng jiān,bathroom,1,2,卫生,hygiene,间,room,,,,,卫生间在右边,wèi shēng jiān zài yòu biān,the restroom is on the right
 322,维生素,wéi shēng sù,vitamin,1,2,维,to maintain,生,life,因素,element,,,每天都要补维生素,Měitiān dōu yào bǔ wéishēngsù,You should take vitamins every day
 323,微信,wēi xìn,Chinese WhatsApp,1,3,微,micro,信息,information,,,,,我用微信发了一张猫咪照片给朋友,wǒ yòng wēixìn fā le yì zhāng māomī zhàopiàn gěi péngyou,I sent a cat photo to my friend on WeChat
-324,温度,wēn ​dù,temperature,1,1,温暖,warm,程度,degree,,,,,今天的温度很高,jīn tiān de wēn dù hěn gāo,today the temperature is very high
+324,温度,wēn dù,temperature,1,1,温暖,warm,程度,degree,,,,,今天的温度很高,jīn tiān de wēn dù hěn gāo,today the temperature is very high
 325,文件,wén jiàn,document;file,1,2,文,writing,件,piece,,,,,我保存了文件,Wǒ bǎocún le wénjiàn,I saved the file
 326,蚊子,wén zǐ,mosquito,1,,-,,,,,,,,昨晚有很多蚊子,zúo wǎn yǒu hěn duō wén zi,there were many mosquitoes last night
 327,午睡,wǔ shuì,nap,1,1,午,noon,睡,sleep,,,,,孩子们每天中午都要午睡,Háizimen měitiān zhōngwǔ dōu yào wǔshuì,The children take a nap every noon
@@ -346,7 +346,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 345,小腿,xiǎo tuǐ,calf,1,1,小,small,腿,leg,,,,,她的小腿很酸,tā de xiǎo tuǐ hěn suān,her calves are sore
 346,小心,xiǎo xīn,be careful,1,2,小,small,心,heart,,,,,过马路要小心,guò mǎ lù yào xiǎo xīn,be careful when crossing the road
 347,信号,xìn hào,cellular signal,1,2,信息,news,号,mark,,,,,这里的手机信号不好,Zhèlǐ de shǒujī xìnhào bù hǎo,The phone signal is bad here
-348,新闻,xīn ​wén,news,1,1,新,new,闻到,to smell,,,,,我每天早上都会看新闻,Wǒ měitiān zǎoshang dūhuì kàn xīnwén,I read the news every morning
+348,新闻,xīn wén,news,1,1,新,new,闻到,to smell,,,,,我每天早上都会看新闻,Wǒ měitiān zǎoshang dūhuì kàn xīnwén,I read the news every morning
 349,信用卡,xìn yòng kǎ,credit card,1,2,信任,to trust,用,to use,卡,card,,,你可以刷信用卡吗,Nǐ kěyǐ shuā xìnyòngkǎ ma,Can you use a credit card
 350,姓,xìng,surname,1,,女,woman,生,life,,,,,请问你姓什么,qǐng wèn nǐ xìng shén me,may i ask your family name
 351,醒,xǐng,wake up,1,,-,,,,,,,,我今天很早醒了,wǒ jīn tiān hěn zǎo xǐng le,i woke up very early today
@@ -404,7 +404,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 403,战争,zhàn zhēng,war,1,,-,,,,,,,,他们正在学习二战的历史,Tāmen zhèngzài xuéxí èr zhàn de lìshǐ,They are studying the history of World War II
 404,长大,zhǎng dà,to grow up,1,2,增长,to grow,大,big,,,,,孩子们都长大了,hái zi men dōu zhǎng dà le,The children have all grown up
 405,账户,zhàng hù,bank account;online account,1,3,账单,bill,用户,user,,,,,我的账户有问题,Wǒ de zhànghù yǒu wèntí,My account has a problem
-406,正常,zhèng ​cháng,normal,1,,-,,,,,,,,一切都很正常,Yīqiè dōu hěn zhèngcháng,Everything is normal
+406,正常,zhèng cháng,normal,1,,-,,,,,,,,一切都很正常,Yīqiè dōu hěn zhèngcháng,Everything is normal
 407,症状,zhèng zhuàng,symptom,1,1,症,disease,状态,state,,,,,他感冒的症状是流鼻涕和咳嗽。,Tā gǎnmào de zhèngzhuàng shì liú bítì hé késou.,His cold symptoms are a runny nose and cough.
 408,纸,zhǐ,paper,1,,-,,,,,,,,他在纸上写下了她的名字,tā zài zhǐ shàng xiě xià le tā de míng zì,he wrote her name on the paper
 409,值得,zhí dé,to be worth;deserve,1,2,值,value,得,to get,,,,,这个博物馆很值得一去,Zhège bówùguǎn hěn zhídé yī qù,This museum is worth visiting
@@ -500,7 +500,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 499,插头,chā tóu,plug,2,2,插,to insert,头,head,,,,,插头坏了,chātóu huài le,The plug is broken
 500,叉子,chā zǐ,fork,2,,-,,,,,,,,这把叉子有点弯,Zhè bǎ chāzi yǒudiǎn wān,This fork is a bit bent
 501,插座,chā zuò,socket,2,2,插入,to insert,座,seat,,,,,插座坏了需要修理,Chāzuò huài le xūyào xiūlǐ,The socket is broken and needs repair
-502,常常,cháng​ cháng,frequent,2,,,,,,,,,,他常常迟到,Tā chángcháng chídào,He is often late
+502,常常,cháng cháng,frequent,2,,,,,,,,,,他常常迟到,Tā chángcháng chídào,He is often late
 503,长江,cháng jiāng,Yangtze River,2,4,长,long,江,large river,,,,,长江是中国最长的河流。,cháng jiāng shì zhōng guó zuì cháng de hé liú,The Yangtze River is the longest river in China.
 504,长期,cháng qí,long-term,2,3,长,long,期,period of time,,,,,他长期住在北京,Tā chángqī zhù zài Běijīng,He has lived in Beijing long-term
 505,长袖,cháng xiù,long sleeves,2,4,长,long,袖,sleeve,,,,,今天要穿长袖,Jīntiān yào chuān chángxiù,You should wear long sleeves today
@@ -592,7 +592,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 591,第二天,dì èr tiān,the next day,2,,,,,,,,,,我们第二天再出发,Wǒmen dì èr tiān zài chūfā,We will set out the next day
 592,地球,dì qiú,earth,2,2,地,land,球,ball,,,,,地球是我们居住的星球。,dì qiú shì wǒ men jū zhù de xīng qiú.,earth is the planet we live on.
 593,地毯,dì tǎn,carpet;rug,2,1,地,ground,毯子,blanket,,,,,客厅铺了地毯,Kètīng pū le dìtǎn,The living room is carpeted
-594,地址,dì ​zhǐ,address,2,3,地,land,址,location,,,,,请写下你的家庭地址,Qǐng xiě xià nǐ de jiātíng dìzhǐ,Please write down your home address
+594,地址,dì zhǐ,address,2,3,地,land,址,location,,,,,请写下你的家庭地址,Qǐng xiě xià nǐ de jiātíng dìzhǐ,Please write down your home address
 595,电池,diàn chí,battery,2,1,电,electric,池,pond,,,,,这个遥控器需要新电池,Zhège yáokòngqì xūyào xīn diànchí,This remote needs new batteries
 596,点击,diǎn jī,click (here),2,3,点,point,击,to hit;attack,,,,,点击这个按钮开始游戏,Diǎnjī zhège ànniǔ kāishǐ yóuxì,Click this button to start the game
 597,电缆,diàn lǎn,(electric) cable,2,3,电,electric,缆,cable,,,,,工人正在修电缆,Gōngrén zhèngzài xiū diànlǎn,The workers are fixing the cable
@@ -632,7 +632,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 631,发音,fā yīn,pronunciation,2,2,发,to send out,音,sound,,,,,你的发音很标准,Nǐ de fāyīn hěn biāozhǔn,Your pronunciation is very accurate
 632,法语,fǎ yǔ,french language,2,4,法国,France,语言,language,,,,,她正在学法语。,tā zhèng zài xué fǎ yǔ.,she is learning french.
 633,反对,fǎn duì,to oppose,2,2,反,anti,对,correct,,,,,很多人反对这个决定,Hěn duō rén fǎnduì zhège juédìng,Many people oppose this decision
-634,番茄酱,fān ​qié ​jiàng,ketchup,2,2,番茄,tomato,酱,paste,,,,,我喜欢加番茄酱,Wǒ xǐhuān jiā fānqiéjiàng,I like adding ketchup
+634,番茄酱,fān qié jiàng,ketchup,2,2,番茄,tomato,酱,paste,,,,,我喜欢加番茄酱,Wǒ xǐhuān jiā fānqiéjiàng,I like adding ketchup
 635,繁体字,fán tǐ zì,traditional Chinese characters,2,4,繁复,complicated,体,body,字,character,,,台湾常用繁体字,táiwān chángyòng fántǐ zì,Taiwan often uses traditional characters
 636,反应,fǎn yìng,reaction,2,4,反,opposite,应,should,,,,,他的反应很快,Tā de fǎnyìng hěn kuài,His reaction was very fast
 637,犯罪,fàn zuì,crime,2,,-,,,,,,,,犯罪需要受到惩罚,Fànzuì xūyào shòudào chéngfá,Crime should be punished
@@ -682,7 +682,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 681,工程师,gōng chéng shī,engineer,2,4,工作,work,程序,procedure,大师,master,,,我哥哥是软件工程师,Wǒ gēge shì ruǎnjiàn gōngchéngshī,My older brother is a software engineer
 682,公告,gōng gào,announcement,2,2,公,public,广告,advertisement,,,,,学校发布了新的公告,Xuéxiào fābù le xīn de gōnggào,The school issued a new announcement
 683,功能,gōng néng,function,2,3,成功,success,能,ability,,,,,这款手机有很多功能,Zhè kuǎn shǒujī yǒu hěn duō gōngnéng,This phone has many functions
-684,公平,gōng​ píng,fair,2,1,公,public,平,flat,,,,,老师对所有学生都很公平,Lǎoshī duì suǒyǒu xuéshēng dōu hěn gōngpíng,The teacher is fair to all students
+684,公平,gōng píng,fair,2,1,公,public,平,flat,,,,,老师对所有学生都很公平,Lǎoshī duì suǒyǒu xuéshēng dōu hěn gōngpíng,The teacher is fair to all students
 685,共享单车,gòng xiǎng dān chē,shared bikes,2,,,,,,,,,,我骑共享单车去地铁站,Wǒ qí gòngxiǎng dānchē qù dìtiě zhàn,I ride a shared bike to the subway
 686,公众场合,gōng zhòng chǎng hé,public place,2,3,公众,public,场合,occasion,,,,,在公众场合要注意仪表,Zài gōngzhòng chǎnghé yào zhùyì yíbiǎo,Pay attention to appearance in public settings
 687,工作日,gōng zuò rì,workday,2,3,工作,work,日,day,,,,,工作日我早上七点起床,Gōngzuòrì wǒ zǎoshang qī diǎn qǐchuáng,I get up at seven on weekdays
@@ -700,7 +700,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 699,过敏,guò mǐn,allergy,2,2,过度,excess,敏感,sensitive,,,,,她对花粉过敏。,tā duì huā fěn guò mǐn.,she is allergic to pollen.
 700,过年,guò nián,Chinese New Year;celebrate new year,2,3,过,to pass through,年,year,,,,,他们回老家过年,Tāmen huí lǎojiā guònián,They went back to their hometown for Chinese New Year
 701,国旗,guó qí,national flag,2,2,国,country,旗,banner;flag,,,,,操场上升起了国旗,Cāochǎng shàng shēngqǐ le guóqí,The national flag was raised on the playground
-702,哈密​​瓜,hā mì ​​guā,canteloupe;honeydew,2,3,哈,laughter,秘密,secret,瓜,melon,,,夏天吃哈密瓜很清爽,Xiàtiān chī hāmìguā hěn qīngshuǎng,Eating Hami melon is refreshing in summer
+702,哈密​​瓜,hā mì guā,canteloupe;honeydew,2,3,哈,laughter,秘密,secret,瓜,melon,,,夏天吃哈密瓜很清爽,Xiàtiān chī hāmìguā hěn qīngshuǎng,Eating Hami melon is refreshing in summer
 703,海绵宝宝,hǎi mián bǎo bǎo,spongebob,2,2,海绵,sponge,宝宝,baby,,,,,孩子们喜欢看海绵宝宝,Háizimen xǐhuān kàn Hǎimián Bǎobǎo,Children like watching SpongeBob
 704,海外,hǎi wài,overseas,2,3,海,sea,外,outside,,,,,他去海外留学了,Tā qù hǎiwài liúxué le,He went abroad to study
 705,害羞,hài xiū,shy,2,2,害怕,to be afraid,羞愧,ashamed,,,,,她害羞得不敢说话,Tā hàixiū de bù gǎn shuōhuà,She was too shy to speak
@@ -728,7 +728,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 727,红烧肉,hóng shāo ròu,braised pork,2,3,红,red,烧烤,barbeque,猪肉,pork,,,他喜欢吃红烧肉。,tā xǐ huān chī hóng shāo ròu.,He likes eating braised pork.
 728,厚,hòu,thick,2,,,,,,,,,,这件衣服太厚了今天穿会很热,zhè jiàn yī fu tài hòu le jīn tiān chuān huì hěn rè,This clothing is too thick it’ll be hot today
 729,后备箱,hòu bèi xiāng,trunk,2,1,后,back,设备,equipment,箱,box,,,把行李放进后备箱,Bǎ xínglǐ fàng jìn hòubèixiāng,Put the luggage in the trunk
-730,户口,hù​ kǒu,registered residence,2,4,住户,household,人口,population,,,,,他在上海迁了户口,Tā zài Shànghǎi qiān le hùkǒu,He transferred his household registration to Shanghai
+730,户口,hù kǒu,registered residence,2,4,住户,household,人口,population,,,,,他在上海迁了户口,Tā zài Shànghǎi qiān le hùkǒu,He transferred his household registration to Shanghai
 731,护士,hù shì,nurse,2,2,保护,to protect,博士,doctor,,,,,护士照顾病人很耐心,Hùshi zhàogù bìngrén hěn nàixīn,Nurses take care of patients with patience
 732,花生酱,huā shēng jiàng,peanut butter,2,3,花生,peanut,酱,sauce,,,,,我喜欢吃花生酱面包,Wǒ xǐhuān chī huāshēngjiàng miànbāo,I like eating peanut butter bread
 733,化学,huà xué,chemistry,2,2,变化,to change,学,study,,,,,我对化学课很感兴趣,Wǒ duì huàxué kè hěn gǎn xìngqù,I am very interested in chemistry class
@@ -765,7 +765,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 764,价值,jià zhí,values;value,2,2,价格,price,值得,to be worth,,,,,这本书的价值很高,Zhè běn shū de jiàzhí hěn gāo,This book has high value
 765,加州,jiā zhōu,California,2,4,加利福尼亚,California,州,state,,,,,我朋友住在加州,wǒ péng yǒu zhù zài jiā zhōu,my friend lives in california
 766,煎,jiān,pan-fry,2,,-,,,,,,,,牛排要煎到五分熟。,niú pái yào jiān dào wǔ fēn shú.,the steak should be pan-fried medium.
-767,煎饼,jiān bing,pancake,2,2,煎,to pan fry,饼,cake,,,,,我早餐吃了煎饼,Wǒ zǎocān chī le jiānbǐng,I had a pancake for breakfast
+767,煎饼,jiān bǐng,pancake,2,2,煎,to pan fry,饼,cake,,,,,我早餐吃了煎饼,Wǒ zǎocān chī le jiānbǐng,I had a pancake for breakfast
 768,检查,jiǎn chá,inspection;to examine,2,,-,,,,,,,,医生要给我做个检查,Yīshēng yào gěi wǒ zuò gè jiǎnchá,The doctor is going to give me a check-up
 769,剪刀,jiǎn dāo,scissors,2,3,修剪,to prune,刀,knife,,,,,剪刀很锋利。,jiǎn dāo hěn fēng lì.,the scissors are sharp.
 770,减肥,jiǎn féi,to lose weight,2,2,减,to decrease,肥,fat,,,,,我正在努力减肥,Wǒ zhèngzài nǔlì jiǎnféi,I am working hard to lose weight
@@ -774,7 +774,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 773,建议,jiàn yì,to suggest;suggestion,2,,,,,,,,,,我有一个建议,Wǒ yǒu yī gè jiànyì,I have a suggestion
 774,奖,jiǎng,award,2,,-,,,,,,,,她拿到了一个奖,Tā ná dào le yī gè jiǎng,She won a prize
 775,酱油,jiàng yóu,soy sauce,2,3,酱,paste,油,oil,,,,,炒菜要放点酱油,Chǎocài yào fàng diǎn jiàngyóu,Add some soy sauce when cooking
-776,角度,jiǎo​ dù,angle,2,2,角,horn,程度,degree,,,,,换个角度看看,Huàn gè jiǎodù kànkan,Look at it from another angle
+776,角度,jiǎo dù,angle,2,2,角,horn,程度,degree,,,,,换个角度看看,Huàn gè jiǎodù kànkan,Look at it from another angle
 777,焦虑,jiāo lǜ,anxiety,2,2,焦,burnt,考虑,to think over,,,,,考试前他总是很焦虑,Kǎoshì qián tā zǒng shì hěn jiāolǜ,He always feels anxious before exams
 778,教堂,jiào táng,church,2,2,宗教,religion,堂,hall,,,,,他们周末去教堂祷告,Tāmen zhōumò qù jiàotáng dǎogào,They go to church to pray on weekends
 779,结,jié,knot,2,,,,,,,,,,他打了一个漂亮的结,ta dǎ le yī gè piào liang de jié,He tied a beautiful knot
@@ -787,10 +787,10 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 786,介意,jiè yì,to mind,2,3,介绍,to introduce,注意,to take note of;pay attention,,,,,你介意我坐这里吗?,Nǐ jièyì wǒ zuò zhèlǐ ma?,Do you mind if I sit here?
 787,金,jīn,gold,2,,-,,,,,,,,金色的表很显眼,jīn sè de biǎo hěn xiǎn yǎn,The gold watch stands out
 788,进口,jìn kǒu,import,2,2,进,enter,口,opening,,,,,这酒是进口的,Zhè jiǔ shì jìnkǒu de,This wine is imported
-789,紧张,jǐn​ zhāng,nervous,2,4,紧急,urgent,张,stretch;to open up,,,,,考试让我很紧张,kǎo shì ràng wǒ hěn jǐn zhāng,exams make me nervous
-790,警察,jǐng​ chá,police,2,3,警告,to warn,观察,to observe,,,,,警察正在调查案件,Jǐngchá zhèngzài diàochá ànjiàn,The police are investigating the case
+789,紧张,jǐn zhāng,nervous,2,4,紧急,urgent,张,stretch;to open up,,,,,考试让我很紧张,kǎo shì ràng wǒ hěn jǐn zhāng,exams make me nervous
+790,警察,jǐng chá,police,2,3,警告,to warn,观察,to observe,,,,,警察正在调查案件,Jǐngchá zhèngzài diàochá ànjiàn,The police are investigating the case
 791,经常,jīng cháng,often,2,,-,,,,,,,,我经常去图书馆,Wǒ jīngcháng qù túshūguǎn,I often go to the library
-792,经历,jīng ​lì,experience (not work),2,2,已经,already,历史,history,,,,,这是一次难忘的经历,Zhè shì yī cì nánwàng de jīnglì,This was an unforgettable experience
+792,经历,jīng lì,experience (not work),2,2,已经,already,历史,history,,,,,这是一次难忘的经历,Zhè shì yī cì nánwàng de jīnglì,This was an unforgettable experience
 793,经验,jīng yàn,experience,2,3,已经,already,实验,experiment,,,,,我的经验是先计划,Wǒ de jīngyàn shì xiān jìhuà,My experience is to plan first
 794,竞争,jìng zhēng,compete;competition,2,,,,,,,,,,这个行业竞争激烈,zhè gè háng yè jìng zhēng jī liè,competition is fierce in this industry
 795,镜子,jìng zǐ,mirror,2,,,,,,,,,,她对着镜子化妆,Tā duìzhe jìngzi huàzhuāng,She put on makeup in front of the mirror
@@ -897,7 +897,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 896,模仿,mó fǎng,imitate,2,4,模特,model,仿佛,as if,,,,,小孩子喜欢模仿大人的行为,xiǎo háizi xǐhuān mófǎng dàren de xíngwéi,Children like to imitate adults behavior
 897,蘑菇,mó gū,mushroom,2,,,,,,,,,,使用蘑菇可以加速,shǐ yòng mó gū kě yǐ jiā sù,use a mushroom to speed up
 898,模糊,mó hú,vague;blurry,2,,,,,,,,,,照片太模糊看不清人。,zhàopiàn tài mó hú kàn bù qīng rén.,The photo is too blurry to see clearly.
-899,墨镜,mò​ jìng,sunglasses,2,1,墨,ink,眼镜,glasses,,,,,他戴着墨镜,Tā dàizhe mòjìng,He is wearing sunglasses
+899,墨镜,mò jìng,sunglasses,2,1,墨,ink,眼镜,glasses,,,,,他戴着墨镜,Tā dàizhe mòjìng,He is wearing sunglasses
 900,茉莉花,mò lì huā,jasmine,2,,-,,,,,,,,茉莉花香味清新。,mò lì huā xiāng wèi qīng xīn.,jasmine has a fresh fragrance.
 901,默认,mò rèn,default,2,2,沉默,silent,确认,to confirm,,,,,电脑默认设置太复杂,Diànnǎo mòrèn shèzhì tài fùzá,The computer's default settings are too complicated
 902,陌生人,mò shēng rén,stranger,2,3,陌生,unfamiliar;strange,人,person,,,,,不要随便相信陌生人,Bùyào suíbiàn xiāngxìn mòshēngrén,Don’t trust strangers easily
@@ -924,13 +924,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 923,能够,néng gòu,be able to,2,,,,,,,,,,我能够完成这件事,Wǒ nénggòu wánchéng zhè jiàn shì,I am able to finish this task
 924,年糕,nián gāo,rice cake,2,4,年,year,蛋糕,cake,,,,,过年要吃年糕。,guò nián yào chī nián gāo。,We eat rice cake during New Year.
 925,年轻,nián qīng,young,2,1,年,year,轻,light,,,,,保持年轻的心态很重要,Bǎochí niánqīng de xīntài hěn zhòngyào,It’s important to maintain a young mindset
-926,牛排,niú​ pái,steak,2,1,牛,cow,排,row,,,,,今天晚上我们吃牛排,Jīntiān wǎnshàng wǒmen chī niúpái,We are having steak tonight
+926,牛排,niú pái,steak,2,1,牛,cow,排,row,,,,,今天晚上我们吃牛排,Jīntiān wǎnshàng wǒmen chī niúpái,We are having steak tonight
 927,牛油果,niú yóu guǒ,avocado,2,1,牛,cow,油,oil,水果,fruit,,,我喜欢在沙拉里加牛油果,Wǒ xǐhuān zài shālā lǐ jiā niúyóuguǒ,I like adding avocado to salads
 928,纽约,niǔ yuē,New York,2,,,,,,,,,,纽约的夜景很漂亮,Niǔyuē de yèjǐng hěn piàoliang,New York looks beautiful at night
 929,牛仔裤,niú zǎi kù,jeans,2,1,牛仔,cowboy,裤,pants,,,,,我买了一条新牛仔裤,Wǒ mǎi le yī tiáo xīn niúzǎikù,I bought a new pair of jeans
 930,糯米,nuò mǐ,sticky rice,2,,-,,,,,,,,粽子是用糯米做的,Zòngzi shì yòng nuòmǐ zuò de,Zongzi is made from glutinous rice
 931,偶然,ǒu rán,accidentally,2,3,偶尔,occasionally,突然,suddenly,,,,,我们偶然见面了,Wǒmen ǒurán jiànmiàn le,We met by chance
-932,排骨,pái​ gǔ,pork chop,2,3,牛排,steak,骨,bone,,,,,晚餐有红烧排骨,Wǎncān yǒu hóngshāo páigǔ,There are braised ribs for dinner
+932,排骨,pái gǔ,pork chop,2,3,牛排,steak,骨,bone,,,,,晚餐有红烧排骨,Wǎncān yǒu hóngshāo páigǔ,There are braised ribs for dinner
 933,排球,pái qiú,volleyball,2,1,排队,to line up,球,ball,,,,,他们正在打排球,Tāmen zhèngzài dǎ páiqiú,They are playing volleyball
 934,盘子,pán zǐ,plate,2,,,,,,,,,,请把盘子放在桌子上,Qǐng bǎ pánzi fàng zài zhuōzi shàng,Please put the plate on the table
 935,配件,pèi jiàn,accessories,2,1,配合,matching,件,piece,,,,,这台电脑缺少配件,zhè tái diàonnǎo quēshǎo pèijiàn,This computer is missing parts
@@ -942,14 +942,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 941,批评,pī píng,to criticize,2,,,,,,,,,,我接受批评但希望方式不要太激烈,wǒ jiē shòu pī píng dàn xī wàng fāng shì bú yào tài jī liè,I accept criticism but hope it is not too harsh
 942,偏爱,piān 'ài,to favor;preference,2,1,偏见,prejudice,爱,love,,,,,我偏爱甜食,Wǒ piān'ài tiánshí,I prefer sweet food
 943,频率,pín lǜ,frequency,2,4,视频,video,率,rate,,,,,电台的广播频率是多少?,Diàntái de guǎngbò pínlǜ shì duōshǎo?,What’s the broadcast frequency of the radio station?
-944,品牌,pǐn​ pái,brand name,2,3,产品,goods,牌子,sign,,,,,这个品牌的衣服很受欢迎,Zhège pǐnpái de yīfú hěn shòu huānyíng,This brand of clothing is very popular
+944,品牌,pǐn pái,brand name,2,3,产品,goods,牌子,sign,,,,,这个品牌的衣服很受欢迎,Zhège pǐnpái de yīfú hěn shòu huānyíng,This brand of clothing is very popular
 945,瓶,píng,bottle,2,,,,,,,,,,这瓶水喝完了,zhè píng shuǐ hē wán le,This bottle of water is finished
 946,平方米,píng fāng mǐ,square meter,2,2,平,flat,方,square,米,meter,,,这个房间有二十平方米,Zhège fángjiān yǒu èrshí píngfāng mǐ,This room is 20 square meters
 947,评价,píng jià,opinion;to evaluate,2,2,评论,comment,价格,price,,,,,这家店评价很好,Zhè jiā diàn píngjià hěn hǎo,This shop has great reviews
 948,平均每天,píng jūn měi tiān,Average daily,2,,,,,,,,,,我平均每天跑步三公里,Wǒ píngjūn měitiān pǎobù sān gōnglǐ,I run three kilometers every day on average
 949,破产,pò chǎn,bankrupt;bankruptcy,2,3,破,to break,生产,production,,,,,公司因为亏损而破产,Gōngsī yīnwèi kuīsǔn ér pòchǎn,The company went bankrupt due to losses
 950,瀑布,pù bù,waterfall,2,,-,,,,,,,,那是一个壮观的瀑布,Nà shì yī gè zhuàngguān de pùbù,That is a magnificent waterfall
-951,普京,pǔ jīn,Putin,2,,,,,,,,,,普京的新闻经常出现在头条,pǔ jīn de xīn wén jīng cháng chū xiàn zài tóu tiáo,Putin’s news often appears in the headlines
+951,普京,pǔ jīng,Putin,2,,,,,,,,,,普京的新闻经常出现在头条,pǔ jīn de xīn wén jīng cháng chū xiàn zài tóu tiáo,Putin’s news often appears in the headlines
 952,扑克牌,pū kè pái,deck of cards,2,3,扑克,poker,牌,card;mahjong tile,,,,,我们晚上一起玩扑克牌吧,wǒ men wǎn shang yī qǐ wán pū kè pái ba,Let’s play cards tonight
 953,葡萄干,pú táo gān,raisin,2,1,葡萄,grape,干,dry,,,,,葡萄干很好吃,Pútaogān hěn hǎochī,Raisins are tasty
 954,其本上,qí běn shàng,basically,2,5,其他,other,根本,basic,上,upper,,,其本上这个方法可行,Qí běn shàng zhège fāngfǎ kěxíng,Basically this method works
@@ -1014,7 +1014,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1013,摄氏度,shè shì dù,degrees celsius,2,4,摄影,photography,氏族,clan,度,degree,,,今天的温度是二十摄氏度,Jīntiān de wēndù shì èrshí shèshìdù,The temperature today is 20 degrees Celsius
 1014,舌头,shé tou,tongue,2,,,,,,,,,,他伸出舌头做鬼脸,tā shēn chū shé tou zuò guǐ liǎn,He stuck out his tongue and made a face
 1015,摄像头,shè xiàng tóu,video camera;webcam,2,3,摄像,to videotape,镜头,lens,,,,,摄像头坏了。,shè xiàng tóu huài le,The camera is broken.
-1016,舍友,shě yǒu,roommate,2,2,宿舍,dormitory,友,friend,,,,,我的舍友很喜欢打游戏,Wǒ de shèyǒu hěn xǐhuān dǎ yóuxì,My roommate likes playing games
+1016,舍友,shè yǒu,roommate,2,2,宿舍,dormitory,友,friend,,,,,我的舍友很喜欢打游戏,Wǒ de shèyǒu hěn xǐhuān dǎ yóuxì,My roommate likes playing games
 1017,身边,shēn biān,beside;on hand;around,2,2,身,body,边,side,,,,,他总带着相机在身边,Tā zǒng dàizhe xiàngjī zài shēnbiān,He always carries a camera with him
 1018,神秘,shén mì,mysterious;mystery,2,2,精神,spirit,秘密,secret,,,,,她笑得很神秘,Tā xiào de hěn shénmì,She smiled mysteriously
 1019,申请,shēn qǐng,to apply,2,4,申报,to declare (to authorities),请,please;to ask,,,,,我准备申请签证,Wǒ zhǔnbèi shēnqǐng qiānzhèng,I am preparing to apply for a visa
@@ -1032,7 +1032,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1031,室内,shì nèi,indoor,2,2,室,room,内,inside,,,,,今天我们在室内运动,Jīntiān wǒmen zài shìnèi yùndòng,Today we are exercising indoors
 1032,失望,shī wàng,disappointed,2,1,失去,to lose,希望,to hope,,,,,他的表现让我很失望,Tā de biǎoxiàn ràng wǒ hěn shīwàng,His performance disappointed me
 1033,食物中毒,shí wù zhòng dú,food poisoning,2,2,食物,food,中,within,毒,poison,,,他因为食物中毒去医院了,Tā yīnwèi shíwù zhòngdú qù yīyuàn le,He went to the hospital because of food poisoning
-1034,实验,shí​ yàn,experiment,2,2,事实,fact,经验,experience,,,,,我们在做一个实验,Wǒmen zài zuò yīgè shíyàn,We are doing an experiment
+1034,实验,shí yàn,experiment,2,2,事实,fact,经验,experience,,,,,我们在做一个实验,Wǒmen zài zuò yīgè shíyàn,We are doing an experiment
 1035,失业,shī yè,unemployment;to lose one's job,2,2,失,lose,职业,profession,,,,,他因为公司倒闭而失业了,Tā yīnwèi gōngsī dǎobì ér shīyè le,He lost his job because the company closed down
 1036,十亿,shí yì,billion,2,4,十,ten,亿,hundred million,,,,,这家公司价值超过十亿,Zhè jiā gōngsī jiàzhí chāoguò shí yì,This company is worth over a billion
 1037,石油,shí yóu,petroleum;oil,2,1,石,rock,油,oil,,,,,这个国家的石油资源很丰富,zhè gè guó jiā de shí yóu zī yuán hěn fēng fù,This country has abundant petroleum resources
@@ -1058,7 +1058,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1057,水库,shuǐ kù,reservoir,2,1,水,water,库,warehouse,,,,,这座城市的水来自附近的水库,Zhè zuò chéngshì de shuǐ láizì fùjìn de shuǐkù,The city’s water comes from a nearby reservoir
 1058,水龙头,shuǐ lóng tóu,faucet;tap,2,2,水,water,龙,dragon,头,head,,,水龙头坏了要修,Shuǐlóngtóu huài le yào xiū,The faucet is broken and needs repair
 1059,睡着,shuì zháo,to fall asleep,2,,,,,,,,,,宝宝终于睡着了,bǎo bao zhōng yú shuì zháo le,The baby finally fell asleep
-1060,顺利,shùn ​lì,smoothly,2,4,顺便,conveniently,利用,to exploit,,,,,如果一切顺利我们下周就出发,Rúguǒ yīqiè shùnlì wǒmen xià zhōu jiù chūfā,If everything goes well we will leave next week
+1060,顺利,shùn lì,smoothly,2,4,顺便,conveniently,利用,to exploit,,,,,如果一切顺利我们下周就出发,Rúguǒ yīqiè shùnlì wǒmen xià zhōu jiù chūfā,If everything goes well we will leave next week
 1061,说不定,shuō bu dìng,maybe;can't say for sure,2,3,说,say,不,not,一定,surely,,,他说不定会来,Tā shuōbùdìng huì lái,Maybe he will come
 1062,说错,shuō cuò,to misspeak,2,,,,,,,,,,我刚刚说错了对不起,wǒ gāng gāng shuō cuò le duì bù qǐ,I said it wrong sorry
 1063,说法,shuō fǎ,saying;statement;wording,2,3,说,speak,法,law,,,,,这种说法不正确,Zhè zhǒng shuōfǎ bù zhèngquè,This statement is incorrect
@@ -1069,7 +1069,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1068,四月初,sì yuè chū,Early April,2,,,,,,,,,,四月初天气很好,Sìyuè chū tiānqì hěn hǎo,The weather is nice at the beginning of April
 1069,四月底,sì yuè dǐ,End of April,2,,,,,,,,,,四月底放假,Sìyuè dǐ fàngjià,There is a holiday at the end of April
 1070,四月中,sì yuè zhōng,Mid-April,2,,,,,,,,,,四月中我要搬家,Sìyuè zhōng wǒ yào bānjiā,I will move in mid April
-1071,速度,sù​ dù,speed,2,2,快速,fast,程度,degree,,,,,跑步的速度越来越快,Pǎobù de sùdù yuèláiyuè kuài,The running speed is getting faster and faster
+1071,速度,sù dù,speed,2,2,快速,fast,程度,degree,,,,,跑步的速度越来越快,Pǎobù de sùdù yuèláiyuè kuài,The running speed is getting faster and faster
 1072,塑料,sù liào,plastic,2,,,,,,,,,,桌子上全是塑料袋,zhuozi shang quan shi suliao dai,The table is full of plastic bags
 1073,素食,sù shí,vegetarian,2,2,维生素,vitamin,食物,food,,,,,她喜欢吃素食,Tā xǐhuān chī sùshí,She likes to eat vegetarian food
 1074,随身的行李,suí shēn de xíng lǐ,carry-on luggage,2,2,随便,as one wishes,身,body,的,of,行李,luggage,,,
@@ -1095,13 +1095,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1094,调味品,tiáo wèi pǐn,seasoning,2,1,调,adjust,味,flavor,品,product,,,炒菜时加一些调味品味道更好,Chǎocài shí jiā yīxiē tiáowèipǐn wèidào gèng hǎo,Adding some seasonings makes stir fry taste better
 1095,挑战,tiǎo zhàn,to challenge,2,3,挑选,to choose,战争,war,,,,,登山是一种挑战,Dēngshān shì yī zhǒng tiǎozhàn,Climbing a mountain is a challenge
 1096,帖子,tiě zǐ,post (on social media),2,,-,,,,,,,,我发了一个新帖子,Wǒ fā le yí gè xīn tiězi,I posted a new thread
-1097,停车场,tíng​ chē ​chǎng,parking lot,2,1,停,stop,车,car,场,open space,,,停车场满了,Tíngchēchǎng mǎn le,The parking lot is full
+1097,停车场,tíng chē chǎng,parking lot,2,1,停,stop,车,car,场,open space,,,停车场满了,Tíngchēchǎng mǎn le,The parking lot is full
 1098,听到,tīng dào,to hear,2,,,,,,,,,,我听到了奇怪的声音,wǒ tīng dào le qí guài de shēng yīn,I heard a strange sound
 1099,听清楚,tīng qīng chǔ,to hear clearly,2,,,,,,,,,,你听清楚老师说的话了吗,nǐ tīng qīng chǔ lǎo shī shuō de huà le ma,Did you hear clearly what the teacher said
 1100,通货膨胀率,tōng huò péng zhàng lǜ,inflation rate,2,4,通,pass through,货,goods,膨胀,to inflate,率,rate,今年的通货膨胀率很高,Jīnnián de tōnghuò péngzhàng lǜ hěn gāo,The inflation rate is high this year
 1101,统计,tǒng jì,statistics,2,3,系统,system,估计,to estimate,,,,,根据统计 这里人口很多,Gēnjù tǒngjì zhèlǐ rénkǒu hěn duō,According to statistics there are many people here
 1102,同事,tóng shì,colleague;coworker,2,2,同,same,事,matter,,,,,我同事愿意帮我加班,Wǒ tóngshì yuànyì bāng wǒ jiābān,My coworker is willing to help me work overtime
-1103,同性恋,tóng​ xìng ​liàn,homosexuality,2,2,同,same,性别,gender,恋,love,,,他公开承认自己是同性恋,Tā gōngkāi chéngrèn zìjǐ shì tóngxìngliàn,He openly admitted that he is gay
+1103,同性恋,tóng xìng liàn,homosexuality,2,2,同,same,性别,gender,恋,love,,,他公开承认自己是同性恋,Tā gōngkāi chéngrèn zìjǐ shì tóngxìngliàn,He openly admitted that he is gay
 1104,通知设置,tōng zhī shè zhì,Notification settings,2,,,,,,,,,,你可以更改通知设置,Nǐ kěyǐ gēnggǎi tōngzhī shèzhì,You can change notification settings
 1105,头等舱,tóu děng cāng,first class,2,2,头,head,等,rank,舱,cabin,,,他买了头等舱机票,Tā mǎi le tóuděngcāng jīpiào,He bought a first-class ticket
 1106,头盔,tóu kuī,helmet,2,1,头,head,盔甲,armor,,,,,骑摩托车一定要戴头盔。,qí mó tuō chē yī dìng yào dài tóu kuī。,You must wear a helmet when riding a motorcycle.
@@ -1122,7 +1122,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1121,外交,wài jiāo,diplomacy,2,1,外国,foreign,交流,communication,,,,,外交在维持和平中很重要,Wàijiāo zài wéichí hépíng zhōng hěn zhòngyào,Diplomacy is very important in maintaining peace
 1122,外贸,wài mào,foreign trade,2,3,外,outside,贸易,trade,,,,,她做外贸很多年了,Tā zuò wàimào hěn duō nián le,She has worked in foreign trade for many years
 1123,外婆,wài pó,grandmother (maternal),2,3,外,outside,老婆,wife,,,,,外婆每次见我都给我做饭。,wàipó měicì jiàn wǒ dōu gěi wǒ zuòfàn.,Grandma (maternal) cooks for me every time I visit.
-1124,外套,wài​ tào,coat;jacket,2,1,外,outside,套,cover,,,,,我穿了一件外套,Wǒ chuān le yī jiàn wàitào,I wore a coat
+1124,外套,wài tào,coat;jacket,2,1,外,outside,套,cover,,,,,我穿了一件外套,Wǒ chuān le yī jiàn wàitào,I wore a coat
 1125,外语,wài yǔ,foreign language,2,4,外国,foreign,语,language,,,,,学习外语需要耐心,Xuéxí wàiyǔ xūyào nàixīn,Learning a foreign language requires patience
 1126,晚点见,wǎn diǎn jiàn,see you later,2,4,晚,late,一点,a little,见,see,,,晚点见我会迟到,Wǎn diǎn jiàn wǒ huì chídào,See you later I will be late
 1127,玩具,wán jù,toy,2,1,玩,play,具,tool,,,,,小孩在玩玩具,Xiǎohái zài wán wánjù,The child is playing with toys
@@ -1133,7 +1133,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1132,网球,wǎng qiú,tennis,2,2,网,net,球,ball,,,,,我们周五打网球,Wǒmen zhōuwǔ dǎ wǎngqiú,We play tennis on Friday
 1133,网友,wǎng yǒu,netizen;internet user,2,2,网络,internet,友,friend,,,,,我和网友约好一起吃饭,Wǒ hé wǎngyǒu yuē hǎo yīqǐ chīfàn,I arranged to have a meal with an online friend
 1134,网约车,wǎng yuē chē,app-based taxi,2,2,网络,network,约会,appointment,汽车,car,,,我叫了一辆网约车去机场。,wǒ jiàole yī liàng wǎngyuēchē qù jīchǎng.,I called a ride-hailing car to go to the airport.
-1135,网站,wǎng ​zhàn,website,2,1,网络,internet,站,station,,,,,这个网站很有用,Zhège wǎngzhàn hěn yǒuyòng,This website is very useful
+1135,网站,wǎng zhàn,website,2,1,网络,internet,站,station,,,,,这个网站很有用,Zhège wǎngzhàn hěn yǒuyòng,This website is very useful
 1136,尾巴,wěi ba,tail,2,,,,,,,,,,猫的尾巴很长。,māo de wěi ba hěn cháng.,The cat’s tail is very long.
 1137,微博,wēi bó,Chinese Twitter,2,2,微,micro,博客,blog,,,,,我每天在微博上刷明星动态,wǒ měitiān zài wēibó shàng shuā míngxīng dòngtài,I check celebrity news on Weibo every day
 1138,微波炉,wéi bō lú,microwave,2,3,微,micro,波,wave,炉,furnace,,,我用微波炉热了饭,Wǒ yòng wēibōlú rè le fàn,I heated the food in the microwave
@@ -1156,7 +1156,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1155,误会,wù huì,misunderstand,2,3,错误,mistake,社会,society,,,,,我想我们有点误会,Wǒ xiǎng wǒmen yǒu diǎn wùhuì,I think we have a small misunderstanding
 1156,乌克兰,wū kè lán,Ukraine,2,4,乌,crow,克,gram,兰,orchid,,,他正在研究乌克兰历史,Tā zhèngzài yánjiū Wūkèlán lìshǐ,He is studying Ukrainian history
 1157,物理,wù lǐ,physics,2,1,物,thing,理论,theory,,,,,我对物理很感兴趣,Wǒ duì wùlǐ hěn gǎn xìngqù,I am very interested in physics
-1158,无聊,wú​ liáo,bored;boring,2,1,无,no,聊天,to chat,,,,,我在家觉得很无聊,Wǒ zài jiā juéde hěn wúliáo,I feel very bored at home
+1158,无聊,wú liáo,bored;boring,2,1,无,no,聊天,to chat,,,,,我在家觉得很无聊,Wǒ zài jiā juéde hěn wúliáo,I feel very bored at home
 1159,物流,wù liú,logistics,2,1,物,thing,流,flow,,,,,物流信息更新了,Wùliú xìnxī gēngxīn le,The shipping information has been updated
 1160,乌龙茶,wū lóng chá,oolong tea,2,3,乌,crow,龙,dragon,茶,tea,,,我想点一杯乌龙茶,Wǒ xiǎng diǎn yì bēi wūlóngchá,I’d like to order a cup of oolong tea
 1161,雾霾,wù mái,smog;haze,2,,-,,,,,,,,今天的雾霾很严重,Jīntiān de wùmái hěn yánzhòng,Today’s smog is very serious
@@ -1256,7 +1256,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1255,饮料,yǐn liào,beverage,2,,,,,,,,,,请自取饮料,qǐng zì qǔ yǐn liào,please help yourself to beverages
 1256,印尼,yìn ní,Indonesia,2,,-,,,,,,,,他来自印尼,Tā láizì Yìnní,He is from Indonesia
 1257,引起,yǐn qǐ,to cause;to lead to,2,4,吸引,to attract,起来,to get up,,,,,这件事引起了讨论,Zhè jiàn shì yǐnqǐ le tǎolùn,This event sparked discussion
-1258,印象,yìn​ xiàng,impression,2,3,印,to print,象,elephant,,,,,她给我的第一印象很好,Tā gěi wǒ de dì yī yìnxiàng hěn hǎo,She gave me a good first impression
+1258,印象,yìn xiàng,impression,2,3,印,to print,象,elephant,,,,,她给我的第一印象很好,Tā gěi wǒ de dì yī yìnxiàng hěn hǎo,She gave me a good first impression
 1259,英雄,yīng xióng,hero,2,2,英,England,雄,male (of species),,,,,他是救了很多人的英雄,Tā shì jiù le hěn duō rén de yīngxióng,He is a hero who saved many people
 1260,应用,yìng yòng,application;practical,2,2,应,should,用,use,,,,,我下载了一个新应用,Wǒ xiàzǎi le yīgè xīn yìngyòng,I downloaded a new app
 1261,拥抱,yōng bào,embrace,2,4,拥有,to possess,抱抱,to hug,,,,,他们在机场深情地拥抱,tā men zài jī chǎng shēn qíng de yōng bào,they embraced affectionately at the airport
@@ -1271,7 +1271,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1270,油条,yóu tiáo,fried dough stick,2,2,油,oil,条,strip,,,,,我早餐喜欢吃油条和豆浆,wǒ zǎo cān xǐ huān chī yóu tiáo hé dòu jiāng,I like to eat fried dough sticks and soy milk for breakfast
 1271,有压力,yǒu yā lì,stressful,2,2,有,have,压力,pressure,,,,,最近工作太多我有压力,zuì jìn gōng zuò tài duō wǒ yǒu yā lì,I’m under a lot of pressure because of work lately
 1272,优衣库,yōu yī kù,Uniqlo,2,3,优秀,excellent,衣服,clothes,仓库,warehouse,,,优衣库的衣服舒适又实用,yōu yī kù de yī fú shū shì yòu shí yòng,Uniqlo clothes are comfortable and practical
-1273,游泳池,yóu​ yǒng ​chí,swimming pool,2,2,游泳,to swim,池,pond,,,,,他们在游泳池里玩水,Tāmen zài yóuyǒngchí lǐ wán shuǐ,They are playing in the swimming pool
+1273,游泳池,yóu yǒng chí,swimming pool,2,2,游泳,to swim,池,pond,,,,,他们在游泳池里玩水,Tāmen zài yóuyǒngchí lǐ wán shuǐ,They are playing in the swimming pool
 1274,犹豫,yóu yù,hesitate,2,,,,,,,,,,他犹豫了半天还是没做决定,tā yóu yù le bàn tiān hái shì méi zuò jué dìng,He hesitated for a long time and still didn’t decide
 1275,语伴,yǔ bàn,language partner,2,,,,,,,,,,我找了一个短期语伴练中文,Wǒ zhǎo le yī gè duǎnqī yǔbàn liàn Zhōngwén,I found a short-term language partner to practice Chinese
 1276,预报,yù bào,forecast,2,2,预期,to expect,报,report,,,,,天气预报说明天会下雨,Tiānqì yùbào shuō míngtiān huì xiàyǔ,The weather forecast says it will rain tomorrow
@@ -1279,13 +1279,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1278,预计,yù jì,expected,2,,,,,,,,,,我们预计下周完成任务,wǒ men yù jì xià zhōu wán chéng rèn wù,we expect to finish the task next week
 1279,瑜伽,yú jiā,yoga,2,,,,,,,,,,她每天早上练瑜伽,Tā měitiān zǎoshang liàn yújiā,She practices yoga every morning
 1280,娱乐,yú lè,entertainment;to entertain,2,,-,,,,,,,,这只是娱乐，不要当真。,"zhè zhǐ shì yú lè, bú yào dāng zhēn",It’s just entertainment—don’t take it seriously.
-1281,羽毛球,yǔ​ máo ​qiú,badminton,2,1,羽毛,feather,球,ball,,,,,他们每天早上打羽毛球,Tāmen měitiān zǎoshang dǎ yǔmáoqiú,They play badminton every morning
+1281,羽毛球,yǔ máo qiú,badminton,2,1,羽毛,feather,球,ball,,,,,他们每天早上打羽毛球,Tāmen měitiān zǎoshang dǎ yǔmáoqiú,They play badminton every morning
 1282,语气词,yǔ qì cí,modal particles,2,3,语,language,气氛,atmosphere;mood,词,word,,,中文里有很多语气词,Zhōngwén lǐ yǒu hěn duō yǔqìcí,Chinese has many modal particles
 1283,鱼香肉丝,yú xiāng ròu sī,fish-flavored shredded pork,2,5,鱼,fish,香,fragrant,丝,threads,猪肉,pork,我最喜欢点鱼香肉丝吃,wǒ zuì xǐ huān diǎn yú xiāng ròu sī chī,I love ordering fish-flavored shredded pork
 1284,雨衣,yǔ yī,raincoat,2,3,雨,rain,大衣,coat,,,,,今天下雨记得带雨衣,jīn tiān xià yǔ jì dé dài yǔ yī,Don’t forget your raincoat today
 1285,羽衣甘蓝,yǔ yī gān lán,kale,2,2,羽毛,feather,衣服,clothes,甘蓝,cabbage,,,羽衣甘蓝很健康,Yǔyī gānlán hěn jiànkāng,Kale is very healthy
 1286,预约,yù yuē,reservation;booking,2,3,预期,to expect,约,agreement,,,,,我已经预约了医生的时间,Wǒ yǐjīng yùyuē le yīshēng de shíjiān,I have already booked a doctor’s appointment
-1287,约会,yuē ​huì,dating;date,2,2,大约,probably,会议,meeting,,,,,他们今晚有约会,Tāmen jīnwǎn yǒu yuēhuì,They have a date tonight
+1287,约会,yuē huì,dating;date,2,2,大约,probably,会议,meeting,,,,,他们今晚有约会,Tāmen jīnwǎn yǒu yuēhuì,They have a date tonight
 1288,越南,yuè nán,Vietnam,2,2,越来越,more and more,南,south,,,,,我朋友住在越南,Wǒ péngyǒu zhù zài Yuènán,My friend lives in Vietnam
 1289,乐器,yuè qì,musical instrument,2,1,音乐,music,器,device,,,,,他会弹三种乐器,Tā huì tán sān zhǒng yuèqì,He can play three instruments
 1290,粤语,yuè yǔ,Cantonese,2,4,粤,Canton;Guangdong,语言,language,,,,,他会说粤语。,tā huì shuō yuè yǔ,He can speak Cantonese.
@@ -1359,7 +1359,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1358,座位,zuò wèi,seat (position),2,,,,,,,,,,请找到你的座位,qǐng zhǎo dào nǐ de zuò wèi,please find your seat
 1359,左右,zuǒ yòu,about;more or less,2,2,左,left,右,right,,,,,大约有五十人左右,Dàyuē yǒu wǔshí rén zuǒyòu,There are about fifty people
 1360,阿拉伯语,ā lā bó yǔ,arabic language,3,4,阿拉伯,Arab,语言,language,,,,,阿拉伯语从右向左写。,ā lā bó yǔ cóng yòu xiàng zuǒ xiě.,arabic is written right to left.
-1361,埃塞,āi sāi,Ethiopia,3,,-,,,,,,,,他去年去过埃塞参加志愿活动,Tā qùnián qù guò Āisài cānjiā zhìyuàn huódòng,He went to Ethiopia last year for volunteer work
+1361,埃塞,āi sài,Ethiopia,3,,-,,,,,,,,他去年去过埃塞参加志愿活动,Tā qùnián qù guò Āisài cānjiā zhìyuàn huódòng,He went to Ethiopia last year for volunteer work
 1362,爱上,ài shàng,to fall in love,3,3,爱,love,上,up,,,,,他爱上了一个女孩,Tā ài shàng le yīgè nǚhái,He fell in love with a girl
 1363,安徽省,ān huī shěng,Anhui Province,3,3,安,safe,徽章,badge;pin,省,province,,,安徽有著名的黄山。,ān huī yǒu zhù míng de huáng shān,Anhui has the famous Huangshan Mountains.
 1364,安检,ān jiǎn,security check,3,3,安,safe,检查,inspection,,,,,进入车站前需要安检,jin ru che zhan qian xu yao an jian,you need a security check before entering the station
@@ -1437,14 +1437,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1436,承认,chéng rèn,to admit;recognize,3,3,承诺,to promise,认为,to believe,,,,,他承认自己错了,tā chéng rèn zì jǐ cuò le,he admitted he was wrong
 1437,吃惯,chī guàn,to be used to eating,3,,,,,,,,,,我不太吃惯辣的食物,wǒ bú tài chī guàn là de shí wù,I’m not used to eating spicy food
 1438,尺子,chǐ zi,ruler,3,,-,,,,,,,,用尺子画直线。,yòng chǐ zi huà zhí xiàn.,use a ruler to draw straight lines.
-1439,冲浪,chōng ​làng,to surf;surfing,3,2,冲,to pour;infuse;flush,海浪,wave,,,,,他们在海边学习冲浪,Tāmen zài hǎibiān xuéxí chōnglàng,They are learning surfing at the beach
+1439,冲浪,chōng làng,to surf;surfing,3,2,冲,to pour;infuse;flush,海浪,wave,,,,,他们在海边学习冲浪,Tāmen zài hǎibiān xuéxí chōnglàng,They are learning surfing at the beach
 1440,重新装修,chóng xīn zhuāng xiū,renovation,3,1,重新,again,装修,to decorate,,,,,我们家重新装修了,Wǒmen jiā chóngxīn zhuāngxiū le,We renovated our house
 1441,丑闻,chǒu wén,scandal,3,1,丑,ugly,新闻,news,,,,,那个明星卷入了一场丑闻,Nàge míngxīng juǎnrù le yī chǎng chǒuwén,That celebrity got involved in a scandal
 1442,初步,chū bù,initial;preliminary,3,2,初,beginning,步,step,,,,,我们有了初步计划,Wǒmen yǒu le chūbù jìhuà,We have an initial plan
 1443,出轨,chū guǐ,cheating,3,2,出,to go out,轨,track,,,,,他因为出轨而失去了婚姻,Tā yīnwèi chūguǐ ér shīqù le hūnyīn,He lost his marriage because of cheating
 1444,厨师,chú shī,chef,3,,,,,,,,,,这个厨师做菜很好吃,zhè gè chú shī zuò cài hěn hǎo chī,this chef cooks very delicious food
 1445,出租,chū zū,for rent,3,3,出,to go out,租,rent,,,,,他把自己的房子出租了,tā bǎ zì jǐ de fáng zi chū zū le,he rented out his house
-1446,创可贴,chuàng kě tiē,bandaid,3,2,创伤,wound,可,can,贴,paste;stick,,,她给伤口贴上了创可贴,Tā gěi shāngkǒu tiē shàng le chuàngkětiē,She put a band-aid on the wound
+1446,创可贴,chuāng kě tiē,bandaid,3,2,创伤,wound,可,can,贴,paste;stick,,,她给伤口贴上了创可贴,Tā gěi shāngkǒu tiē shàng le chuàngkětiē,She put a band-aid on the wound
 1447,床头柜,chuáng tóu guì,nightstand,3,2,床,bed,头,head,柜子,cabinet,,,手机放在床头柜上充电。,shǒu jī fàng zài chuáng tóu guì shàng chōng diàn。,The phone is charging on the nightstand.
 1448,创新,chuàng xīn,innovation,3,2,创造,create,新,new,,,,,企业发展离不开持续创新。,qǐ yè fā zhǎn lí bù kāi chí xù chuàng xīn.,enterprise development relies on continuous innovation.
 1449,锤子,chuí zi,hammer,3,,-,,,,,,,,工人用锤子敲钉子。,gōng rén yòng chuí zi qiāo dīng zi.,The worker uses a hammer to hit nails.
@@ -1455,14 +1455,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1454,凑单,còu dān,to add items to reach discount threshold,3,3,凑合,improvise;make do,订单,order,,,,,为了包邮我又凑单了。,wèi le bāo yóu wǒ yòu còu dān le,I added extra items to qualify for free shipping.
 1455,脆脆,cuì cuì,crunchy,3,,,,,,,,,,这薯片好脆脆,Zhè shǔpiàn hǎo cuìcuì,These chips are so crunchy
 1456,存钱,cún qián,save money,3,,,,,,,,,,我正在努力存钱买房子,wǒ zhèngzài nǔlì cúnqián mǎi fángzi,I am saving money to buy a house
-1457,错过,cuò ​guò,to miss (train),3,3,错误,mistake,通过,through,,,,,我错过了最后一班地铁,wǒ cuò guò le zuì hòu yī bān dì tiě,I missed the last subway
+1457,错过,cuò guò,to miss (train),3,3,错误,mistake,通过,through,,,,,我错过了最后一班地铁,wǒ cuò guò le zuì hòu yī bān dì tiě,I missed the last subway
 1458,打表,dǎ biǎo,run the taxi meter,3,4,打卡,clock in,表现,to show,,,,,出租车司机一上车就开始打表,chū zū chē sī jī yī shàng chē jiù kāi shǐ dǎ biǎo,The taxi driver started the meter as soon as I got in the car
-1459,大豆,dà ​dòu,soybean,3,2,大,big,豆,bean,,,,,这种饮料是用大豆做的,zhè zhǒng yǐn liào shì yòng dà dòu zuò de,this drink is made from soybeans
+1459,大豆,dà dòu,soybean,3,2,大,big,豆,bean,,,,,这种饮料是用大豆做的,zhè zhǒng yǐn liào shì yòng dà dòu zuò de,this drink is made from soybeans
 1460,大火,dà huǒ,high heat,3,3,大,big,火,fire,,,,,炒菜要用大火,chǎocài yào yòng dàhuǒ,stir fry needs high heat
 1461,大疆,dà jiāng,DJI drones,3,4,大,big,新疆,Xinjiang,,,,,大疆的无人机在全球都很有名。,dà jiāng de wú rén jī zài quán qiú dōu hěn yǒu míng,DJI’s drones are famous worldwide.
 1462,大金刚,dà jīn gāng,Donkey Kong,3,,,,,,,,,,大金刚掷出了最大的骰子,dà jīn gāng zhì chū le zuì dà de tóu zi,Donkey Kong rolled the biggest dice
 1463,大卡,dà kǎ,kilocalorie;Calorie,3,3,大,big,卡,"""ka"" sound",,,,,这餐有五百大卡,Zhè cān yǒu wǔ bǎi dàkǎ,This meal has 500 calories
-1464,大麻,dà​ má,weed;marijuana;cannabis,3,2,大,big,麻木,numb,,,,,大麻在很多国家是非法的,Dàmá zài hěn duō guójiā shì fēifǎ de,Marijuana is illegal in many countries
+1464,大麻,dà má,weed;marijuana;cannabis,3,2,大,big,麻木,numb,,,,,大麻在很多国家是非法的,Dàmá zài hěn duō guójiā shì fēifǎ de,Marijuana is illegal in many countries
 1465,大姨妈,dà yí mā,period,3,3,大,big,姨妈,maternal aunt,,,,,她今天大姨妈来了,tā jīn tiān dà yí mā lái le,she got her period today
 1466,打印机,dǎ yìn jī,printer,3,2,打,hit,印,to print,机,machine,,,公司买了新的打印机,gōng sī mǎi le xīn de dǎ yìn jī,the company bought a new printer
 1467,大跃进,dà yuè jìn,Great Leap Forward,3,4,大,big,跳跃,jump;leap,进行,advance,,,历史课上讲到了大跃进。,lì shǐ kè shàng jiǎng dào le dà yuè jìn.,The Great Leap Forward was covered in history class.
@@ -1529,7 +1529,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1528,放大,fàng dà,to enlarge,3,,,,,,,,,,老师放大了图片让我们看清楚,lǎo shī fàng dà le tú piàn ràng wǒ men kàn qīng chǔ,The teacher enlarged the picture for us to see clearly
 1529,放外音,fàng wài yīn,playing external sound,3,4,播放,broadcast,外面,outside,声音,sound,,,这段视频需要放外音,zhè duàn shì pín xū yào fàng wài yīn,This video needs a voice-over
 1530,放心,fàng xīn,to feel relieved;reassured;at ease,3,2,放松,to relax,心,heart,,,,,请你放心,qǐng nǐ fàng xīn,please rest assured
-1531,飞虫,fēi​ chóng,flying insect,3,2,飞,to fly,虫子,bug,,,,,房间里飞进了一只飞虫,Fángjiān lǐ fēi jìn le yī zhī fēichóng,A bug flew into the room
+1531,飞虫,fēi chóng,flying insect,3,2,飞,to fly,虫子,bug,,,,,房间里飞进了一只飞虫,Fángjiān lǐ fēi jìn le yī zhī fēichóng,A bug flew into the room
 1532,飞盘,fēi pán,frisbee,3,1,飞,fly,盘,plate,,,,,周末我们去公园玩飞盘,zhōumò wǒmen qù gōngyuán wán fēipán,We went to the park to play frisbee on the weekend
 1533,废品回收,fèi pǐn huí shōu,waste recycling,3,4,废话,nonsense,品,goods,回收,recycle,,,小区设有废品回收点,Xiǎoqū shè yǒu fèipǐn huíshōu diǎn,The neighborhood has a recycling station
 1534,肥皂,féi zào,soap,3,,-,,,,,,,,他买了一块肥皂,tā mǎi le yī kuài féi zào,he bought a bar of soap
@@ -1543,7 +1543,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1542,风险,fēng xiǎn,risk;hazard,3,3,风,wind,危险,danger,,,,,投资股票有一定风险,Tóuzī gǔpiào yǒu yídìng fēngxiǎn,Investing in stocks carries some risk
 1543,福建省,fú jiàn shěng,Fujian Province,3,1,幸福,happiness,健康,health,省,province,,,福建靠近台湾海峡。,fú jiàn kào jìn tái wān hǎi xiá,Fujian is close to the Taiwan Strait.
 1544,抚摸,fǔ mō,to pet;caress,3,2,抚慰,to soothe,摸,to touch (with hand),,,,,他轻轻抚摸小猫,Tā qīngqīng fǔmō xiǎo māo,He gently strokes the kitten
-1545,浮潜,fú qiǎn,snorkeling,3,2,漂浮,to float,潜水,to dive under water,,,,,我们在海南第一次尝试浮潜,wǒ men zài hǎi nán dì yī cì cháng shì fú qiǎn,we tried snorkeling for the first time in hainan
+1545,浮潜,fú qián,snorkeling,3,2,漂浮,to float,潜水,to dive under water,,,,,我们在海南第一次尝试浮潜,wǒ men zài hǎi nán dì yī cì cháng shì fú qiǎn,we tried snorkeling for the first time in hainan
 1546,扶手,fú shǒu,handrail;armrest,3,2,扶,help,手,hand,,,,,请你抓紧扶手,qǐng nǐ zhuā jǐn fú shǒu,Please hold on to the handrail
 1547,负债,fù zhài,to be in debt,3,3,负责,responsible for,债,debt,,,,,他因为投资失败而负债累累,tā yīn wèi tóu zī shī bài ér fù zhài lěi lěi,he is heavily in debt because of failed investments
 1548,副作用,fù zuò yòng,side effect,3,3,副,vice;secondary,作用,effect,,,,,这种药的副作用很小,zhè zhǒng yào de fù zuò yòng hěn xiǎo,This medicine has very few side effects
@@ -1557,14 +1557,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1556,高端,gāo duān,high-end,3,3,高,high,端,end,,,,,这是一家高端餐厅。,zhè shì yī jiā gāo duān cāntīng.,This is a high-end restaurant.
 1557,高楼大厦,gāo lóu dà shà,high-rise buildings,3,4,高,high,楼,building;floor,大厦,big building,,,市中心到处都是高楼大厦,Shì zhōngxīn dàochù dōu shì gāolóu dàshà,There are skyscrapers all over downtown
 1558,高效,gāo xiào,efficient,3,3,高,high,效果,result,,,,,这个方法很高效,Zhège fāngfǎ hěn gāoxiào,This method is very efficient
-1559,高血压,gāo xuě yā,high blood pressure;hypertension,3,3,高,high,血,blood,压力,pressure,,,他有高血压,tā yǒu gāo xuè yā,he has high blood pressure
+1559,高血压,gāo xuè yā,high blood pressure;hypertension,3,3,高,high,血,blood,压力,pressure,,,他有高血压,tā yǒu gāo xuè yā,he has high blood pressure
 1560,个人选择,gè rén xuǎn zé,personal choice,3,4,个人,personal,选择,choice,,,,,是否参加完全是个人选择,Shìfǒu cānjiā wánquán shì gèrén xuǎnzé,Whether to join is a personal choice
 1561,个人主义,gè rén zhǔ yì,individualism,3,3,个人,individual,主义,ideology,,,,,他很强调个人主义,Tā hěn qiángdiào gèrén zhǔyì,He emphasizes individualism
 1562,格子,gé zi,lattice;game board space,3,,,,,,,,,,你站在了特殊格子上,nǐ zhàn zài le tè shū gé zi shàng,you landed on a special square
 1563,鸽子,gē zi,pigeon,3,,-,,,,,,,,公园里有很多鸽子。,gōng yuán lǐ yǒu hěn duō gē zi.,There are many pigeons in the park.
 1564,格子衬衫,gé zǐ chèn shān,plaid shirt,3,,,,,,,,,,他今天穿格子衬衫,Tā jīntiān chuān gézi chènshān,He is wearing a plaid shirt today
 1565,宫保鸡丁,Gōng bǎo jī dīng,Kung Pao Chicken,3,,,,,,,,,,我常吃宫保鸡丁面,wǒ cháng chī gōngbǎo jīdīng miàn,I often eat kung pao chicken noodles
-1566,共产主义,gòng​ chǎn ​zhǔ ​yì,communism,3,2,共,common,产品,goods,主义,ideology,,,他研究共产主义,tā yán jiū gòng chǎn zhǔ yì,he studies communism
+1566,共产主义,gòng chǎn zhǔ yì,communism,3,2,共,common,产品,goods,主义,ideology,,,他研究共产主义,tā yán jiū gòng chǎn zhǔ yì,he studies communism
 1567,工程,gōng chéng,engineering;project,3,2,工,work,过程,process,,,,,这个工程需要两年完成,Zhège gōngchéng xūyào liǎng nián wánchéng,This project will take two years to complete
 1568,工地,gōng dì,construction site,3,2,工作,work,地,land,,,,,工地旁边很吵,gōng dì páng biān hěn chǎo,it’s very noisy near the construction site
 1569,功夫,gōng fū,skill;kung fu;effort,3,3,成功,success,夫,man,,,,,他功夫很好,tā gōng fu hěn hǎo,his kung fu is very good
@@ -1597,7 +1597,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1596,过于,guò yú,too;excessive,3,,-,,,,,,,,这个计划过于复杂了,Zhège jìhuà guòyú fùzá le,This plan is overly complicated
 1597,哈尔滨,Hā’ěrbīn,Harbin,3,5,哈哈,haha,尔,"phonetic ""er""",滨江,riverfront,,,哈尔滨有著名的冰雪节,Hā’ěrbīn yǒu zhù míng de bīng xuě jié,Harbin has a famous ice and snow festival
 1598,海拔,hǎi bá,altitude,3,4,海,sea,选拔,selected (best),,,,,这里海拔三千米。,zhè lǐ hǎi bá sān qiān mǐ.,The altitude here is three thousand meters.
-1599,海军,hǎi​ jūn,navy,3,1,海,sea,军,army,,,,,他是海军军官,tā shì hǎi jūn jūn guān,he is a navy officer
+1599,海军,hǎi jūn,navy,3,1,海,sea,军,army,,,,,他是海军军官,tā shì hǎi jūn jūn guān,he is a navy officer
 1600,海绵,hǎi mián,sponge,3,2,海,sea,绵,cotton;soft,,,,,海绵吸水能力强。,hǎi mián xī shuǐ néng lì qiáng.,sponges absorb water well.
 1601,海南省,hǎi nán shěng,Hainan Province,3,2,海,sea,南,south,省,province,,,海南以美丽的海滩而著名。,hǎi nán yǐ měi lì de hǎi tān ér zhù míng,Hainan is famous for its beautiful beaches.
 1602,行 (表格),háng,row (spreadsheet),3,,,,,,,,,,请在第三行输入你的名字,qǐng zài dì sān háng shū rù nǐ de míng zì,Please enter your name in the third row
@@ -1706,7 +1706,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1705,壳,ké,shell;phone case,3,,,,,,,,,,手机壳裂了,shǒujī ké liè le,The phone case cracked
 1706,课程,kè chéng,course,3,2,课,class,过程,process,,,,,这门课程很有趣,zhè mén kè chéng hěn yǒu qù,this course is very interesting
 1707,客观,kè guān,objective;impartial,3,2,客,guest,观点,viewpoint,,,,,他描述得很客观,tā miáoshù de hěn kèguān,he described it objectively
-1708,可回收物,kě huígshōu wù,recyclables,3,,,,,,,,,,-,-,-
+1708,可回收物,kě huí shōu wù,recyclables,3,,,,,,,,,,-,-,-
 1709,可靠,kě kào,reliable,3,2,可,can,靠,lean on,,,,,她是一个很可靠的朋友,Tā shì yīgè hěn kěkào de péngyǒu,She is a very reliable friend
 1710,可可,kě kě,cocoa,3,,,,,,,,,,这块巧克力含有丰富的可可,zhè kuài qiǎo kè lì hán yǒu fēng fù de kě kě,This chocolate contains a lot of cocoa
 1711,可颂,kě sòng,croissant,3,4,可,can,颂歌,ode;carol,,,,,可颂外脆内软。,kě sòng wài cuì nèi ruǎn.,croissants are crispy outside and soft inside.
@@ -1715,7 +1715,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1714,可再生能源,kě zài shēng néng yuán,renewable energy,3,2,可,can,再,again,生,life,能源,energy,太阳能是可再生能源,Tàiyángnéng shì kě zàishēng néngyuán,Solar power is renewable energy
 1715,空姐,kōng jiě,flight attendant,3,1,航空,aviation,姐,elder sister,,,,,那位空姐服务态度很好,nà wèi kōng jiě fú wù tài dù hěn hǎo,The flight attendant was very polite
 1716,恐惧,kǒng jù,fear,3,,-,,,,,,,,孩子对黑暗有恐惧。,hái zi duì hēi àn yǒu kǒng jù.,children are afraid of the dark.
-1717,空军,kōng ​jūn,air force,3,1,空气,air,军,army,,,,,她加入了空军,tā jiā rù le kōng jūn,she joined the air force
+1717,空军,kōng jūn,air force,3,1,空气,air,军,army,,,,,她加入了空军,tā jiā rù le kōng jūn,she joined the air force
 1718,恐龙,kǒng lóng,dinosaur,3,1,恐怕,fear,龙,dragon,,,,,恐龙早已在地球上灭绝,Kǒnglóng zǎo yǐ zài dìqiú shàng mièjué,Dinosaurs have long been extinct on Earth
 1719,口号,kǒu hào,slogan,3,1,口,mouth,号,mark,,,,,他们大声喊出口号,tā men dà shēng hǎn chū kǒu hào,they shouted the slogan loudly
 1720,口香糖,kǒu xiāng táng,gum,3,1,口,mouth,香,fragrant,糖,sugar,,,他正在嚼口香糖,Tā zhèngzài jiáo kǒuxiāngtáng,He is chewing gum
@@ -1766,7 +1766,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1765,铝,lǚ,aluminum,3,,,,,,,,,,这个锅是铝制的,Zhège guō shì lǚ zhì de,This pot is made of aluminum
 1766,路标,lù biāo,road signs,3,3,路,road,标,sign,,,,,路标清楚地指示方向,Lùbiāo qīngchǔ de zhǐshì fāngxiàng,The road signs clearly show the direction
 1767,旅居,lǚ jū,live abroad (temporarily),3,3,旅行,travel,居民,resident,,,,,他在法国旅居多年,Tā zài Fǎguó lǚjū duō nián,He lived in France for many years
-1768,芦笋,lú​ sǔn,asparagus,3,3,西葫芦,zucchini,笋,bamboo shoot,,,,,我喜欢清炒芦笋,wǒ xǐ huān qīng chǎo lú sǔn,I like stir fried asparagus
+1768,芦笋,lú sǔn,asparagus,3,3,西葫芦,zucchini,笋,bamboo shoot,,,,,我喜欢清炒芦笋,wǒ xǐ huān qīng chǎo lú sǔn,I like stir fried asparagus
 1769,露台,lù tái,patio,3,2,露,dew,台,platform,,,,,房间有一个露台,fáng jiān yǒu yī gè lù tái,the room has a terrace
 1770,路线,lù xiàn,route;itinerary,3,2,路,road,线,line,,,,,我们计划了一条路线,wǒ men jì huà le yī tiáo lù xiàn,we planned a route
 1771,路易吉,lù yì jí,Luigi,3,,,,,,,,,,路易吉获得了一颗星星,lù yì jí huò dé le yī kē xīng xīng,Luigi collected a star
@@ -1847,7 +1847,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1846,配送,pèi sòng,delivery,3,,,,,,,,,,商店提供免费配送,shāng diàn tí gòng miǎn fèi pèi sòng,the shop offers free delivery
 1847,喷泉,pēn quán,fountain,3,2,喷嚏,sneeze,温泉,spa,,,,,公园里有一个喷泉,Gōngyuán lǐ yǒu yí gè pēnquán,There is a fountain in the park
 1848,脾气,pí qì,temper;character;disposition,3,3,脾,spleen,生气,angry,,,,,她脾气很好,tā pí qì hěn hǎo,she has a good temper
-1849,偏见,piān ​jiàn,prejudice;bias,3,2,偏,to lean,见,to see,,,,,不要带着偏见看人,Búyào dàizhe piānjiàn kàn rén,Don’t look at people with prejudice
+1849,偏见,piān jiàn,prejudice;bias,3,2,偏,to lean,见,to see,,,,,不要带着偏见看人,Búyào dàizhe piānjiàn kàn rén,Don’t look at people with prejudice
 1850,偏远,piān yuǎn,far out;remote,3,3,偏,inclined to one side,远,far,,,,,这个村子非常偏远。,zhè ge cūn zi fēi cháng piān yuǎn.,This village is very remote.
 1851,拼多多,pīn duō duō,Chinese Temu,3,4,拼命,to do one's utmost,多多,many,,,,,她在拼多多买了一堆零食,tā zài pīnduōduō mǎile yìduī língshí,She bought a bunch of snacks on Pinduoduo
 1852,拼配豆,pīn pèi dòu,blended beans,3,4,拼接,splice,匹配,to match,豆,bean,,,我喜欢用拼配豆冲咖啡,Wǒ xǐhuān yòng pīnpèi dòu chōng kāfēi,I like to brew coffee with blend beans
@@ -1875,7 +1875,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1874,浅色,qiǎn sè,light color,3,4,浅,shallow,色彩,color,,,,,浅色房间更显大,qiǎn sè fáng jiān gèng xiǎn dà,Light colors make rooms look bigger
 1875,牵手,qiān shǒu,hold hands,3,3,牵,to lead along;drag,手,hand,,,,,他们在公园里牵手,Tāmen zài gōngyuán lǐ qiānshǒu,They hold hands in the park
 1876,谦逊,qiān xùn,humble,3,,-,,,,,,,,他待人很谦逊,Tā dàirén hěn qiānxùn,He is very modest with people
-1877,谦虚,qiān xùn,modest,3,,,,,,,,,,他为人很谦虚,tā wéi rén hěn qiān xū,he is very modest
+1877,谦虚,qiān xū,modest,3,,,,,,,,,,他为人很谦虚,tā wéi rén hěn qiān xū,he is very modest
 1878,潜意识,qián yì shí,subconscious,3,3,潜艇,submarine,意识,consciousness,,,,,这些习惯其实来自你的潜意识。,zhèxiē xíguàn qíshí láizì nǐ de qiányìshí.,These habits actually come from your subconscious.
 1879,前缀,qián zhuì,prefix,3,2,前,before,点缀,embellishment,,,,,不定式的“to”是一个前缀,Bùdìngshì de “to” shì yī gè qiánzhuì,"The ""to"" in infinitives is a prefix"
 1880,抢,qiǎng,snatch;rush to get,3,,-,,,,,,,,大家都在抢演唱会门票。,dà jiā dōu zài qiǎng yǎn chàng huì mén piào,Everyone is rushing to buy concert tickets.
@@ -1894,7 +1894,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1893,热水器,rè shuǐ qì,water heater,3,3,热,heat,水,water,器,device,,,热水器坏了没热水,Rèshuǐqì huài le méi rèshuǐ,The water heater is broken no hot water
 1894,热爱,rè' ài,passionate;deep love;to love ardently,3,3,热,hot,爱,love,,,,,她热爱音乐,tā rè ài yīn yuè,she loves music
 1895,人人,rén rén,everyone,3,3,人,person,人,person,,,,,人人都喜欢假期,rén rén dōu xǐ huān jià qī,everyone likes holidays
-1896,人物,rén​ wù,character,3,2,人,person,物,thing,,,,,这本书的人物很多,zhè běn shū de rén wù hěn duō,this book has many characters
+1896,人物,rén wù,character,3,2,人,person,物,thing,,,,,这本书的人物很多,zhè běn shū de rén wù hěn duō,this book has many characters
 1897,日用品,rì yòng pǐn,daily products,3,2,日,day,用,to use,品,product,,,超市里有各种日用品,Chāoshì lǐ yǒu gèzhǒng rìyòngpǐn,The supermarket has all kinds of daily necessities
 1898,肉夹馍,ròu jiā mó,Chinese burger,3,3,牛肉,beef,夹,to sandwich,馒,small loaf of steamed bread,,,来西安一定要吃肉夹馍。,lái xī ān yí dìng yào chī ròu jiā mó,You must eat roujiamo when visiting Xi’an.
 1899,肉松,ròu sōng,meat floss,3,3,肉,meat,松,loose,,,,,面包里有肉松,miàn bāo lǐ yǒu ròu sōng,the bread has pork floss inside
@@ -1903,12 +1903,12 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1902,三轮车,sān lún chē,tricycle,3,2,三,three,轮胎,tire,车,vehicle,,,老人骑三轮车,lǎo rén qí sān lún chē,the old man rides a tricycle
 1903,三明治,sān míng zhì,sandwich,3,4,三,three,明,bright,政治,politics,,,中午我吃了三明治,zhōng wǔ wǒ chī le sān míng zhì,i ate a sandwich at noon
 1904,三十几岁,sān shí jǐ suì,thirties;thirty-something,3,3,三十,thirty,几,several,岁,age,,,他今年三十几岁,tā jīn nián sān shí jǐ suì,he is in his thirties this year
-1905,三文鱼,sān wèn yú,salmon,3,4,三,three,文,arts,鱼,fish,,,晚餐有三文鱼,wǎn cān yǒu sān wén yú,there is salmon for dinner
+1905,三文鱼,sān wén yú,salmon,3,4,三,three,文,arts,鱼,fish,,,晚餐有三文鱼,wǎn cān yǒu sān wén yú,there is salmon for dinner
 1906,扫把,sào bǎ,broom,3,2,扫,to sweep,把手,handle,,,,,用扫把清理地面。,yòng sào bǎ qīng lǐ dì miàn.,use a broom to clean the floor.
 1907,傻逼,shǎ bī,idiot,3,4,傻,stupid,牛逼,awesome,,,,,别因为小事骂人傻逼。,Bié yīnwèi xiǎoshì mà rén shǎbī.,Don't call people idiots over small matters.
 1908,傻蛋,shǎ dàn,idiot;stupid egg,3,1,傻,stupid,蛋,egg,,,,,你这个傻蛋,nǐ zhè gè shǎ dàn,you silly fool
 1909,沙发,shā fā,sofa,3,3,沙,sand,发,to send out,,,,,沙发坐着很舒服。,shā fā zuò zhe hěn shū fu.,the sofa is comfortable.
-1910,傻瓜,shǎ​ guā,idiot,3,1,傻,stupid,瓜,melon,,,,,别当傻瓜了这很明显是个玩笑,Bié dāng shǎguā le zhè hěn míngxiǎn shì gè wánxiào,Don’t be a fool it’s obviously a joke
+1910,傻瓜,shǎ guā,idiot,3,1,傻,stupid,瓜,melon,,,,,别当傻瓜了这很明显是个玩笑,Bié dāng shǎguā le zhè hěn míngxiǎn shì gè wánxiào,Don’t be a fool it’s obviously a joke
 1911,沙特,shā tè,Saudi Arabia,3,2,沙,sand,特,special,,,,,他去过沙特旅行,Tā qùguò Shātè lǚxíng,He has traveled to Saudi Arabia
 1912,山东省,shān dōng shěng,Shandong Province,3,2,山,mountain,东,east,省,province,,,山东是孔子的故乡。,shān dōng shì kǒng zǐ de gù xiāng,Shandong is Confucius’s hometown.
 1913,善良,shàn liáng,kind (person),3,,,,,,,,,,她是一个善良的人,tā shì yī gè shàn liáng de rén,she is a kind person
@@ -1926,11 +1926,11 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1925,射箭,shè jiàn,archery,3,2,射,shoot,箭,arrow,,,,,射箭需要稳定的手感。,shè jiàn xū yào wěn dìng de shǒu gǎn.,archery requires steady hands.
 1926,社牛,shè niú,social butterfly,3,3,社会,society,牛逼,awesome,,,,,她是个社牛 到处都能聊得开,Tā shì gè shèniú dàochù dōu néng liáo de kāi,She’s a social butterfly who can talk to anyone
 1927,社死,shè sǐ,super embarrassing;social death,3,3,社会,society,死,die,,,,,昨天在会议上忘词我真的社死,zuótiān zài huìyì shàng wàng cí wǒ zhēnde shèsǐ,I forgot my lines in the meeting yesterday it was total social death
-1928,深度,shēn ​dù,depth,3,2,深,deep,程度,degree,,,,,这篇文章的分析有深度,zhè piān wén zhāng de fēn xī yǒu shēn dù,the analysis in this article has depth
+1928,深度,shēn dù,depth,3,2,深,deep,程度,degree,,,,,这篇文章的分析有深度,zhè piān wén zhāng de fēn xī yǒu shēn dù,the analysis in this article has depth
 1929,身份盗用,shēn fèn dào yòng,identity theft,3,3,身份,identity,海盗,pirate,用,use,,,身份盗用是一种严重的犯罪,shēn fèn dào yòng shì yī zhǒng yán zhòng de fàn zuì,identity theft is a serious crime
 1930,深色,shēn sè,dark color,3,4,深,deep,色彩,color,,,,,深色衣服比较耐脏,shēn sè yī fú bǐ jiào nài zāng,Dark clothes hide dirt better
 1931,生存,shēng cún,survive,3,,,,,,,,,,动物为了生存会不断适应环境,dòng wù wèi le shēng cún huì bú duàn shì yìng huán jìng,Animals constantly adapt to the environment in order to survive
-1932,圣诞,shèng ​dàn,Christmas,3,2,圣,holy,诞生,to be born,,,,,圣诞是一个欢乐的节日,shèng dàn shì yī gè huān lè de jié rì,christmas is a joyful holiday
+1932,圣诞,shèng dàn,Christmas,3,2,圣,holy,诞生,to be born,,,,,圣诞是一个欢乐的节日,shèng dàn shì yī gè huān lè de jié rì,christmas is a joyful holiday
 1933,圣诞老人,shèng dàn lǎo rén,Santa Claus,3,3,圣诞,Christmas,老人,old person,,,,,孩子们相信圣诞老人会送礼物,háizimen xiāngxìn shèngdàn lǎorén huì sòng lǐwù,Children believe Santa brings gifts
 1934,省会,shěng huì,provincial capital,3,3,省份,province,会议,meeting,,,,,武汉是湖北的省会。,wǔ hàn shì hú běi de shěng huì。,Wuhan is the capital of Hubei.
 1935,生活成本,shēng huó chéng běn,cost of living,3,3,生活,life,成本,costs,,,,,这个城市生活成本很高,Zhège chéngshì shēnghuó chéngběn hěn gāo,The cost of living in this city is high
@@ -1951,7 +1951,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1950,食堂,shí táng,cafeteria,3,1,食物,food,堂,hall,,,,,下班后我们去食堂吃点东西,shí táng xià bān hòu wǒ men qù shí táng chī diǎn dōng xī,after work we went to the cafeteria to eat something
 1951,石头剪刀布,shí tou jiǎn dāo bù,rock paper scissors,3,3,石头,stone,剪刀,scissors,布,cloth,,,我们用石头剪刀布决定。,wǒ men yòng shí tou jiǎn dāo bù jué dìng。,We decided with rock-paper-scissors.
 1952,试图,shì tú,attempt,3,4,试验,test,图,diagram;picture,,,,,他试图解释。,tā shì tú jiě shì,He tried to explain.
-1953,实验室,shí​ yàn ​shì,laboratory,3,1,实验,experiment,办公室,office,,,,,他们在实验室做研究,tā men zài shí yàn shì zuò yán jiū,they are doing research in the laboratory
+1953,实验室,shí yàn shì,laboratory,3,1,实验,experiment,办公室,office,,,,,他们在实验室做研究,tā men zài shí yàn shì zuò yán jiū,they are doing research in the laboratory
 1954,实用,shí yòng,practical;useful,3,2,其实,actually,用,use,,,,,这个工具很实用,Zhège gōngjù hěn shíyòng,This tool is very useful
 1955,市长,shì zhǎng,mayor,3,1,城市,city,长官,senior official,,,,,市长发表讲话。,shì zhǎng fā biǎo jiǎng huà,The mayor gave a speech.
 1956,手冲,shǒu chōng,pour over,3,2,手,hand,冲,flush,,,,,我喜欢自己手冲咖啡,Wǒ xǐhuān zìjǐ shǒuchōng kāfēi,I like making pour-over coffee myself
@@ -1965,7 +1965,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1964,书架,shū jià,bookshelf,3,4,书,book,架,rack,,,,,书架上有很多书,shūjià shàng yǒu hěnduō shū,There are many books on the shelf
 1965,数据科学,shù jù kē xué,data science,3,,,,,,,,,,我在研究数据科学的方法,Wǒ zài yánjiū shùjù kēxué de fāngfǎ,I am studying methods of data science
 1966,数据库,shù jù kù,database,3,4,数据,data,仓库,warehouse,,,,,我们在学习数据库,Wǒmen zài xuéxí shùjùkù,We are studying databases
-1967,书桌,shū​ zhuō,desk,3,1,书,book,桌,table,,,,,他的书桌上堆满了书和文件,Tā de shūzhuō shàng duī mǎn le shū hé wénjiàn,His desk is full of books and papers
+1967,书桌,shū zhuō,desk,3,1,书,book,桌,table,,,,,他的书桌上堆满了书和文件,Tā de shūzhuō shàng duī mǎn le shū hé wénjiàn,His desk is full of books and papers
 1968,梳子,shū zi,comb,3,,-,,,,,,,,这把梳子很顺手。,zhè bǎ shūzi hěn shùnshǒu,This comb is easy to use.
 1969,霜,shuāng,frost,3,,-,,,,,,,,昨晚有霜冻。,zuó wǎn yǒu shuāng dòng.,There was frost last night.
 1970,双十一,shuāng shí yī,Double 11 shopping festival;Singles day,3,,,,,,,,,,双十一大家都在购物,shuāng shí yī dà jiā dōu zài gòu wù,everyone is shopping on singles day
@@ -1989,7 +1989,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 1988,算了,suàn le,nevermind;forget it,3,,,,,,,,,,算了我们不去了,suàn le wǒ men bù qù le,forget it we are not going
 1989,隧道,suì dào,tunnel,3,,,,,,,,,,火车穿过了长长的隧道,huǒ chē chuān guò le cháng cháng de suì dào,the train passed through a long tunnel
 1990,随地吐痰,suí dì tǔ tán,spit;spitting anywhere,3,3,随便,as one wishes,地,ground,吐,vomit,痰,phlegm,不要随地吐痰,Bùyào suí dì tǔtán,Don't spit anywhere
-1991,随时,suí​ shí,at any time,3,2,随便,casual,时间,time,,,,,你随时联系我,Nǐ suíshí liánxì wǒ,Contact me anytime
+1991,随时,suí shí,at any time,3,2,随便,casual,时间,time,,,,,你随时联系我,Nǐ suíshí liánxì wǒ,Contact me anytime
 1992,随时退,suí shí tuì,anytime refund,3,,,,,,,,,,订单可以随时退,dìng dān kě yǐ suí shí tuì,the order can be refunded anytime
 1993,孙悟空,sūn wù kōng,Monkey King,3,4,孙子,grandson,觉悟,consciousness;realization,空,empty,,,孙悟空会七十二变。,sūn wù kōng huì qī shí èr biàn.,sun wukong can transform in many ways.
 1994,所谓,suǒ wèi,so-called,3,,,,,,,,,,所谓的自由并不是毫无限制的。,suǒ wèi de zì yóu bìng bú shì háo wú xiàn zhì de。,So-called freedom is not without limits。
@@ -2022,7 +2022,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2021,同母异父,tóng mǔ yì fù,half sibling (same mother),3,2,同,same,母,mother,异,different,父,father,他们是同母异父的兄弟,Tāmen shì tóng mǔ yì fù de xiōngdì,They are half brothers with the same mother
 2022,通勤,tōng qín,commute,3,3,交通,traffic,勤奋,diligent;hardworking,,,,,我每天通勤一个小时,Wǒ měitiān tōngqín yī gè xiǎoshí,I commute for an hour every day
 2023,同音字,tóng yīn zì,homophone,3,1,同,same,声音,sound,字,character,,,中文有很多同音字。,zhōng wén yǒu hěn duō tóng yīn zì.,Chinese has many homophones.
-2024,同志,tóng ​zhì,comrade,3,2,同,same,标志,sign,,,,,他们是老同志了,Tāmen shì lǎo tóngzhì le,They have been comrades for years
+2024,同志,tóng zhì,comrade,3,2,同,same,标志,sign,,,,,他们是老同志了,Tāmen shì lǎo tóngzhì le,They have been comrades for years
 2025,透明,tòu míng,transparent,3,2,透露,to disclose;leak,明亮,bright,,,,,这个杯子是透明的,zhè gè bēi zi shì tòu míng de,This cup is transparent
 2026,投入,tóu rù,invest in;to throw into,3,3,投,to throw,入,to enter,,,,,他很投入地做工作,Tā hěn tóurù de zuò gōngzuò,He works with great focus
 2027,头像,tóu xiàng,avatar;portrait;profile picture,3,2,头,head,像,resemble,,,,,我换了一个新头像,wǒ huàn le yī gè xīn tóu xiàng,I changed my profile picture
@@ -2055,13 +2055,13 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2054,文明,wén míng,civilized;civilization,3,2,文,culture,明,bright,,,,,文明出行很重要,wén míng chū xíng hěn zhòng yào,civilized behavior is important
 2055,温柔,wēn róu,tender;gentle,3,2,温暖,warm,柔软,soft,,,,,她的声音很温柔,tā de shēng yīn hěn wēn róu,her voice is very gentle
 2056,文章,wén zhāng,article,3,3,文件,document,章  ,chapter,,,,,他的文章写得很有深度,tā de wén zhāng xiě de hěn yǒu shēn dù,His article is very insightful
-2057,挑食,Wǒ bù tiāoshí,picky eater,3,,,,,,,,,,我不挑食,Wǒ bù tiāoshí,I am not a picky eater
+2057,挑食,tiāo shí,picky eater,3,,,,,,,,,,我不挑食,Wǒ bù tiāoshí,I am not a picky eater
 2058,雾,wù,fog,3,,-,,,,,,,,早晨的雾很浓。,zǎo chén de wù hěn nóng.,The morning fog is thick.
 2059,屋顶,wū dǐng,roof,3,2,房屋,house,顶,top,,,,,猫跳到了屋顶上。,māo tiào dào le wū dǐng shàng。,The cat jumped onto the roof.
 2060,五花肉,wǔ huā ròu,pork belly,3,3,五,five,花,flower,肉,meat,,,我最喜欢吃红烧五花肉,wǒ zuì xǐ huān chī hóng shāo wǔ huā ròu,my favorite is braised pork belly
 2061,无论,wú lùn,regardless;no matter what,3,2,无,no,讨论,to discuss,,,,,无论天气如何我们都要去,Wúlùn tiānqì rúhé wǒmen dōu yào qù,No matter the weather we will go
 2062,武器,wǔ qì,weapon,3,2,武术,martial arts,器,device,,,,,这是一种先进的武器,Zhè shì yī zhǒng xiānjìn de wǔqì,This is an advanced weapon
-2063,无限,wú​ xiàn,unlimited,3,2,无,without,限制,limit,,,,,孩子的想象力是无限的,hái zi de xiǎng xiàng lì shì wú xiàn de,the imagination of children is limitless
+2063,无限,wú xiàn,unlimited,3,2,无,without,限制,limit,,,,,孩子的想象力是无限的,hái zi de xiǎng xiàng lì shì wú xiàn de,the imagination of children is limitless
 2064,无线,wú xiàn,wireless,3,3,无,without,线,thread,,,,,这里有无线网络。,zhè lǐ yǒu wú xiàn wǎng luò,There is Wi-Fi here.
 2065,五线城市,wǔ xiàn chéng shì,Fifth-tier cities,3,4,五,five,线,line,城市,city,,,我住在五线城市,Wǒ zhù zài wǔxiàn chéngshì,I live in a smaller city
 2066,细胞,xì bāo,cell,3,,,,,,,,,,科学家正在研究癌细胞的变化,kē xué jiā zhèng zài yán jiū ái xì bāo de biàn huà,Scientists are studying the changes in cancer cells
@@ -2133,7 +2133,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2132,异地恋,yì dì liàn,long-distance relationship,3,2,差异,difference,地,land,恋,love,,,他们正在谈异地恋,Tāmen zhèngzài tán yìdìliàn,They are in a long-distance relationship
 2133,已订婚,yǐ dìng hūn,engaged,3,2,已经,already,预订,place an order,结婚,to get married,,,他们已经订婚了,tā men yǐ jīng dìng hūn le,They’re already engaged
 2134,一对一,yī duì yī,one-on-one,3,,,,,,,,,,老师给我进行一对一的辅导,lǎoshī gěi wǒ jìnxíng yī duì yī de fǔdǎo,The teacher gave me one on one tutoring
-2135,一国两制,yí guó liǎng zhì,"one country, two systems",3,4,一,one,国家,country,两,two,制度,system,一国两制是重要的制度安排。,yí guó liǎng zhì shì zhòng yào de zhì dù ān pái.,one country two systems is an important institutional arrangement.
+2135,一国两制,yī guó liǎng zhì,"one country, two systems",3,4,一,one,国家,country,两,two,制度,system,一国两制是重要的制度安排。,yí guó liǎng zhì shì zhòng yào de zhì dù ān pái.,one country two systems is an important institutional arrangement.
 2136,衣架,yī jià,clothes hanger,3,2,衣服,clothing,架,rack,,,,,请把衣服挂在衣架上。,qǐng bǎ yī fu guà zài yī jià shàng.,Please hang the clothes on the hanger.
 2137,易燃,yì rán,flammable,3,1,容易,easy,燃烧,to ignite,,,,,这个仓库里有很多易燃物品,zhè gè cāng kù lǐ yǒu hěn duō yì rán wù pǐn,there are many flammable items in this warehouse
 2138,以上,yǐ shàng,above,3,,,,,,,,,,以上就是全部内容,yǐ shàng jiù shì quán bù nèi róng,that is all the content above
@@ -2178,7 +2178,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2177,运动鞋,yùn dòng xié,sneakers,3,3,运动,sports,鞋子,shoes,,,,,我每天穿运动鞋跑步。,wǒ měi tiān chuān yùn dòng xié pǎo bù.,I wear sneakers to run every day.
 2178,云南省,yún nán shěng,Yunnan Province,3,2,云,cloud,南,south,省,province,,,云南有丰富的少数民族文化。,yún nán yǒu fēng fù de shǎo shù mín zú wén huà,Yunnan has rich minority cultures.
 2179,赞助,zàn zhù,sponsor,3,2,点赞,to like,帮助,help,,,,,这次活动由公司赞助。,zhè cì huódòng yóu gōngsī zànzhù,This event is sponsored by a company.
-2180,炸弹,zhà​ dàn,bomb,3,2,爆炸,explosion,子弹,bullet,,,,,他们发现了一枚炸弹,tā men fā xiàn le yī méi zhà dàn,they found a bomb
+2180,炸弹,zhà dàn,bomb,3,2,爆炸,explosion,子弹,bullet,,,,,他们发现了一枚炸弹,tā men fā xiàn le yī méi zhà dàn,they found a bomb
 2181,渣男,zhā nán,scumbag;jerk,3,2,渣,refuse;trash,男,man,,,,,她说他是个渣男,tā shuō tā shì gè zhā nán,she said he is a jerk
 2182,宅男,zhái nán,homebody,3,2,住宅,residential,男,man,,,,,他是个典型的宅男,tā shì gè diǎn xíng de zhái nán,he is a typical homebody
 2183,战略,zhàn lüè,strategy,3,4,战争,war,侵略,aggression,,,,,公司正在调整未来五年的发展战略,gōng sī zhèng zài tiáo zhěng wèi lái wǔ nián de fā zhǎn zhàn lüè,The company is adjusting its development strategy for the next five years
@@ -2189,11 +2189,11 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2188,振动,zhèn dòng,vibration,3,,,,,,,,,,手机振动了一下我就醒了,zhèn dòng shǒu jī zhèn dòng le yī xià wǒ jiù xǐng le,my phone vibrated once and I woke up
 2189,珍珠,zhēn zhū,pearl,3,2,珍惜,cherish,珠子,bead,,,,,这条项链是天然珍珠做的。,zhè tiáo xiàng liàn shì tiān rán zhēn zhū zuò de.,this necklace is made of natural pearls.
 2190,榛子,zhēn zi,hazelnut,3,,-,,,,,,,,榛子有独特香味。,zhēn zi yǒu dú tè xiāng wèi.,hazelnuts have a unique aroma.
-2191,争论,zhēng ​lùn,to argue;debate,3,2,战争,war,讨论,to discuss,,,,,他们在争论电影好不好,Tāmen zài zhēnglùn diànyǐng hǎo bù hǎo,They are debating if the movie is good
+2191,争论,zhēng lùn,to argue;debate,3,2,战争,war,讨论,to discuss,,,,,他们在争论电影好不好,Tāmen zài zhēnglùn diànyǐng hǎo bù hǎo,They are debating if the movie is good
 2192,证明,zhèng míng,proof;certificate,3,3,保证,guarantee,明,bright,,,,,这张纸可以证明你的身份,zhè zhāng zhǐ kě yǐ zhèng míng nǐ de shēn fèn,this paper can prove your identity
 2193,整容,zhěng róng,plastic surgery,3,4,整个,entire,美容,cosmetic;to beautify,,,,,她打算去韩国整容,tā dǎ suàn qù hán guó zhěng róng,She plans to get plastic surgery in Korea
 2194,正式,zhèng shì,formal;officially,3,1,正确,correct,方式,style,,,,,这是一个正式的场合。,zhè shì yí gè zhèngshì de chǎnghé,This is a formal occasion.
-2195,制度,zhì​ dù,institution;system,3,3,控制,control,程度,degree,,,,,教育制度在不断改革,Jiàoyù zhìdù zài bùduàn gǎigé,The education system is constantly reforming
+2195,制度,zhì dù,institution;system,3,3,控制,control,程度,degree,,,,,教育制度在不断改革,Jiàoyù zhìdù zài bùduàn gǎigé,The education system is constantly reforming
 2196,知乎,zhī hū,Chinese Quora or Reddit,3,2,知道,to know,几乎,almost,,,,,我在知乎上看到一个有趣的问题,wǒ zài zhī hū shàng kàn dào yí gè yǒu qù de wèn tí,I saw an interesting question on Zhihu
 2197,指甲刀,zhǐ jiǎ dāo,nail clippers,3,3,指甲,fingernail,刀,knife,,,,,我需要一把指甲刀,wǒ xūyào yī bǎ zhǐjiǎdāo,I need a nail clipper
 2198,之间,zhī jiān,between,3,,-,,,,,,,,他们之间没有秘密,Tāmen zhījiān méiyǒu mìmì,There are no secrets between them
@@ -2223,7 +2223,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2222,逐渐,zhú jiàn,gradually,3,,,,,,,,,,天气逐渐变暖了,Tiānqì zhújiàn biàn nuǎn le,The weather is gradually getting warmer
 2223,主流,zhǔ liú,mainstream,3,2,主,main,流,flow,,,,,他喜欢听主流音乐,tā xǐ huān tīng zhǔ liú yīn yuè,he likes listening to mainstream music
 2224,著名,zhù míng,famous,3,,-,,,,,,,,他是著名的科学家,Tā shì zhùmíng de kēxuéjiā,He is a famous scientist
-2225,猪排,zhū ​pái,pork chop,3,2,猪肉,pork,牛排,steak,,,,,我点了一份猪排,wǒ diǎn le yī fèn zhū pái,I ordered a pork chop
+2225,猪排,zhū pái,pork chop,3,2,猪肉,pork,牛排,steak,,,,,我点了一份猪排,wǒ diǎn le yī fèn zhū pái,I ordered a pork chop
 2226,主题,zhǔ tí,theme;subject,3,1,主要,main,话题,topic,,,,,这次聚会的主题是生日,zhè cì jù huì de zhǔ tí shì shēng rì,the theme of this party is birthday
 2227,猪蹄,zhū tí,pig feet,3,4,猪,pig,蹄,hoof,,,,,红烧猪蹄特别香,hóng shāo zhū tí tè bié xiāng,The braised pig’s feet smell amazing
 2228,住院,zhù yuàn,hospitalized;inpatient,3,1,住,to live,医院,hospital,,,,,奶奶住院三天,Nǎinai zhùyuàn sān tiān,Grandma was hospitalized for three days
@@ -2302,7 +2302,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2301,彩色,cǎi sè,multicolored;colorful,4,4,色彩,color,色彩,color,,,,,孩子喜欢彩色的气球,hái zi xǐ huan cǎi sè de qì qiú,Children like colorful balloons
 2302,菜园,cài yuán,vegetable garden,4,3,菜,vegetable,园,garden,,,,,爷爷在菜园里种菜,yé yé zài cài yuán lǐ zhòng cài,grandpa grows vegetables in the garden
 2303,残疾人,cán jí rén,disabled people,4,2,残忍,cruel,疾病,disease,人,person,,,社会应关爱残疾人。,shè huì yīng guān ài cán jí rén.,Society should care for disabled people.
-2304,餐桌,cān ​zhuō,dining table,4,2,餐,meal,桌,table,,,,,他们坐在餐桌旁边,Tāmen zuò zài cānzhuō pángbiān,They are sitting next to the dining table
+2304,餐桌,cān zhuō,dining table,4,2,餐,meal,桌,table,,,,,他们坐在餐桌旁边,Tāmen zuò zài cānzhuō pángbiān,They are sitting next to the dining table
 2305,草地,cǎo dì,grassland;field;lawn,4,4,草,grass,地,land,,,,,孩子们在草地上玩。,hái zi men zài cǎo dì shàng wán,Children are playing on the lawn.
 2306,草药,cǎo yào,herbal medicine,4,3,草,grass,药,medicine,,,,,这种草药对感冒很有效。,zhè zhǒng cǎo yào duì gǎn mào hěn yǒu xiào.,this herb is effective for colds.
 2307,草原,cǎo yuán,grassland,4,3,草,grass,原料,raw material,,,,,他们在草原上骑马。,tā men zài cǎo yuán shàng qí mǎ。,They rode horses on the grassland.
@@ -2389,7 +2389,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2388,多邻国,duō lín guó,Duolingo,4,2,多,many,邻居,neighbor,国家,country,,,我每天用多邻国学语言。,wǒ měi tiān yòng duō lín guó xué yǔ yán。,I use Duolingo daily to learn languages.
 2389,噩梦,è mèng,nightmare,4,2,噩,bad,梦,dream,,,,,昨晚我做了一个噩梦,zuó wǎn wǒ zuò le yī gè è mèng,I had a nightmare last night
 2390,恶意,è yì,malicious,4,2,邪恶,evil,意思,idea,,,,,我觉得他是故意的带着恶意,wǒ jué de tā shì gù yì de dài zhe è yì,I think he did it on purpose with malice
-2391,儿时,er shí,childhood,4,2,儿,child,时,time,,,,,我儿时常去爷爷家玩,Wǒ érshí cháng qù yéyé jiā wán,I often went to my grandfather’s house as a child
+2391,儿时,ér shí,childhood,4,2,儿,child,时,time,,,,,我儿时常去爷爷家玩,Wǒ érshí cháng qù yéyé jiā wán,I often went to my grandfather’s house as a child
 2392,耳屎,ěr shǐ,earwax,4,1,耳,ear,屎,shit,,,,,他用棉签清理耳屎,Tā yòng miánqiān qīnglǐ ěrshǐ,He used a cotton swab to clean earwax
 2393,发财,fā cái,get rich,4,4,发达,develop,财富,wealth,,,,,他一直梦想发财。,tā yì zhí mèng xiǎng fā cái。,He’s always dreamed of getting rich.
 2394,法棍,fǎ gùn,baguette,4,1,法国,france,棍,stick,,,,,我买了一根法棍面包,Wǒ mǎi le yì gēn fǎgùn miànbāo,I bought a baguette
@@ -2478,7 +2478,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2477,胡说,hú shuō,nonsense,4,3,胡子,beard,说,talk,,,,,别胡说八道了,Bié húshuō bādào le,Stop talking nonsense
 2478,胡须,hú xū,whiskers,4,4,胡子,beard,必须,must,,,,,猫用胡须感受周围环境。,māo yòng hú xū gǎn shòu zhōu wéi huán jìng.,Cats use whiskers to sense their surroundings.
 2479,华尔街,huá ěr jiē,Wall Street,4,,-,,,,,,,,华尔街今天走势震荡。,huá ěr jiē jīn tiān zǒu shì zhèn dàng。,Wall Street was volatile today.
-2480,花花公子,huā huā gōng zi,playboy,4,,,,,,,,,,他被称为花花公子,tā bèi chēng wéi huā huā gōng zǐ,he is called a playboy
+2480,花花公子,huā huā gōng zǐ,playboy,4,,,,,,,,,,他被称为花花公子,tā bèi chēng wéi huā huā gōng zǐ,he is called a playboy
 2481,化石,huà shí,fossil,4,2,变化,change,石,stone,,,,,他们发现了恐龙化石,tā men fā xiàn le kǒng lóng huà shí,they discovered dinosaur fossils
 2482,华为,huá wéi,Huawei,4,3,华,China,为,in order to;for,,,,,华为旗舰店开在市中心,huá wéi qí jiàn diàn kāi zài shì zhōng xīn,the Huawei flagship store opened downtown
 2483,花销,huā xiao,expenses,4,4,花,to spend,销售,sale,,,,,每个月的花销都不少,Měi gè yuè de huāxiāo dōu bù shǎo,The monthly expenses are quite high
@@ -2634,7 +2634,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2633,满减,mǎn jiǎn,spend-based discount,4,4,满意,satisfied,减少,reduce,,,,,这个平台经常搞满减活动。,zhè gè píng tái jīng cháng gǎo mǎn jiǎn huó dòng,This platform often runs discount promotions.
 2634,盲盒,máng hé,blind box,4,4,盲,blind,盒,box,,,,,他迷上了抽盲盒。,tā mí shàng le chōu máng hé。,He got hooked on blind boxes.
 2635,忙死,máng sǐ,extremely busy,4,,,,,,,,,,我最近忙死了没时间休息,wǒ zuì jìn máng sǐ le méi shí jiān xiū xī,I’ve been so busy lately that I have no time to rest
-2636,毛病,máo​ bìng,fault;defect,4,2,毛,hair,病,illness,,,,,这台电脑总是出毛病,zhè tái diàn nǎo zǒng shì chū máo bìng,this computer always has problems
+2636,毛病,máo bìng,fault;defect,4,2,毛,hair,病,illness,,,,,这台电脑总是出毛病,zhè tái diàn nǎo zǒng shì chū máo bìng,this computer always has problems
 2637,猫粮,māo liáng,cat food,4,,,,,,,,,,我买了一大袋猫粮。,wǒ mǎi le yī dà dài māo liáng.,I bought a big bag of cat food.
 2638,猫零食,māo líng shí,cat treats,4,,,,,,,,,,我买了些猫零食。,wǒ mǎi le xiē māo líng shí.,I bought some cat treats.
 2639,猫砂,māo shā,cat litter,4,,,,,,,,,,请帮猫换猫砂。,qǐng bāng māo huàn māo shā.,Please change the cat litter.
@@ -2676,7 +2676,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2675,农作物,nóng zuò wù,crops,4,1,农,agriculture,作,do,物,thing,,,今年农作物丰收,Jīnnián nóngzuòwù fēngshōu,This year’s crops had a good harvest
 2676,欧元,ōu yuán,euro,4,4,欧洲,Europe,元,dollar,,,,,我在欧洲旅行时用欧元付款。,wǒ zài ōu zhōu lǚ xíng shí yòng ōu yuán fù kuǎn.,I paid in euros while traveling in Europe.
 2677,P图,P tú,Photoshop,4,,,,,,,,,,他喜欢P图,Tā xǐhuān P tú,He likes editing pictures
-2678,排名,pái ​míng,ranking,4,1,排队,to line up,名字,name,,,,,他在比赛中拿到第一名的排名,tā zài bǐ sài zhōng ná dào dì yī míng de pái míng,he ranked first in the competition
+2678,排名,pái míng,ranking,4,1,排队,to line up,名字,name,,,,,他在比赛中拿到第一名的排名,tā zài bǐ sài zhōng ná dào dì yī míng de pái míng,he ranked first in the competition
 2679,攀岩,pān yán,rock climbing,4,4,攀登,to climb,岩石,rock,,,,,小山羊天生擅长攀岩,xiǎo shānyáng tiānshēng shàncháng pānyán,Little goats are born good at climbing rocks
 2680,跑步机,pǎo bù jī,treadmill,4,1,跑步,to run,机,machine,,,,,他每天早上都在跑步机上跑步锻炼身体,tā měi tiān zǎo shang dōu zài pǎo bù jī shàng pǎo bù duàn liàn shēn tǐ,He runs on the treadmill every morning to exercise
 2681,跑道,pǎo dào,(running) track,4,1,跑,run,道,road,,,,,飞机正在跑道上,tīng jī zhèng zài pǎo dào shàng,the plane is on the runway
@@ -2786,7 +2786,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 2785,受伤,shòu shāng,to be injured;wounded,4,2,受,to receive,伤,injury,,,,,他在比赛中受伤了,Tā zài bǐsài zhōng shòushāng le,He was injured during the match
 2786,首饰,shǒu shì,jewelry,4,3,首先,first,装饰,decoration,,,,,她的首饰盒里有很多珍珠项链,tā de shǒu shì hé lǐ yǒu hěn duō zhēn zhū xiàng liàn,Her jewelry box has many pearl necklaces
 2787,收银员,shōu yín yuán,cashier,4,1,收,receive,银,silver,员,staff,,,收银员给了我找零,shōu yín yuán gěi le wǒ zhǎo líng,the cashier gave me change
-2788,鼠标,shǔ ​biāo,computer mouse,4,2,小鼠,mouse,目标,target,,,,,请用鼠标点击图标,qǐng yòng shǔ biāo diǎn jī tú biāo,please click the icon with the mouse
+2788,鼠标,shǔ biāo,computer mouse,4,2,小鼠,mouse,目标,target,,,,,请用鼠标点击图标,qǐng yòng shǔ biāo diǎn jī tú biāo,please click the icon with the mouse
 2789,数量,shù liàng,quantity;amount,4,2,数,number,量,measure,,,,,这个订单的数量很大,Zhège dìngdān de shùliàng hěn dà,This order has a large quantity
 2790,数码,shù mǎ,digital,4,2,数,number,码,code,,,,,我买了一台新的数码相机,Wǒ mǎi le yì tái xīn de shùmǎ xiàngjī,I bought a new digital camera
 2791,输入法,shū rù fǎ,input method,4,3,输入,to input,办法,means,,,,,我手机的输入法是拼音,Wǒ shǒujī de shūrùfǎ shì pīnyīn,The input method on my phone is pinyin
@@ -3032,7 +3032,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3031,租界,zū jiè,concession;settlement,4,3,租,rent,边界,boundary,,,,,上海曾经有很多外国租界,shànghǎi céngjīng yǒu hěn duō wàiguó zūjiè,Shanghai once had many foreign concessions
 3032,钻石,zuàn shí,diamond,4,2,钻头,drill,石头,stone,,,,,这枚戒指上镶着钻石。,zhè méi jiè zhǐ shàng xiāng zhe zuàn shí.,this ring is set with a diamond.
 3033,嘴唇,zuǐ chún,lips,4,,-,,,,,,,,她的嘴唇有点干。,tā de zuǐ chún yǒu diǎn gān.,her lips are a bit dry.
-3034,最终,zuì​ zhōng,final,4,1,最,most,终,end,,,,,我们最终达成协议,wǒ men zuì zhōng dá chéng xié yì,we finally reached an agreement
+3034,最终,zuì zhōng,final,4,1,最,most,终,end,,,,,我们最终达成协议,wǒ men zuì zhōng dá chéng xié yì,we finally reached an agreement
 3035,爱探险的人,ài tàn xiǎn de rén,Adventurous person,5,,,,,,,,,,他是爱探险的人,Tā shì ài tànxiǎn de rén,He is an adventurous person
 3036,安眠药,ān mián yào,sleeping pills,5,3,安,safe,睡眠,sleep,药,medicine,,,医生建议不要长期吃安眠药。,yī shēng jiàn yì bú yào cháng qī chī ān mián yào。,The doctor advised not to take sleeping pills long-term.
 3037,白领,bái lǐng,white-collar worker,5,4,白,white,领,collar,,,,,他是一名典型的白领上班族。,tā shì yī míng diǎnxíng de bái lǐng shàngbānzú.,He is a typical white-collar office worker.
@@ -3186,14 +3186,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3185,郊狼,jiāo láng,coyote,5,1,郊区,suburb,狼,wolf,,,,,我们看到一只郊狼,Wǒmen kàndào yī zhī jiāoláng,We saw a coyote
 3186,节俭,jié jiǎn,frugal,5,,-,,,,,,,,他生活很节俭。,tā shēng huó hěn jié jiǎn。,He lives frugally.
 3187,芥末,jiè mò,mustard,5,,-,,,,,,,,我喜欢汉堡里加芥末。,wǒ xǐ huān hàn bǎo lǐ jiā jiè mò.,I like to add mustard to my burger.
-3188,结扎,jié zhā,sterilization;vasectomy,5,4,结,knot,扎,to prick;run needle into,,,,,他做了结扎手术。,tā zuò le jié zhā shǒu shù,He had sterilization surgery.
+3188,结扎,jié zā,sterilization;vasectomy,5,4,结,knot,扎,to prick;run needle into,,,,,他做了结扎手术。,tā zuò le jié zhā shǒu shù,He had sterilization surgery.
 3189,金发碧眼,jīn fà bì yǎn,blonde hair blue eyes,5,4,金,gold,头发,hair,碧,dark green jade,眼睛,eye,她是个金发碧眼的女孩。,tā shì gè jīn fà bì yǎn de nǚ hái。,She has blonde hair and blue eyes.
 3190,今年上半年,jīn nián shàng bàn nián,first half of this year,5,,,,,,,,,,今年上半年农场里出生了很多小牛,jinnián shàngbànnián nóngchǎng lǐ chūshēng le hěnduō xiǎoniú,Many calves were born on the farm in the first half of the year
 3191,紧迫,jǐn pò,pressing;urgent,5,3,紧张,nervous,强迫,to compel,,,,,时间紧迫，我们得加快进度。,shí jiān jǐn pò，wǒ men děi jiā kuài jìn dù。,Time is urgent; we must speed up.
 3192,金融风控,jīn róng fēng kòng,financial risk control,5,4,金融,finance,风险,risk,控制,control,,,他做金融风控。,tā zuò jīn róng fēng kòng,He works in financial risk control.
 3193,紧身裤,jǐn shēn kù,tights;tight pants,5,2,紧,tight,身,body,裤,pants,,,她穿了一条紧身裤,tā chuān le yī tiáo jǐn shēn kù,she wore a pair of tight pants
 3194,金正恩,jīn zhèng ēn,Kim Jong-un,5,3,金,metal,正,correct,感恩,grateful,,,新闻中提到了金正恩。,xīn wén zhōng tí dào le jīn zhèng ēn,Kim Jong-un was mentioned in the news.
-3195,精彩,jīng​ cǎi,wonderful;marvelous,5,3,精神,spirit,彩虹,rainbow,,,,,比赛非常精彩,bǐsài fēicháng jīngcǎi,the match was wonderful
+3195,精彩,jīng cǎi,wonderful;marvelous,5,3,精神,spirit,彩虹,rainbow,,,,,比赛非常精彩,bǐsài fēicháng jīngcǎi,the match was wonderful
 3196,竞价,jìng jià,bidding,5,1,竞争,competition,价格,price,,,,,他们在拍卖会上激烈竞价,Tāmen zài pāimài huì shàng jīliè jìngjià,They bid fiercely at the auction
 3197,竞赛,jìng sài,competition;race;match,5,5,竞争,to compete,比赛,match,,,,,他参加了数学竞赛。,tā cān jiā le shù xué jìng sài,He joined a math competition.
 3198,精神状态,jīng shén zhuàng tài,mental state,5,4,精神,mental,状态,state,,,,,他的精神状态很好,tā de jīng shén zhuàng tài hěn hǎo,his mental state is good
@@ -3295,7 +3295,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3294,区块链,qū kuài liàn,Blockchain,5,7,区块,block;segment,链,chain,,,,,区块链技术被广泛讨论。,qū kuài liàn jì shù bèi guǎng fàn tǎo lùn.,blockchain technology is widely discussed.
 3295,去哪儿,qù nǎ er,Chinese Expedia,5,3,去,to go,哪儿,where,,,,,他们在去哪儿上买了去北京的机票,tāmen zài qùnǎr shàng mǎile qù Běijīng de jīpiào,They bought plane tickets to Beijing on Qunar
 3296,蛐蛐,qū qu,cricket;mocking someone behind their back,5,,-,,,,,,,,他们又在背后蛐蛐别人。,tā men yòu zài bèi hòu qū qu bié rén.,They're gossiping about someone again.
-3297,全面,quán ​miàn,thorough;all-around,5,2,全,all,方面,aspect,,,,,这次检查非常全面,zhè cì jiǎn chá fēi cháng quán miàn,this inspection is very comprehensive
+3297,全面,quán miàn,thorough;all-around,5,2,全,all,方面,aspect,,,,,这次检查非常全面,zhè cì jiǎn chá fēi cháng quán miàn,this inspection is very comprehensive
 3298,绕开,rào kāi,to go around;bypass,5,4,绕道,detour,开车,drive car,,,,,我们决定绕开堵车路段。,Wǒmen juédìng rào kāi dǔchē lùduàn.,We decided to bypass the traffic jam.
 3299,绕口令,rào kǒu lìng,tongue twisters,5,3,绕,to wind;go around,口,mouth,令,to order,,,他说绕口令说得很快,Tā shuō ràokǒulìng shuō de hěn kuài,He says tongue twisters very fast
 3300,热气球,rè qì qiú,hot air balloon,5,3,热,hot,气球,balloon,,,,,我们坐热气球看日出。,wǒ men zuò rè qì qiú kàn rì chū.,we watched the sunrise from a hot air balloon.
@@ -3400,7 +3400,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3399,小资,xiǎo zī,bougie,5,2,小,small,资本,capital,,,,,这家咖啡馆很有小资情调。,zhè jiā kā fēi guǎn hěn yǒu xiǎo zī qíng diào.,this café has a very urban chic vibe.
 3400,鞋垫,xié diàn,insole,5,1,鞋,shoe,垫子,mat,,,,,新鞋里最好放上鞋垫,xīn xié lǐ zuìhǎo fàng shàng xiédiàn,It is best to put insoles in new shoes
 3401,心电图,xīn diàn tú,electrocardiogram;ECG,5,1,心,heart,电,electricity,图,diagram,,,医生让我做心电图,yī shēng ràng wǒ zuò xīn diàn tú,the doctor asked me to take an ECG
-3402,新冠,xīn guàn,COVID-19,5,4,新,new,王冠,crown,,,,,新冠病毒改变了全世界,xīn guàn bìng dú gǎi biàn le quán shì jiè,COVID-19 changed the whole world
+3402,新冠,xīn guān,COVID-19,5,4,新,new,王冠,crown,,,,,新冠病毒改变了全世界,xīn guàn bìng dú gǎi biàn le quán shì jiè,COVID-19 changed the whole world
 3403,心流,xīn liú,flow state,5,4,心情,mood,流动,flow,,,,,写代码的时候，我很容易进入心流状态。,"xiě dài mǎ de shí hou, wǒ hěn róng yì jìn rù xīn liú zhuàng tài.",I easily enter a flow state when I'm coding.
 3404,新泽西,xīn zé xī,New Jersey,5,,,,,,,,,,他父母住在新泽西,Tā fùmǔ zhù zài Xīnzéxī,His parents live in New Jersey
 3405,行房,xíng fáng,have intercourse,5,4,行,to walk,房间,room,,,,,古代常用行房来指夫妻生活,gǔdài cháng yòng xíngfáng lái zhǐ fūqī shēnghuó,in ancient times the word xingfang was used to describe marital relations
@@ -3504,7 +3504,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3503,摆拍,bǎi pāi,staged photo,6,4,摆脱,to break away from,拍照,take photo,,,,,很多网红视频都是摆拍的。,hěn duō wǎng hóng shì pín dōu shì bǎi pāi de,Many influencer videos are staged.
 3504,柏树,bǎi shù,cypress,6,,-,,,,,,,,柏树象征长寿。,bǎi shù xiàng zhēng cháng shòu.,cypress trees symbolize longevity.
 3505,白左,bái zuǒ,white leftists,6,4,白,white,左,left,,,,,有人用“白左”来批评他们。,yǒu rén yòng “bái zuǒ” lái pī píng tā men,Some people use “baizuo” to criticize them.
-3506,绊倒,bàn dào,to trip;stumble,6,,,,,,,,,,他被石头绊倒了,tā bèi shí tou bàn dǎo le,he tripped over a stone
+3506,绊倒,bàn dǎo,to trip;stumble,6,,,,,,,,,,他被石头绊倒了,tā bèi shí tou bàn dǎo le,he tripped over a stone
 3507,办理,bàn lǐ,to handle (paperwork),6,4,办,to do,管理,supervise,,,,,去窗口办理业务。,qù chuāng kǒu bàn lǐ yè wù,Go to the counter to handle it.
 3508,板栗,bǎn lì,chestnut,6,,-,,,,,,,,糖炒板栗很香。,táng chǎo bǎn lì hěn xiāng.,roasted chestnuts smell great.
 3509,般配,bān pèi,well-matched,6,4,一般,so-so,配合,matching,,,,,他们看起来很般配,tā men kàn qǐ lái hěn bān pèi,They look like a good match
@@ -3598,7 +3598,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3597,吵闹,chǎo nào,noisy,6,4,to quarrel;argue,argue,热闹,lively,,,,,楼上的小孩太吵闹了。,lóu shàng de xiǎo hái tài chǎo nào le,The children upstairs are too noisy.
 3598,超声波,chāo shēng bō,ultrasound,6,3,超,super;ultra-,声,sound,波,wave,,,超声医学科为患者做B超检查,chāo shēng yī xué kē wèi huàn zhě zuò B chāo jiǎn chá,The ultrasound department performs B-ultrasound exams
 3599,朝向,cháo xiàng,Orientation;toward,6,,,,,,,,,,房子朝向南边,fáng zi cháo xiàng nán biān,the house faces south
-3600,炒鱿鱼,chăo yóu yú,fire someone;get fired;to sack,6,2,炒,to fry,鱿鱼,squid,,,,,他昨天被老板炒鱿鱼了,tā zuó tiān bèi lǎo bǎn chǎo yóu yú le,he was fired by the boss yesterday
+3600,炒鱿鱼,chǎo yóu yú,fire someone;get fired;to sack,6,2,炒,to fry,鱿鱼,squid,,,,,他昨天被老板炒鱿鱼了,tā zuó tiān bèi lǎo bǎn chǎo yóu yú le,he was fired by the boss yesterday
 3601,超重,chāo zhòng,overweight,6,2,超,super,重,heavy,,,,,行李超重了,xíng lǐ chāo zhòng le,the luggage is overweight
 3602,车间,chē jiān,workshop,6,2,车,vehicle,房间,room,,,,,车间里传来机器的轰鸣声,chē jiān lǐ chuán lái jī qì de hōng míng shēng,the workshop was filled with the roar of machines
 3603,车轮战,chē lún zhàn,rotation battle;winner stays and loser gets replaced,6,3,车轮,wheel,轮流,take turns,战斗,battle,,,他们采用车轮战消耗对手。,tā men cǎi yòng chē lún zhàn xiāo hào duì shǒu,They used rotation tactics to wear down the opponent.
@@ -3976,7 +3976,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3975,解读,jiě dú,interpretation;to interpret,6,3,了解,to understand,读,to read,,,,,学者正在解读这篇古代文献,xué zhě zhèng zài jiě dú zhè piān gǔ dài wén xiàn,Scholars are interpreting this ancient document
 3976,姐夫,jiě fu,brother-in-law (older sister’s husband),6,3,姐,elder sister,丈夫,husband,,,,,我姐夫是医生,wǒ jiě fu shì yī shēng,My brother-in-law is a doctor
 3977,借记卡,jiè jì kǎ,debit card,6,4,借,borrow,记录,to record,卡,card,,,我用借记卡付款。,wǒ yòng jiè jì kǎ fù kuǎn,I pay with a debit card.
-3978,接近,jiē​ jìn,to approach,6,2,接,to receive,近,near,,,,,我们接近目的地了,wǒ men jiē jìn mù dì dì le,we are close to the destination
+3978,接近,jiē jìn,to approach,6,2,接,to receive,近,near,,,,,我们接近目的地了,wǒ men jiē jìn mù dì dì le,we are close to the destination
 3979,捷径,jié jìng,shortcut,6,,,,,,,,,,找到捷径赢得优势,zhǎo dào jié jìng yíng dé yōu shì,find a shortcut to gain an advantage
 3980,节日气氛,jié rì qì fēn,holiday spirit,6,4,节日,festival,气氛,atmosphere,,,,,音乐让节日气氛更浓,yīnyuè ràng jiérì qìfēn gèng nóng,Music enhances the festive mood
 3981,结实,jiē shi,strong;sturdy;durable,6,3,结构,structure,实,real,,,,,超市的袋子很结实 你不用担心他会在半路破,Chāoshì de dàizǐ hěn jiēshi nǐ bùyòng dānxīn tā huì zài bànlù pò,"The bags in the supermarket are very sturdy, so you don't have to worry about them breaking halfway (home)."
@@ -3993,7 +3993,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 3992,金门大桥,jīn mén dà qiáo,golden gate bridge,6,4,金,gold,门,gate,大,big,桥,bridge,金门大桥是旧金山地标。,jīn mén dà qiáo shì jiù jīn shān dì biāo.,the golden gate bridge is a san francisco landmark.
 3993,谨慎,jǐn shèn,cautious,6,,,,,,,,,,他做事很谨慎,tā zuò shì hěn jǐn shèn,he is very cautious
 3994,近万,jìn wàn,"nearly 10,000",6,,,,,,,,,,报名人数近万,Bàomíng rénshù jìn wàn,Registrations are close to ten thousand
-3995,济南,Jǐnán,Jinan,6,4,经济,economy,南,south,,,,,济南的趵突泉非常有名,Jǐnán de Bào Tū Quán fēi cháng yǒu míng,Baotu Spring in Jinan is very famous
+3995,济南,Jǐ nán,Jinan,6,4,经济,economy,南,south,,,,,济南的趵突泉非常有名,Jǐnán de Bào Tū Quán fēi cháng yǒu míng,Baotu Spring in Jinan is very famous
 3996,鲸,jīng,whale,6,,,,,,,,,,鲸是海洋中最大的动物,jīng shì hǎi yáng zhōng zuì dà de dòng wù,whales are the largest animals in the ocean
 3997,经费,jīng fèi,funding,6,3,经济,economy,费,expenses,,,,,学校缺少研究经费,xuéxiào quēshǎo yánjiū jīngfèi,the school lacks research funding
 3998,净化,jìng huà,to purify,6,1,干净,clean,变化,change,,,,,空气净化器可以净化空气。,kōng qì jìng huà qì kě yǐ jìng huà kōng qì,An air purifier can purify the air.
@@ -4030,14 +4030,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4029,靠谱,kào pǔ,reliable,6,4,靠,lean on,光谱,spectrum,,,,,这人办事挺靠谱的,kào pǔ zhè rén bàn shì tǐng kào pǔ de,this person is pretty reliable
 4030,科比,kē bǐ,Kobe Bryant,6,,,,,,,,,,科比在中国拥有庞大的粉丝群,kē bǐ zài zhōng guó yōng yǒu páng dà de fěn sī qún,Kobe has a huge fanbase in China
 4031,客户端,kè hù duān,client; client application,6,3,客户,customer,端,end;port,,,,,你需要先下载手机客户端。,nǐ xū yào xiān xià zài shǒu jī kè hù duān.,You need to download the mobile client first.
-4032,可见,kě​ jiàn,clear;can be seen;clearly be seen,6,2,可,can,见,see,,,,,山顶上有白雪可见,shān dǐng shàng yǒu bái xuě kě jiàn,snow can be seen on the mountain top
+4032,可见,kě jiàn,clear;can be seen;clearly be seen,6,2,可,can,见,see,,,,,山顶上有白雪可见,shān dǐng shàng yǒu bái xuě kě jiàn,snow can be seen on the mountain top
 4033,磕碰,kē pèng,a dent;bump into,6,4,磕,to knock into,碰,to bump,,,,,搬东西时容易磕碰。,bān dōng xi shí róng yì kē pèng,Items may get bumped when moving.
 4034,科室,kē shì,department (hospital),6,3,科,field;section,室,room,,,,,医生让我去另一个科室,yī shēng ràng wǒ qù lìng yī gè kē shì,the doctor asked me to go to another department
 4035,可疑模式,kě yí mó shì,suspicious pattern,6,,,,,,,,,,系统发现了可疑模式,xì tǒng fā xiàn le kě yí mó shì,The system detected a suspicious pattern
 4036,克制,kè zhì,restraint,6,3,克服,overcome,控制,control,,,,,她努力克制自己的冲动,tā nǔ lì kè zhì zì jǐ de chōng dòng,She tried to restrain her impulse
 4037,啃老,kěn lǎo,live off parents,6,3,啃,to gnaw,老人,elderly,,,,,他一直在啃老。,tā yī zhí zài kěn lǎo,He relies on his parents.
 4038,恐怖袭击,kǒng bù xí jī,terrorist attack,6,4,恐怖,terror,袭击,attack,,,,,警方加强防范恐怖袭击。,jǐng fāng jiā qiáng fáng fàn kǒng bù xí jī。,Police strengthened anti-terror measures.
-4039,空调遥控器,kòng tiáo yáo kòng qì,air conditioner remote control,6,,,,,,,,,,我找不到空调遥控器,wǒ zhǎo bù dào kōngtiáo yáokòngqì,I cannot find the air conditioner remote control
+4039,空调遥控器,kōng tiáo yáo kòng qì,air conditioner remote control,6,,,,,,,,,,我找不到空调遥控器,wǒ zhǎo bù dào kōngtiáo yáokòngqì,I cannot find the air conditioner remote control
 4040,口才,kǒu cái,eloquence,6,2,口,mouth,天才,genius,,,,,她的口才很好。,tā de kǒu cái hěn hǎo,She is very eloquent.
 4041,口吃,kǒu chī,stutter,6,2,口,mouth,吃,eat,,,,,他小时候有点口吃。,tā xiǎoshíhou yǒudiǎn kǒuchī,He had a slight stutter as a child.
 4042,扣除,kòu chú,deduct,6,4,折扣,discount,排除,eliminate;exclude,,,,,费用将从工资中扣除。,fèi yòng jiāng cóng gōng zī zhōng kòu chú。,The fee will be deducted from the salary.
@@ -4071,14 +4071,14 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4070,老乡,lǎo xiāng,fellow townsman,6,3,老,old,家乡,hometown,,,,,没想到在国外遇到老乡。,méi xiǎng dào zài guó wài yù dào lǎo xiāng,I didn’t expect to meet someone from my hometown abroad.
 4071,姥爷,lǎo ye,"grandfather (maternal, Northern)",6,,,,,,,,,,姥爷特别会讲故事。,lǎoye tèbié huì jiǎng gùshì.,My grandpa (maternal) is great at storytelling.
 4072,肋骨,lèi gǔ,rib cage,6,,-,,,,,,,,他打球时伤了肋骨。,tā dǎ qiú shí shāng le lèi gǔ。,He injured a rib while playing ball.
-4073,勒索,lēi suǒ,blackmail,6,3,勒紧,to strangle;rein in,索赔,claims;to claim damage,,,,,他因为勒索被抓了。,tā yīn wèi lēi suǒ bèi zhuā le,He was arrested for blackmail.
+4073,勒索,lè suǒ,blackmail,6,3,勒紧,to strangle;rein in,索赔,claims;to claim damage,,,,,他因为勒索被抓了。,tā yīn wèi lēi suǒ bèi zhuā le,He was arrested for blackmail.
 4074,冷冻柜,lěng dòng guì,freezer cabinet,6,3,冷冻,freeze,柜子,cabinet,,,,,冷冻柜里存放着很多肉类。,lěng dòng guì lǐ cún fàng zhe hěn duō ròu lèi.,the freezer cabinet stores a lot of meat.
 4075,冷清,lěng qīng,deserted,6,3,冷,cold,清,clear;clean,,,,,假期后商场很冷清,jià qī hòu shāng chǎng hěn lěng qīng,the mall is quiet after the holidays
 4076,冷战,lěng zhàn,cold war; silent treatment,6,4,冷,cold,战争,war,,,,,他们吵架后开始冷战。,tā men chǎo jià hòu kāi shǐ lěng zhàn.,They started giving each other the silent treatment after arguing.
 4077,离岸,lí àn,offshore,6,3,距离,distance,海岸,coastal,,,,,公司采用离岸账户。,gōng sī cǎi yòng lí àn zhàng hù,The company uses offshore accounts.
 4078,栗宝宝,lì bǎo bǎo,Goomba,6,2,栗子,chestnut,宝宝,baby,,,,,栗宝宝加入了这场派对,lì bǎo bǎo jiā rù le zhè chǎng pài duì,Goomba joined this party
 4079,里程碑,lǐ chéng bēi,milestone,6,3,英里,mile,程度,level,碑,stone tablet,,,这次合作是我们公司的里程碑,zhè cì hé zuò shì wǒ men gōng sī de lǐ chéng bēi,this cooperation is a milestone for our company
-4080,力度,lì​ dù,strength,6,2,力,power,程度,degree,,,,,政策的力度越来越大,zhèng cè de lì dù yuè lái yuè dà,the strength of the policy is increasing
+4080,力度,lì dù,strength,6,2,力,power,程度,degree,,,,,政策的力度越来越大,zhèng cè de lì dù yuè lái yuè dà,the strength of the policy is increasing
 4081,立法,lì fǎ,legislation;to legislate,6,2,建立,to establish,法,law,,,,,政府正在讨论新的立法,zhèng fǔ zhèng zài tǎo lùn xīn de lì fǎ,the government is discussing new legislation
 4082,立方米,lì fāng mǐ,cubic meter,6,4,建立,establish,方,square,米,meter,,,这个房间有一百立方米。,zhè gè fáng jiān yǒu yì bǎi lì fāng mǐ,This room has one hundred cubic meters.
 4083,狸花猫,lí huā māo,tabby cat,6,2,狐狸,fox,花,flower,猫,cat,,,我家养了一只狸花猫。,wǒ jiā yǎng le yì zhī lí huā māo,My family has a tabby cat.
@@ -4092,7 +4092,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4091,理想,lǐ xiǎng,ideal;dream,6,2,理论,theory,想要,to want to,,,,,她有远大的理想,tā yǒu yuǎndà de lǐxiǎng,she has great ideals
 4092,离心机,lí xīn jī,centrifuge,6,1,分离,to separate,心,heart,机器,machine,,,样品放进离心机里。,yàng pǐn fàng jìn lí xīn jī lǐ。,Put the sample into the centrifuge.
 4093,礼仪,lǐ yí,etiquette,6,2,礼貌,polite,仪式,ceremony,,,,,在晚宴上注意礼仪很重要,zài wǎn yàn shàng zhù yì lǐ yí hěn zhòng yào,it is important to pay attention to etiquette at a dinner party
-4094,利用,lì​ yòng,to exploit,6,2,利益,benefit,使用,to use,,,,,他善于利用时间,tā shàn yú lì yòng shí jiān,he is good at making use of time
+4094,利用,lì yòng,to exploit,6,2,利益,benefit,使用,to use,,,,,他善于利用时间,tā shàn yú lì yòng shí jiān,he is good at making use of time
 4095,鲤鱼,lǐ yú,carp,6,,-,,,,,,,,鲤鱼常见于淡水。,lǐ yú cháng jiàn yú dàn shuǐ.,carp are common in freshwater.
 4096,脸书,liǎn shū,Facebook,6,3,脸,face,书,book,,,,,我在脸书上看到你的照片,wǒ zài liǎn shū shàng kàn dào nǐ de zhào piàn,I saw your photo on Facebook
 4097,恋童癖,liàn tóng pǐ,pedophile,6,3,恋爱,romantic love,儿童,child,癖,craving,,,恋童癖是一种严重的犯罪,liàn tóng pǐ shì yī zhǒng yán zhòng de fàn zuì,pedophilia is a serious crime
@@ -4170,7 +4170,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4169,美联储,měi lián chǔ,Federal Reserve,6,4,美国,USA,联邦,federal,储备,reserve,,,美联储公布了最新政策。,měi lián chǔ gōng bù le zuì xīn zhèng cè。,The Fed released new policy.
 4170,没有习惯,méi yǒu xí guàn,not used to it,6,,,,,,,,,,他没有习惯早起,tā méi yǒu xí guàn zǎo qǐ,he is not used to getting up early
 4171,没有终点,Méiyǒu zhōngdiǎn,No end,6,,,,,,,,,,人生的学习没有终点,rén shēng de xué xí méi yǒu zhōng diǎn,learning in life has no end
-4172,蒙面鬼,mēng miàn guǐ,Boo,6,3,蒙面,masked,鬼,ghost,,,,,蒙面鬼偷走了一颗星星,mēng miàn guǐ tōu zǒu le yī kē xīng xīng,Boo stole a star
+4172,蒙面鬼,méng miàn guǐ,Boo,6,3,蒙面,masked,鬼,ghost,,,,,蒙面鬼偷走了一颗星星,mēng miàn guǐ tōu zǒu le yī kē xīng xīng,Boo stole a star
 4173,盟友,méng yǒu,ally,6,3,联盟,alliance,朋友,friend,,,,,这两个国家是长期的战略盟友,zhè liǎng gè guó jiā shì cháng qī de zhàn lüè méng yǒu,The two countries are long-term strategic allies
 4174,迷彩,mí cǎi,camouflage,6,2,迷路,lost,彩虹,rainbow,,,,,他穿了一件迷彩服,tā chuān le yí jiàn mí cǎi fú,He wore camouflage clothing
 4175,密度,mì dù,density,6,3,亲密,intimate,程度,degree,,,,,这个材料的密度很高。,zhè gè cái liào de mì dù hěn gāo。,This material has high density.
@@ -4228,7 +4228,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4227,怕高,pà gāo,afraid of heights,6,3,害怕,afraid,高,tall,,,,,我有点怕高。,wǒ yǒu diǎn pà gāo,I’m a bit afraid of heights.
 4228,怕黑,pà hēi,afraid of the dark,6,3,害怕,afraid,黑,black,,,,,她小时候特别怕黑。,tā xiǎo shí hou tè bié pà hēi,She was very afraid of the dark as a child.
 4229,爬行动物,pá xíng dòng wù,reptile,6,1,爬行,crawl,动物,animal,,,,,蛇是典型的爬行动物。,shé shì diǎn xíng de pá xíng dòng wù.,snakes are typical reptiles.
-4230,排练,pái​ liàn,to rehearse,6,2,排队,to line up,练习,to practice,,,,,他们每天晚上都要排练舞蹈,tā men měi tiān wǎn shàng dōu yào pái liàn wǔ dǎo,they rehearse dance every evening
+4230,排练,pái liàn,to rehearse,6,2,排队,to line up,练习,to practice,,,,,他们每天晚上都要排练舞蹈,tā men měi tiān wǎn shàng dōu yào pái liàn wǔ dǎo,they rehearse dance every evening
 4231,排气,pái qì,to ventilate;exhaust,6,2,安排,to arrange,气,air,,,,,这辆车的排气声音很大,zhè liàng chē de páiqì shēngyīn hěn dà,this cars exhaust sound is very loud
 4232,排气扇,pái qì shàn,exhaust fan,6,3,排气,to ventilate;exhaust,扇,fan,,,,,厨房装了一个新的排气扇,chúfáng zhuāng le yī gè xīn de páiqìshàn,the kitchen has a new exhaust fan
 4233,排外,pái wài,xenophobic,6,3,排,row,外,foreign,,,,,他很排外,tā hěn páiwài,he is xenophobic
@@ -4336,7 +4336,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4335,三角恋情,sān jiǎo liàn qíng,love triangle,6,4,三角形,triangle,恋情,romantic love,,,,,他陷入了一段复杂的三角恋情,tā xiàn rù le yī duàn fù zá de sān jiǎo liàn qíng,He got caught in a complicated love triangle
 4336,三连蘑菇,sān lián mó gū,triple mushroom,6,,,,,,,,,,你获得了三连蘑菇,nǐ huò dé le sān lián mó gū,you got triple mushrooms
 4337,散漫,sǎn màn,undisciplined;lax,6,3,散步,take a walk,浪漫,romantic,,,,,他的工作态度有点散漫。,tā de gōng zuò tài dù yǒu diǎn sǎn màn,His work attitude is somewhat lax.
-4338,散养,sàn yǎng,free-range,6,2,散步,take a walk,养,raise,,,,,这家农场的鸡都是散养的。,zhè jiā nóng chǎng de jī dōu shì sàn yǎng de,The chickens on this farm are all free-range.
+4338,散养,sǎn yǎng,free-range,6,2,散步,take a walk,养,raise,,,,,这家农场的鸡都是散养的。,zhè jiā nóng chǎng de jī dōu shì sàn yǎng de,The chickens on this farm are all free-range.
 4339,扫地机器人,sǎo dì jī qì rén,robot vacuum,6,4,扫,sweep,地,ground,机器人,robot,,,我买了一个扫地机器人。,wǒ mǎi le yí gè sǎo dì jī qì rén。,I bought a robot vacuum.
 4340,扫描,sǎo miáo,to scan (code),6,3,扫,sweep,描述,to describe,,,,,请先扫描二维码。,qǐng xiān sǎo miáo èr wéi mǎ。,Please scan the QR code first.
 4341,嫂子,sǎo zi,sister-in-law (older brother’s wife),6,,,,,,,,,,嫂子经常给我带零食,sǎo zi jīng cháng gěi wǒ dài líng shí,My sister-in-law often brings me snacks
@@ -4351,7 +4351,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4350,闪电,shǎn diàn,lightning,6,2,闪,flash,电,electricity,,,,,昨晚有闪电,zuó wǎn yǒu shǎn diàn,there was lightning last night
 4351,闪婚,shǎn hūn,flash marriage,6,4,闪电,lightning,结婚,marry,,,,,他们认识一个月就闪婚了。,tā men rèn shi yí gè yuè jiù shǎn hūn le.,They got married after knowing each other for only a month.
 4352,删减,shān jiǎn,redaction;censorship,6,3,删除,delete,减少,reduce,,,,,内容被删减了。,nèi róng bèi shān jiǎn le,The content was cut.
-4353,闪闪,shǎn​ shǎn,flickering;twinkle;sparkle,6,2,闪,flash,闪,flash,,,,,星星在夜空中闪闪发光,xīng xīng zài yè kōng zhōng shǎn shǎn fā guāng,the stars are twinkling in the night sky
+4353,闪闪,shǎn shǎn,flickering;twinkle;sparkle,6,2,闪,flash,闪,flash,,,,,星星在夜空中闪闪发光,xīng xīng zài yè kōng zhōng shǎn shǎn fā guāng,the stars are twinkling in the night sky
 4354,善于社交,shàn yú shè jiāo,socialable,6,,,,,,,,,,他很善于社交,tā hěn shànyú shèjiāo,he is good at socializing
 4355,山寨,shān zhài,counterfeit,6,4,山,mountain,寨,village;camp,,,,,这手机是山寨货,shān zhài zhè shǒu jī shì shān zhài huò,this phone is a knockoff
 4356,商标,shāng biāo,trademark,6,2,商业,business,标志,sign,,,,,公司注册了新商标。,gōng sī zhù cè le xīn shāng biāo.,The company registered a new trademark.
@@ -4404,7 +4404,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4403,失业率,shī yè lǜ,unemployment rate,6,,,,,,,,,,这个城市的失业率下降了,zhè gè chéng shì de shī yè lǜ xià jiàng le,the unemployment rate in this city has dropped
 4404,室友,shì yǒu,roommate,6,1,室,room,朋友,friend,,,,,我的室友很友好,wǒ de shì yǒu hěn yǒu hǎo,my roommate is very friendly
 4405,石家庄,Shíjiāzhuāng,Shijiazhuang,6,3,石,stone,家,family,村庄,village,,,石家庄是河北的交通枢纽,Shíjiāzhuāng shì Héběi de jiāo tōng shū niǔ,Shijiazhuang is a transportation hub in Hebei
-4406,十一长假,shíyī cháng jiǎ,national day long holiday,6,3,十,ten,一,one,长假,long vacation,,,我们计划十一长假去旅游,wǒ men jì huà shí yī cháng jià qù lǚ yóu,we plan to travel during the national day holiday
+4406,十一长假,shí yī cháng jià,national day long holiday,6,3,十,ten,一,one,长假,long vacation,,,我们计划十一长假去旅游,wǒ men jì huà shí yī cháng jià qù lǚ yóu,we plan to travel during the national day holiday
 4407,手册,shǒu cè,manual;handbook,6,3,手,hand,注册,register,,,,,请先阅读使用手册。,qǐng xiān yuè dú shǐ yòng shǒu cè.,please read the manual first.
 4408,手串,shǒu chuàn,bead bracelet,6,2,手,hand,串,skewer,,,,,他戴着一串木质手串。,tā dài zhe yí chuàn mù zhì shǒu chuàn.,he is wearing a wooden bead bracelet.
 4409,手电筒,shǒu diàn tǒng,handheld flashlight,6,3,手,handheld,电,electric,筒,tube;cylinder,,,停电了，我用手电筒照明。,"tíng diàn le, wǒ yòng shǒu diàn tǒng zhào míng.","During the power outage, I used a flashlight to see."
@@ -4427,7 +4427,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4426,书面语,shū miàn yǔ,written language,6,4,书面,written,语言,language,,,,,这篇文章多用书面语。,zhè piān wénzhāng duō yòng shūmiànyǔ,This article mainly uses written language.
 4427,书签,shū qiān,bookmark,6,3,书,book,签,to sign one's name,,,,,我用书签标记了页面,wǒ yòng shū qiān biāo jì le yè miàn,i marked the page with a bookmark
 4428,输血,shū xuè,blood transfusion,6,3,运输,transportation,血,blood,,,,,输血科负责提供安全的血液。,shū xuè kē fù zé tí gōng ān quán de xuè yè。,The blood transfusion department provides safe blood。
-4429,鼠疫,shǔ​ yì,plague,6,1,鼠,rat,瘟疫,epidemic,,,,,历史上曾有鼠疫爆发,lì shǐ shàng céng yǒu shǔ yì bào fā,there was a plague outbreak in history
+4429,鼠疫,shǔ yì,plague,6,1,鼠,rat,瘟疫,epidemic,,,,,历史上曾有鼠疫爆发,lì shǐ shàng céng yǒu shǔ yì bào fā,there was a plague outbreak in history
 4430,刷单,shuā dān,to place fake orders to boost sales or reviews,6,4,刷,brush,订单,order,,,,,平台禁止商家通过刷单提高销量。,píng tái jìn zhǐ shāng jiā tōng guò shuā dān tí gāo xiāo liàng.,The platform prohibits sellers from using fake orders to boost sales.
 4431,刷剧,shuā jù,binge-watch shows,6,3,刷,swipe;brush,电视剧,tv drama,,,,,周末我在家刷剧。,zhōu mò wǒ zài jiā shuā jù,I binge-watch shows at home on weekends.
 4432,摔坏,shuāi huài,to break by falling,6,,,,,,,,,,玻璃杯摔坏了,bō lí bēi shuāi huài le,The glass cup broke
@@ -4521,7 +4521,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4520,推测,tuī cè,to speculate;conjecture,6,3,推,push,预测,to forecast,,,,,我只能推测他的想法,wǒ zhǐ néng tuī cè tā de xiǎng fǎ,I can only guess his thoughts
 4521,推荐信,tuī jiàn xìn,recommendation letter,6,4,推荐,recommend,信,a letter,,,,,老师帮我写推荐信。,lǎo shī bāng wǒ xiě tuī jiàn xìn,The teacher wrote me a recommendation letter.
 4522,囤货,tún huò,to stockpile,6,3,囤积,hoarding,货,goods,,,,,双十一之前很多人开始囤货。,shuāng shí yī zhī qián hěn duō rén kāi shǐ tún huò,Many people start stocking up before Singles’ Day.
-4523,豚鼠,tún​ shǔ,guinea pig,6,2,豚,piglet,鼠,rat,,,,,她养了一只豚鼠,tā yǎng le yī zhī tún shǔ,she has a guinea pig
+4523,豚鼠,tún shǔ,guinea pig,6,2,豚,piglet,鼠,rat,,,,,她养了一只豚鼠,tā yǎng le yī zhī tún shǔ,she has a guinea pig
 4524,吞咽,tūn yàn,swallow,6,,-,,,,,,,,他吞咽了一口水。,tā tūn yàn le yì kǒu shuǐ.,He swallowed a mouthful of water.
 4525,驼背,tuó bèi,hunchback,6,2,骆驼,camel,背,back,,,,,他年纪大了有点驼背,tā nián jì dà le yǒu diǎn tuó bèi,He has a slight hunchback in his old age
 4526,脱离,tuō lí,escape;breakaway,6,3,脱,to take off;shed,离开,to leave,,,,,他终于脱离了危险,tā zhōng yú tuō lí le wēi xiǎn,he finally escaped danger
@@ -4557,7 +4557,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4556,文言文,wén yán wén,classical Chinese writing,6,88,文言,classical Chinese,文字,writing,,,,,我在学文言文。,wǒ zài xué wén yán wén,I’m learning classical Chinese.
 4557,问诊,wèn zhěn,consultation (to get diagnosed),6,2,问,ask,诊断,diagnosis,,,,,病人正在网上问诊,bìng rén zhèng zài wǎng shàng wèn zhěn,the patient is consulting a doctor online
 4558,温州,Wēnzhōu,Wenzhou,6,3,温暖,warm,州,state,,,,,温州人以商业头脑著称,Wēnzhōu rén yǐ shāng yè tóu nǎo zhù chēng,People in Wenzhou are known for their business acumen
-4559,蜗牛,wō​ niú,snail,6,,,,,,,,,,蜗牛爬得很慢,wō niú pá de hěn màn,the snail crawls slowly
+4559,蜗牛,wō niú,snail,6,,,,,,,,,,蜗牛爬得很慢,wō niú pá de hěn màn,the snail crawls slowly
 4560,蜗牛盖瑞,wō niú gài ruì,Gary the Snail,6,,,,,,,,,,孩子喜欢蜗牛盖瑞玩具。,hái zi xǐ huān wō niú gài ruì wán jù.,The child likes the Snail Gary toy.
 4561,500强,wǔ bǎi qiáng,Fortune 500,6,,-,,,,,,,,他在一家500强公司工作。,tā zài yì jiā wǔ bǎi qiáng gōng sī gōng zuò.,He works for a Fortune Global 500 company.
 4562,误导性,wù dǎo xìng,potentially misleading,6,3,错误,mistake,指导,guide,性,nature,,,这个标题很有误导性。,zhè gè biāo tí hěn yǒu wù dǎo xìng,This title is misleading.
@@ -4566,7 +4566,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4565,物联网,wù lián wǎng,Internet of Things,6,3,物,thing,联网,networking,,,,,物联网技术发展很快。,wù lián wǎng jì shù fā zhǎn hěn kuài,IoT technology is developing rapidly.
 4566,污名,wū míng,stigma,6,1,污染,pollution,名,name,,,,,他努力摆脱社会的污名,tā nǔ lì bǎi tuō shè huì de wū míng,he worked hard to get rid of social stigma
 4567,无数,wú shù,countless;innumerable,6,2,无,no,数,number,,,,,夜空中有无数的星星,yè kōng zhōng yǒu wú shù de xīng xīng,there are countless stars in the night sky
-4568,舞台,wǔ​ tái,stage,6,2,跳舞,dance,平台,platform,,,,,他站在舞台上唱歌,tā zhàn zài wǔ tái shàng chàng gē,he is singing on the stage
+4568,舞台,wǔ tái,stage,6,2,跳舞,dance,平台,platform,,,,,他站在舞台上唱歌,tā zhàn zài wǔ tái shàng chàng gē,he is singing on the stage
 4569,舞台剧,wǔ tái jù,stage play,6,2,跳舞,dance,平台,platform,剧,剧本,screenplay,,这部舞台剧非常感人,zhè bù wǔ tái jù fēi cháng gǎn rén,This stage play is very touching
 4570,屋外,wū wài,outdoor,6,4,屋,room,外,outside,,,,,屋外下着雨,wū wài xià zhe yǔ,it is raining outside
 4571,五险一金,wǔ xiǎn yì jīn,five social insurances and one housing fund,6,4,五,five,保险,insurance,一,one,金,money,这家公司提供五险一金。,zhè jiā gōng sī tí gōng wǔ xiǎn yì jīn.,This company provides five insurances and one housing fund.
@@ -4588,7 +4588,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4587,夏令时,xià lìng shí,daylight saving time,6,3,夏天,summer,命令,order;command,时间,time,,,美国实行夏令时。,měi guó shí xíng xià lìng shí.,The U.S. uses daylight saving time.
 4588,下属,xià shǔ,subordinate,6,4,下,below,属于,belong to,,,,,他很关心自己的下属。,tā hěn guān xīn zì jǐ de xià shǔ.,He cares a lot about his subordinates.
 4589,夏威夷果,xià wēi yí guǒ,macadamia nut,6,2,夏威夷,Hawaii,果,fruit,,,,,夏威夷果口感很香。,xià wēi yí guǒ kǒu gǎn hěn xiāng.,macadamia nuts taste rich.
-4590,下旬,xià​ xún,end of the month,6,2,下,lower,旬,ten-day period,,,,,我下旬去旅行,Wǒ xiàxún qù lǚxíng,I will travel in late March
+4590,下旬,xià xún,end of the month,6,2,下,lower,旬,ten-day period,,,,,我下旬去旅行,Wǒ xiàxún qù lǚxíng,I will travel in late March
 4591,先辈,xiān bèi,ancestors;elders;predecessors,6,3,先,first,辈子,lifetime,,,,,我们要向先辈学习,wǒ men yào xiàng xiān bèi xué xí,we should learn from our predecessors
 4592,陷阱,xiàn jǐng,trap,6,,,,,,,,,,路上有一个陷阱,lù shàng yǒu yī gè xiàn jǐng,there is a trap on the road
 4593,先烈,xiān liè,martyr,6,3,先,first,激烈,intense,,,,,我们应该铭记为国家牺牲的先烈。,wǒ men yīng gāi míng jì wèi guó jiā xī shēng de xiān liè.,we should remember the martyrs who sacrificed for the country.
@@ -4598,7 +4598,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4597,嫌疑人,xián yí rén,a suspect,6,4,嫌,dislike,怀疑,to doubt;be skeptical of,人,person,,,警方已经锁定嫌疑人。,jǐng fāng yǐ jīng suǒ dìng xián yí rén,The police have identified the suspect.
 4598,先知,xiān zhī,prophet,6,1,先,first,知道,to know,,,,,他像先知一样预言了结果,tā xiàng xiān zhī yī yàng yù yán le jié guǒ,he predicted the result like a prophet
 4599,香港脚,xiāng gǎng jiǎo,athlete’s foot,6,2,香港,Hong Kong,脚,foot,,,,,他因为香港脚很痒,tā yīn wèi xiāng gǎng jiǎo hěn yǎng,He feels itchy because of athlete’s foot
-4600,相关性,xiāng guān xì,correlation,6,3,相关,related,性,nature,,,,,学习时间和成绩之间有很强的相关性,xué xí shí jiān hé chéng jì zhī jiān yǒu hěn qiáng de xiāng guān xì,there is strong correlation between study time and grades
+4600,相关性,xiāng guān xìng,correlation,6,3,相关,related,性,nature,,,,,学习时间和成绩之间有很强的相关性,xué xí shí jiān hé chéng jì zhī jiān yǒu hěn qiáng de xiāng guān xì,there is strong correlation between study time and grades
 4601,橡皮泥,xiàng pí ní,clay;playdough,6,3,橡皮,eraser;rubber,泥,mud;clay,,,,,孩子们用橡皮泥做小动物,hái zi men yòng xiàng pí ní zuò xiǎo dòng wù,The children made little animals with clay
 4602,象棋,xiàng qí,chinese chess,6,2,象,elephant,棋,chess,,,,,他们在下象棋,tā men zài xià xiàng qí,they are playing Chinese chess
 4603,详情,xiáng qíng,details (page),6,4,详细,detailed,情,feeling,,,,,请看活动详情,qǐng kàn huó dòng xiáng qíng,please see event details
@@ -4699,7 +4699,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 4698,硬币,yìng bì,coin,6,1,硬,hard,货币,currency,,,,,桌上有几枚硬币,zhuō shàng yǒu jǐ méi yìng bì,there are some coins on the table
 4699,婴儿床,yīng ér chuáng,crib,6,1,婴儿,baby,床,bed,,,,,婴儿床很安全。,yīng ér chuáng hěn ān quán.,the crib is safe.
 4700,应季,yìng jì,in season;seasonal,6,4,应该,should,季节,season,,,,,应季蔬菜更新鲜。,yìng jì shū cài gèng xīn xiān.,Seasonal vegetables are fresher.
-4701,英里,yīng ​lǐ,mile,6,3,英,England,公里,kilometer,,,,,这里距离市中心五英里,zhè lǐ jù lí shì zhōng xīn wǔ yīng lǐ,it is five miles from the city center
+4701,英里,yīng lǐ,mile,6,3,英,England,公里,kilometer,,,,,这里距离市中心五英里,zhè lǐ jù lí shì zhōng xīn wǔ yīng lǐ,it is five miles from the city center
 4702,英文字幕,yīng wén zì mù,English subtitles,6,,,,,,,,,,我在找家有儿女英文字幕,wǒ zài zhǎo jiā yǒu ér nǚ yīng wén zì mù,I am looking for English subtitles of Home with Kids
 4703,鹦鹉,yīng wǔ,parrot,6,,-,,,,,,,,鹦鹉会模仿人说话。,yīng wǔ huì mó fǎng rén shuō huà.,The parrot can imitate human speech.
 4704,泳池,yǒng chí,swimming pool,6,3,游泳,swim,池,pond,,,,,孩子们在泳池里玩得很开心,hái zi men zài yǒng chí lǐ wán de hěn kāi xīn,The kids are having fun in the pool
@@ -5016,7 +5016,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5015,灯泡,dēng pào,light bulb;third wheel,7,2,灯,lamp,泡,bubble,,,,,他们约会还带了个灯泡,tēng pào tā men yuē huì hái dài le gè dēng pào,they even brought a third wheel on their date
 5016,蒂华纳,dì huá nà,Tijuana,7,,,,,,,,,,蒂华纳在美墨边境,dìhuánà zài měi mò biānjìng,Tijuana is on the US Mexico border
 5017,DQ,dí kù,Dairy Queen,7,,,,,,,,,,DQ的冰淇淋在夏天特别畅销,dí kù de bīng qí lín zài xià tiān tè bié chàng xiāo,Dairy Queen ice cream sells especially well in summer
-5018,地狱,dì​ yù,hell,7,2,地球,earth,监狱,prison,,,,,他觉得生活像地狱一样,tā jué dé shēng huó xiàng dì yù yī yàng,he feels life is like hell
+5018,地狱,dì yù,hell,7,2,地球,earth,监狱,prison,,,,,他觉得生活像地狱一样,tā jué dé shēng huó xiàng dì yù yī yàng,he feels life is like hell
 5019,地域,dì yù,region;area,7,4,地,land,领域,field,,,,,中国地域辽阔,zhōng guó dì yù liáo kuò,China has a vast territory
 5020,笛子,dí zi,bamboo flute,7,,-,,,,,,,,笛子音色清亮。,dí zi yīn sè qīng liàng.,the flute has a clear tone.
 5021,电动汽车牌子,diàn dòng qì chē pái zǐ,electric car brand,7,,,,,,,,,,特斯拉是很有名的电动汽车牌子,tè sī lā shì hěn yǒu míng de diàn dòng qì chē pái zi,Tesla is a famous electric car brand
@@ -5279,7 +5279,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5278,老年医学科,lǎo nián yī xué kē,geriatrics department,7,4,老年,old age,医,medicine,学科,subject,,,老年医学科专门照顾老人,lǎo nián yī xué kē zhuān mén zhào gù lǎo rén,The geriatrics department specializes in elderly care
 5279,老破小,lǎo pò xiǎo,old small rundown apartment,7,4,老,old,破,broken,小,small,,,他买了一套老破小。,tā mǎi le yí tào lǎo pò xiǎo.,He bought an old rundown apartment.
 5280,老乡鸡,lǎo xiāng jī,Laoxiangji,7,3,老,old,乡,township,鸡,chicken,,,老乡鸡卖的是安徽家常菜,lǎo xiāng jī mài de shì ān huī jiā cháng cài,Laoxiangji serves Anhui homestyle food
-5281,老鹰,lǎo​ yīng,hawk,7,1,老,old,鹰,eagle,,,,,老鹰在高空盘旋,lǎo yīng zài gāo kōng pán xuán,the eagle is circling in the sky
+5281,老鹰,lǎo yīng,hawk,7,1,老,old,鹰,eagle,,,,,老鹰在高空盘旋,lǎo yīng zài gāo kōng pán xuán,the eagle is circling in the sky
 5282,乐高,lè gāo,lego,7,2,快乐,happy,高,high,,,,,孩子很喜欢拼乐高。,hái zi hěn xǐ huān pīn lè gāo.,kids love building with lego.
 5283,雷达,léi dá,radar,7,4,雷,thunder,达,to arrive at,,,,,船上装了雷达,Chuán shàng zhuāng le léidá,The ship is equipped with radar
 5284,雷鬼,léi guǐ,reggae,7,3,雷,thunder,鬼,ghost,,,,,雷鬼音乐起源于牙买加。,léi guǐ yīn yuè qǐ yuán yú yá mǎi jiā.,Reggae music originated in Jamaica.
@@ -5570,7 +5570,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5569,输液,shū yè,infusion;I.V.,7,2,运输,to transport,血液,blood,,,,,输液室里有很多病人在输液,shū yè shì lǐ yǒu hěn duō bìng rén zài shū yè,There are many patients receiving infusions
 5570,输液架,shū yè jià,iv stand,7,2,运输,transport,液,liquid,架,rack,,,输液架放在病床旁。,shū yè jià fàng zài bìng chuáng páng.,the iv stand is beside the hospital bed.
 5571,甩手掌柜,shuǎi shǒu zhǎng guì,hands-off boss;arm-flinging shopkeeper,7,4,甩手,to shrug off;wash hands of;swing arms,掌柜,shopkeeper,,,,,他当老板却是个甩手掌柜。,tā dāng lǎo bǎn què shì gè shuǎi shǒu zhǎng guì,He’s a boss who leaves everything to others.
-5572,双胞胎,shuāng ​bāo ​tāi,twins,7,1,双,double,细胞,cell,胎,unborn child;fetus,,,她生了一对双胞胎,Tā shēng le yī duì shuāngbāotāi,She gave birth to twins
+5572,双胞胎,shuāng bāo tāi,twins,7,1,双,double,细胞,cell,胎,unborn child;fetus,,,她生了一对双胞胎,Tā shēng le yī duì shuāngbāotāi,She gave birth to twins
 5573,双向奔赴,shuāng xiàng bēn fù,two people in love,7,4,双,pair,向,towards,奔赴,rush to,,,真正的爱情是双向奔赴,shuāng xiàng bēn fù zhēn zhèng de ài qíng shì shuāng xiàng bēn fù,true love is about mutual effort
 5574,水平尺,shuǐ píng chǐ,level (tool),7,2,水平的,horizontal,尺子,ruler,,,,,安装书架时用水平尺。,ān zhuāng shū jià shí yòng shuǐ píng chǐ.,Use a level when installing the bookshelf.
 5575,水星,shuǐ xīng,Mercury,7,2,水,water,星,star,,,,,水星离太阳最近。,shuǐ xīng lí tài yáng zuì jìn.,mercury is closest to the sun.
@@ -5609,7 +5609,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5608,体力活,tǐ lì huó,manual labor,7,3,身体,body,力量,strength,干活,to work,,,这是体力活。,zhè shì tǐ lì huó.,This is physical labor.
 5609,天津市,tiān jīn shì,Tianjin Municipality,7,5,天,sky,津,(uncommon),市,city,,,天津靠近北京。,tiān jīn kào jìn běi jīng,Tianjin is close to Beijing.
 5610,天平,tiān píng,balance scale,7,3,天空,sky,平衡,balance,,,,,实验室里有天平。,shí yàn shì lǐ yǒu tiān píng.,there is a balance scale in the lab.
-5611,田鼠,tián​ shǔ,vole,7,2,田,field,鼠,rat,,,,,田野里有很多田鼠,tián yě lǐ yǒu hěn duō tián shǔ,there are many field mice in the field
+5611,田鼠,tián shǔ,vole,7,2,田,field,鼠,rat,,,,,田野里有很多田鼠,tián yě lǐ yǒu hěn duō tián shǔ,there are many field mice in the field
 5612,天王星,tiān wáng xīng,Uranus,7,2,天空,sky,王,king,星,star,,,天王星自转独特。,tiān wáng xīng zì zhuǎn dú tè.,uranus rotates uniquely.
 5613,天主教,tiān zhǔ jiào,Catholicism,7,2,天,God,主,master,宗教,religion,,,他信仰天主教,Tā xìnyǎng Tiānzhǔjiào,He practices Catholicism
 5614,舔爪子,tiǎn zhuǎ zi,lick paws,7,,,,,,,,,,猫经常舔爪子清洁自己。,māo jīng cháng tiǎn zhuǎ zi qīng jié zì jǐ.,Cats often lick their paws to clean themselves.
@@ -5791,7 +5791,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5790,应县木塔,yìng xiàn mù tǎ,"Yingxian Wooden Pagoda (Shanxi), ancient wooden pagoda",7,4,应该,should,县,county,木头,wood,宝塔,pagoda,应县木塔是纯木结构。,yīng xiàn mù tǎ shì chún mù jié gòu,Yingxian Wooden Pagoda is entirely wooden.
 5791,英雄联盟,yīng xióng lián méng,League of Legends,7,3,英雄,hero,联盟,alliance,,,,,英雄联盟在年轻人中非常流行。,yīng xióng lián méng zài nián qīng rén zhōng fēi cháng liú xíng.,league of legends is very popular among young people.
 5792,义乌,Yìwū,Yiwu,7,4,义务,duty,乌鸦,crow,,,,,义乌以小商品市场闻名,Yìwū yǐ xiǎo shāng pǐn shì chǎng wén míng,Yiwu is famous for its small commodities market
-5793,宜兴,Yíxìng,Yixing,7,4,便宜,cheap,高兴,happy,,,,,宜兴以紫砂壶著名,Yíxìng yǐ zǐ shā hú zhù míng,Yixing is famous for its purple clay teapots
+5793,宜兴,Yí xīng,Yixing,7,4,便宜,cheap,高兴,happy,,,,,宜兴以紫砂壶著名,Yíxìng yǐ zǐ shā hú zhù míng,Yixing is famous for its purple clay teapots
 5794,雍和宫,yōng hé gōng,"Lama Temple (Beijing), Tibetan Buddhist temple",7,,-,,,,,,,,雍和宫是北京著名寺庙。,yōng hé gōng shì běi jīng zhù míng sì miào,Yonghe Temple is a famous Beijing temple.
 5795,YYDS,yǒng yuǎn de shén,GOAT;forever god,7,,,,,,,,,,这位歌手是我的偶像简直YYDS,zhè wèi gēshǒu shì wǒ de ǒuxiàng jiǎnzhí YYDS,this singer is my idol forever the best
 5796,有反应,yǒu fǎn yìng,got a reaction,7,,,,,,,,,,他看了之后立刻有反应。,Tā kàn le zhīhòu lìkè yǒu fǎnyìng.,He immediately got horny after seeing it.
@@ -5955,7 +5955,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 5954,大妈,dà mā,aunt;father's elder brother's wife,8,4,大,big,妈,mom,,,,,那位大妈很热心,nà wèi dà mā hěn rè xīn,That middle-aged woman is very warm-hearted
 5955,大马人,dà mǎ rén,Malaysian (person),8,3,大,big,马,horse,人,person,,,我有一个朋友是大马人,wǒ yǒu yī gè péng yǒu shì dà mǎ rén,i have a friend from malaysia
 5956,大米先生,dà mǐ xiān shēng,Mr Rice,8,,,,,,,,,,大米先生的快餐很受学生欢迎,dà mǐ xiān shēng de kuài cān hěn shòu xué shēng huān yíng,Mr Rice fast food is popular among students
-5957,大难题,dà nàn tí,big problem,8,,,,,,,,,,这个问题对我们来说是个大难题,zhè gè wèn tí duì wǒ men lái shuō shì gè dà nán tí,this problem is a big challenge for us
+5957,大难题,dà nán tí,big problem,8,,,,,,,,,,这个问题对我们来说是个大难题,zhè gè wèn tí duì wǒ men lái shuō shì gè dà nán tí,this problem is a big challenge for us
 5958,大娘水饺,dà niáng shuǐ jiǎo,Daniang Dumplings,8,,,,,,,,,,大娘水饺有很多种馅,dà niáng shuǐ jiǎo yǒu hěn duō zhǒng xiàn,Daniang Dumplings offers many fillings
 5959,大炮,dà pào,cannon,8,,,,,,,,,,城墙上有一门大炮,Chéngqiáng shàng yǒu yì mén dàpào,There is a cannon on the city wall
 5960,大卫布莱恩,dà wèi bù lái ēn,David Blaine,8,,-,,,,,,,,大卫·布莱恩的魔术很震撼。,dà wèi · bù lái ēn de mó shù hěn zhèn hàn.,david blaine’s magic is astonishing.
@@ -6015,12 +6015,12 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6014,挂号收费处,guà hào shōu fèi chù,registration and payment counter,8,,,,,,,,,,他去挂号收费处缴费,tā qù guà hào shōu fèi chù jiǎo fèi,He went to the registration counter to pay
 6015,关岛,guān dǎo,Guam,8,3,关,close,岛,island,,,,,关岛是美国的海外领地,guān dǎo shì měi guó de hǎi wài lǐng dì,guam is a us territory
 6016,古典园林,Gǔdiǎn yuánlín,Classical Gardens,8,,,,,,,,,,苏州有许多古典园林,sū zhōu yǒu xǔ duō gǔ diǎn yuán lín,suzhou has many classical gardens
-6017,菌菇,gūn gū,mushrooms,8,,,,,,,,,,汤里放了很多菌菇,tāng lǐ fàng le hěn duō jūn gū,the soup has many mushrooms
+6017,菌菇,jūn gū,mushrooms,8,,,,,,,,,,汤里放了很多菌菇,tāng lǐ fàng le hěn duō jūn gū,the soup has many mushrooms
 6018,果冰沙,Guǒ bīng shā,fruit smoothie,8,,,,,,,,,,夏天喝果冰沙很凉爽,xià tiān hē guǒ bīng shā hěn liáng shuǎng,fruit smoothies are refreshing in summer
 6019,海草,hǎi cǎo,seaweed,8,,,,,,,,,,海里有很多海草,hǎi lǐ yǒu hěn duō hǎi cǎo,There is a lot of seaweed in the sea
 6020,海得拉巴,hǎi dé lā bā,Hyderabad,8,,,,,,,,,,海得拉巴是印度的历史名城,hǎi dé lā bā shì yìn dù de lì shǐ míng chéng,Hyderabad is a historic city in India
 6021,海地,hǎi dì,Haiti,8,3,海,sea,地,land,,,,,海地是加勒比海的一个国家,hǎi dì shì jiā lè bǐ hǎi de yī gè guó jiā,haiti is a country in the caribbean
-6022,海葵,hǎi​ kuí,sea ​​anemone,8,3,海,sea,向日葵,sunflower,,,,,海里有很多海葵,hǎi lǐ yǒu hěn duō hǎi kuí,there are many sea anemones in the ocean
+6022,海葵,hǎi kuí,sea ​​anemone,8,3,海,sea,向日葵,sunflower,,,,,海里有很多海葵,hǎi lǐ yǒu hěn duō hǎi kuí,there are many sea anemones in the ocean
 6023,海带丝,Hǎidài sī,shredded kelp,8,,,,,,,,,,凉拌海带丝很清爽,liáng bàn hǎi dài sī hěn qīng shuǎng,cold kelp shreds taste refreshing
 6024,海苔碎,Hǎitái suì,Shredded seaweed,8,,,,,,,,,,饭团上撒了海苔碎,fàn tuán shàng sǎ le hǎi tái suì,the rice ball is topped with seaweed flakes
 6025,寒假,hán jià,winter vacation,8,3,寒,cold,假期,vacation,,,,,学生们期待寒假,xué shēng men qī dài hán jià,students are looking forward to winter vacation
@@ -6034,7 +6034,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6033,荷兰芹,hé lán qín,parsley,8,3,荷兰,Netherlands,芹,celery,,,,,汤里放了点荷兰芹,tāng lǐ fàng le diǎn hé lán qín,there is some parsley in the soup
 6034,荷兰猪,hé lán zhū,guinea pig,8,3,荷兰,Netherlands,猪,pig,,,,,她养了一只荷兰猪,tā yǎng le yī zhī hé lán zhū,she has a guinea pig
 6035,河狸,hé lí,beaver,8,3,河,river,狐狸,fox,,,,,河狸在筑坝,hé lí zài zhù bà,beavers are building a dam
-6036,河豚,hé​ tún,puffer fish,8,3,河,river,豚,piglet,,,,,河豚有毒,hé tún yǒu dú,blowfish are poisonous
+6036,河豚,hé tún,puffer fish,8,3,河,river,豚,piglet,,,,,河豚有毒,hé tún yǒu dú,blowfish are poisonous
 6037,很有实力,Hěn yǒu shílì,Very capable,8,,,,,,,,,,这家公司很有实力,zhè jiā gōng sī hěn yǒu shí lì,This company is very strong
 6038,横向,héng xiàng,horizontal,8,,,,,,,,,,请把纸横向放置,qǐng bǎ zhǐ héng xiàng fàng zhì,please place the paper horizontally
 6039,胡迪尼,hú dí ní,Houdini,8,,-,,,,,,,,胡迪尼以逃脱魔术闻名。,hú dí ní yǐ táo tuō mó shù wén míng.,houdini was famous for escape magic.
@@ -6070,12 +6070,12 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6069,家庭状况,Jiātíng zhuàngkuàng,Family status,8,,,,,,,,,,我们需要了解家庭状况,wǒ men xū yào liǎo jiě jiā tíng zhuàng kuàng,We need to understand the family situation
 6070,借书证,jiè shū zhèng,library card,8,3,借,to borrow,书,book,身份证,identity card,,,你办过借书证吗,nǐ bàn guò jiè shū zhèng ma,do you have a library card
 6071,街头霸王,jiē tóu bà wáng,Street Fighter,8,4,街头,street,霸王,overlord,,,,,街头霸王是一款经典格斗游戏。,jiē tóu bà wáng shì yí kuǎn jīng diǎn gé dòu yóu xì.,street fighter is a classic fighting game.
-6072,金桔,jīn jié,kumquat,8,3,金,metal,桔子,tangerine,,,,,这杯果汁里有金桔,zhè bēi guǒ zhī lǐ yǒu jīn jú,this juice has kumquat inside
+6072,金桔,jīn jú,kumquat,8,3,金,metal,桔子,tangerine,,,,,这杯果汁里有金桔,zhè bēi guǒ zhī lǐ yǒu jīn jú,this juice has kumquat inside
 6073,金沙萨,jīn shā sà,Kinshasa,8,,,,,,,,,,金沙萨的音乐和舞蹈非常有活力。,jīn shā sà de yīn yuè hé wǔ dǎo fēi cháng yǒu huó lì.,Kinshasa’s music and dance are full of energy.
 6074,景点,jǐng diǎn,attractions;scenic spot,8,3,,景,scenery,点,point,,,,北京有很多著名景点,běi jīng yǒu hěn duō zhù míng jǐng diǎn,beijing has many famous attractions
 6075,静脉置管护理门诊,jìng mài zhì guǎn hù lǐ mén zhěn,intravenous catheter care clinic,8,,,,,,,,,,静脉置管护理门诊负责导管护理,jìng mài zhì guǎn hù lǐ mén zhěn fù zé dǎo guǎn hù lǐ,The IV catheter care clinic handles catheter maintenance
 6076,晶球,jīng qiú,Crystal ball / boba,8,,,,,,,,,,饮料里加了晶球,yǐn liào lǐ jiā le jīng qiú,the drink has crystal balls inside
-6077,净身高,Jìng shēngāo,Net height (without shoes),8,,,,,,,,,,他的净身高是一米八,tā de jìng shēn gāo shì yī mǐ bā,His net height is 1.8 meters
+6077,净身高,Jìng shēn gāo,Net height (without shoes),8,,,,,,,,,,他的净身高是一米八,tā de jìng shēn gāo shì yī mǐ bā,His net height is 1.8 meters
 6078,精英,jīng yīng,elite,8,2,精神,spirit,英,England,,,,,他是行业里的精英,tā shì háng yè lǐ de jīng yīng,he is an elite in the industry
 6079,舅甥,jiù shēng,child of maternal uncle (formal),8,,,,,,,,,,舅甥一起去旅行了。,jiùshēng yīqǐ qù lǚxíng le,The uncle and his nephew/niece traveled together.
 6080,距此,jù cǐ,distance from here,8,4,距离,distance,此地,here,,,,,学校距此只有一公里,xué xiào jù cǐ zhǐ yǒu yī gōng lǐ,The school is only one kilometer from here
@@ -6103,7 +6103,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6102,里约热内卢,lǐ yuē rè nèi lú,Rio de Janeiro,8,,,,,,,,,,里约热内卢以狂欢节著名,lǐ yuē rè nèi lú yǐ kuáng huān jié zhù míng,Rio de Janeiro is famous for its carnival
 6103,两广,liǎng guǎng,Guangdong and Guangxi,8,4,两,two,广东,Guangdong,,,,,两广地区气候湿润,liǎng guǎng dì qū qì hòu shī rùn,the climate in guangdong and guangxi is humid
 6104,亮点特色,Liàngdiǎn tèsè,Highlights,8,,,,,,,,,,这次活动有几个亮点特色,zhè cì huó dòng yǒu jǐ gè liàng diǎn tè sè,this event has several highlights
-6105,猎鹰,liè ​yīng,falcon,8,2,猎,hunt,鹰,eagle,,,,,猎鹰的速度很快,liè yīng de sù dù hěn kuài,falcons are very fast
+6105,猎鹰,liè yīng,falcon,8,2,猎,hunt,鹰,eagle,,,,,猎鹰的速度很快,liè yīng de sù dù hěn kuài,falcons are very fast
 6106,林肯,lín kěn,Abraham Lincoln,8,,-,,,,,,,,林肯是美国著名总统。,lín kěn shì měi guó zhù míng zǒng tǒng.,lincoln was a famous us president.
 6107,灵魂共鸣,líng hún gòng míng,spiritual compatibility;soul resonance,8,,,,,,,,,,这首歌让我产生灵魂共鸣,zhè shǒu gē ràng wǒ chǎn shēng líng hún gòng míng,This song gives me a resonance of the soul
 6108,浏览,liú lǎn,(number of) views;to browse,8,,,,,,,,,,我喜欢浏览新闻,wǒ xǐ huān liú lǎn xīn wén,I like browsing news
@@ -6147,7 +6147,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6146,疲劳,pí láo,exhausting;fatigue,8,,,,,,,,,,长时间工作会让人感到疲劳,cháng shí jiān gōng zuò huì ràng rén gǎn dào pí láo,long hours of work make people feel tired
 6147,偏度,piān dù,skewness,8,2,偏,to lean,度,degree,,,,,偏度可以说明数据分布的对称性,piān dù kě yǐ shuō míng shù jù fēn bù de duì chèn xìng,skewness shows the symmetry of data distribution
 6148,瓢,piáo,ladle made from dried gourd,8,,-,,,,,,,,他用瓢打水,tā yòng piáo dǎ shuǐ,He used a ladle to scoop water
-6149,撇号,piē hào,apostrophe,8,,,,,,,,,,请在这里加一个撇号,qǐng zài zhè lǐ jiā yī gè piě hào,Please add an apostrophe here
+6149,撇号,piě hào,apostrophe,8,,,,,,,,,,请在这里加一个撇号,qǐng zài zhè lǐ jiā yī gè piě hào,Please add an apostrophe here
 6150,菩提,pú tí,Bodhi (wood bracelet),8,3,菩萨,Bodhisattva (Buddhism),提,to hold in hand,,,,,菩提树下佛祖悟道,pú tí shù xià fó zǔ wù dào,The Buddha attained enlightenment under the Bodhi tree
 6151,前提条件,qián tí tiáo jiàn,prerequisite,8,2,前提,premise,条件,condition,,,,,成功的前提条件是努力,chéng gōng de qián tí tiáo jiàn shì nǔ lì,the prerequisite for success is hard work
 6152,禽龙,qín lóng,iguanodon,8,2,家禽,poultry,恐龙,dinosaur,,,,,禽龙是草食恐龙。,qín lóng shì cǎo shí kǒng lóng.,iguanodon was a herbivorous dinosaur.
@@ -6183,7 +6183,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6182,使命召唤,shǐ mìng zhào huàn,Call of Duty,8,4,使命,mission,召唤,summon,,,,,使命召唤的画面很真实。,shǐ mìng zhào huàn de huà miàn hěn zhēn shí.,call of duty has very realistic graphics.
 6183,实用信息,Shíyòng xìnxī,Useful Information,8,,,,,,,,,,网站上有很多实用信息,wǎng zhàn shàng yǒu hěn duō shí yòng xìn xī,The website has a lot of useful information
 6184,收获,shōu huò,gains;harvest;payoff,8,,,,,,,,,,他在学习中有很多收获,tā zài xué xí zhōng yǒu hěn duō shōu huò,He gained a lot from studying
-6185,手榴弹,shǒu ​liú ​dàn,hand grenade,8,1,手,hand,石榴,pomegranate,子弹,bullet,,,他扔出了一枚手榴弹,tā rēng chū le yī méi shǒu liú dàn,he threw a grenade
+6185,手榴弹,shǒu liú dàn,hand grenade,8,1,手,hand,石榴,pomegranate,子弹,bullet,,,他扔出了一枚手榴弹,tā rēng chū le yī méi shǒu liú dàn,he threw a grenade
 6186,手持花洒,Shǒuchí huā sǎ,Handheld Shower,8,,,,,,,,,,浴室里有手持花洒,yù shì lǐ yǒu shǒu chí huā sǎ,The bathroom has a handheld showerhead
 6187,收入具佳,Shōurù jù jiā,Good income,8,,,,,,,,,,她的收入具佳,tā de shōu rù jù jiā,Her income is quite good
 6188,数据完整性,shù jù wán zhěng xìng,data integrity,8,,,,,,,,,,必须保证数据完整性,bì xū bǎo zhèng shù jù wán zhěng xìng,We must ensure data integrity
@@ -6253,7 +6253,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6252,想喷,xiǎng pēn,to vent,8,3,想,to want,喷,to spurt,,,,,他听到笑话就想喷茶,tā tīng dào xiào huà jiù xiǎng pēn chá,he almost spat tea when he heard the joke
 6253,箱型图,xiāng xíng tú,box plot,8,4,箱,box,型,type,图表,chart,,,用箱型图可以看到异常,yòng xiāng xíng tú kě yǐ kàn dào yì cháng,You can see outliers with a box plot
 6254,校霸,Xiào bà,School Bully,8,,,,,,,,,,他是学校的校霸,tā shì xué xiào de xiào bà,He is the school bully
-6255,消毒供应中心,xiāo dú gòng yìng zhōng xīn,Central sterile supply department,8,,,,,,,,,,消毒供应中心每天都要进行严格检查。,xiāo dú gòng yìng zhōng xīn měi tiān dōu yào jìn xíng yán gé jiǎn chá。,The disinfection supply center is inspected strictly every day。
+6255,消毒供应中心,xiāo dú gōng yìng zhōng xīn,Central sterile supply department,8,,,,,,,,,,消毒供应中心每天都要进行严格检查。,xiāo dú gòng yìng zhōng xīn měi tiān dōu yào jìn xíng yán gé jiǎn chá。,The disinfection supply center is inspected strictly every day。
 6256,消防员,xiāo fáng yuán,Firefighter,8,,,,,,,,,,消防员救了很多人,xiāo fáng yuán jiù le hěn duō rén,The firefighter saved many people
 6257,小怪兽,xiǎo guài shòu,little monster,8,5,小,little,怪兽,monster,,,,,那部电影里的小怪兽很可爱,nà bù diàn yǐng lǐ de xiǎo guài shòu hěn kě ài,The little monster in that movie was cute
 6258,小红帽,xiǎo hóng mào,Little Red Riding Hood,8,3,小,little,红,red,帽子,hat,,,小红帽遇到了大灰狼。,xiǎo hóng mào yù dào le dà huī láng.,little red riding hood met the big bad wolf.
@@ -6271,7 +6271,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6270,学术研究,Xuéshù yánjiū,Academic Research,8,,,,,,,,,,她喜欢学术研究,tā xǐ huan xué shù yán jiū,She likes academic research
 6271,询价,Xún jià,inquire price,8,,,,,,,,,,我打电话去询价,wǒ dǎ diàn huà qù xún jià,i called to ask for a price
 6272,迅猛龙,xùn měng lóng,velociraptor,8,2,迅速,rapid,凶猛,fierce,恐龙,dinosaur,,,迅猛龙行动敏捷。,xùn měng lóng xíng dòng mǐn jié.,velociraptors are agile.
-6273,亚的斯亚贝巴,yà de sī yà bèi bā,Addis Ababa,8,,,,,,,,,,他在亚的斯亚贝巴工作,tā zài yàdesīyàbèibā gōngzuò,he works in Addis Ababa
+6273,亚的斯亚贝巴,yà dì sī yà bèi bā,Addis Ababa,8,,,,,,,,,,他在亚的斯亚贝巴工作,tā zài yàdesīyàbèibā gōngzuò,he works in Addis Ababa
 6274,鸭嘴兽,yā zuǐ shòu,platypus,8,1,鸭,duck,嘴巴,mouth,兽,beast,,,鸭嘴兽很特别,yā zuǐ shòu hěn tè bié,the platypus is very special
 6275,延毕,yán bì,Delayed graduation,8,3,延迟,delayed,毕业,graduation,,,,,他因为生病要延毕,tā yīn wèi shēng bìng yào yán bì,he will delay graduation because of illness
 6276,演变,yǎn biàn,evolution,8,3,演员,actor,改变,to change,,,,,语言会不断演变,yǔ yán huì bú duàn yǎn biàn,Language keeps evolving
@@ -6292,7 +6292,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6291,姨甥,yí shēng,child of aunt (formal),8,,,,,,,,,,她常常带姨甥去公园玩。,tā chángcháng dài yíshēng qù gōngyuán wán,She often takes her nephew to the park.
 6292,遗书,yí shū,suicide note,8,2,遗,regrets,书,book,,,,,桌子上留有一封遗书,zhuō zi shàng liú yǒu yī fēng yí shū,there is a suicide note on the table
 6293,医务社工部,yī wù shè gōng bù,medical social work department,8,,,,,,,,,,医务社工部为患者提供支持,yī wù shè gōng bù wéi huàn zhě tí gōng zhī chí,The social work department supports patients
-6294,移植,yí​ zhí,transplant,8,3,移动,to move,植物,plants,,,,,医生给他做了心脏移植,yī shēng gěi tā zuò le xīn zàng yí zhí,the doctor gave him a heart transplant
+6294,移植,yí zhí,transplant,8,3,移动,to move,植物,plants,,,,,医生给他做了心脏移植,yī shēng gěi tā zuò le xīn zàng yí zhí,the doctor gave him a heart transplant
 6295,银行账户,yín háng zhàng hù,bank account,8,,,,,,,,,,有人试图入侵她的银行账户,yǒu rén shì tú rù qīn tā de yín háng zhàng hù,someone tried to hack her bank account
 6296,英国卫报,yīng guó wèi bào,The Guardian,8,4,英国,UK,保卫,to defend;guard,报纸,newspaper,,,英国卫报发表了一篇评论。,yīng guó wèi bào fā biǎo le yì piān píng lùn。,The Guardian published an opinion piece.
 6297,影迷,yǐng mí,Movie fans,8,,,,,,,,,,她是个电影影迷,tā shì gè diàn yǐng yǐng mí,She is a movie fan
@@ -6341,7 +6341,7 @@ id,chinese,pinyin,english,priority,quality,word1,word1_english,word2,word2_engli
 6340,中医科,zhōng yī kē,traditional Chinese medicine department,8,,,,,,,,,,中医科提供针灸和草药治疗,zhōng yī kē tí gōng zhēn jiǔ hé cǎo yào zhì liáo,The TCM department offers acupuncture and herbal treatments
 6341,重要性,Zhòngyào xìng,importance,8,,,,,,,,,,老师强调了安全的重要性,lǎo shī qiáng diào le ān quán de zhòng yào xìng,The teacher emphasized the importance of safety
 6342,专升本,zhuān shēng běn,Bachelor's degree,8,,,,,,,,,,他正在准备专升本考试,tā zhèng zài zhǔn bèi zhuān shēng běn kǎo shì,He is preparing for the exam to upgrade from junior college to university
-6343,转速,zhuǎn sù,angular velocity;rotation speed (of washer),8,2,转,turn,速度,speed,,,,,请调低转速,qǐng tiáo dī zhuàn sù,Please lower the rotation speed
+6343,转速,zhuàn sù,angular velocity;rotation speed (of washer),8,2,转,turn,速度,speed,,,,,请调低转速,qǐng tiáo dī zhuàn sù,Please lower the rotation speed
 6344,庄园,zhuāng yuán,plantation;manor,8,,,,,,,,,,他们住在一座庄园里,tā men zhù zài yī zuò zhuāng yuán lǐ,they live in a manor
 6345,自习室,zì xí shì,study room,8,,,,,,,,,,图书馆有一个自习室,tú shū guǎn yǒu yī gè zì xí shì,the library has a self study room
 6346,孜香,zī xiāng,cumin,8,,,,,,,,,,这道菜很有孜香味,zhè dào cài hěn yǒu zī xiāng wèi,this dish has cumin flavor
